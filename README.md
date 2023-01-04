@@ -21,7 +21,7 @@
 [![Lion](https://github.com/696-eth/evmavericks-weekly/blob/main/base1.png)](https://dao.evmavericks.xyz)
 
 ##
-![ens](https://github.com/696-eth/evmavericks-weekly/blob/main/696watermarkENScleanshort.JPG "ens")
+![art](https://imgur.com/92fX6em "art")
 
 //
 
