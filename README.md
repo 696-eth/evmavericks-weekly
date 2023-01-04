@@ -5,7 +5,7 @@
 
 [696.eth](https://twitter.com/696_eth) curates and mainstains the content.
 
-[hanniabu.eth(https://twitter.com/hanni_abu) built the website.
+[hanniabu.eth](https://twitter.com/hanni_abu) built the website.
 
 [EVMaverick392](https://twitter.com/EVMaverick392) provided the AI artwork.
 
