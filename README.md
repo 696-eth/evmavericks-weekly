@@ -18,7 +18,7 @@
 [Week #2 - Dec 19, 2022 - Dec 25, 2022](https://week2--evmavericks.netlify.app)|
 [Week #1 - Dec 11, 2022 - Dec 18, 2022](https://week1--evmavericks.netlify.app)|
 
-[![Lion](https://github.com/696-eth/evmavericks-weekly/blob/main/base1.png)](https://dao.evmavericks.xyz)
+[![Lion](https://i.imgur.com/92fX6em.png)](https://dao.evmavericks.xyz)
 
 ##
 ![art](https://i.imgur.com/92fX6em.png)
