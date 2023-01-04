@@ -3,7 +3,11 @@
 
 # EVMavericks Weekly Updates
 
-Maintained by [696.eth](https://etherscan.io/address/696.eth):
+[696.eth](https://twitter.com/696_eth) curates and mainstains the content.
+
+[hanniabu.eth(https://twitter.com/hanni_abu) built the website.
+
+[EVMaverick392](https://twitter.com/EVMaverick392) provided the AI artwork.
 
 > I tried putting together some important, and not so, stuff while also trying to preserve some comfy feeling and not make everything public. I know the den channel can be viewed by anyone so I used most of the info from there while also giving you some inside scoop from other channels but not being too concrete cause I'm trying to respect the space and consent (that I havent asked for) of others and and wanting that comfy feeling of the degen chat to be preserved.
 
