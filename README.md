@@ -1,8 +1,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://etheralpha.github.io/readme-themes/deep-blue.css">
 
-# EVMavericks Weekly Updates <a id="github-link" href="https://dao.evmavericks.xyz/" target="_blank">
-  <svg height="40" width="40" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
+# EVMavericks Weekly Updates
 
 [![Lion](https://github.com/696-eth/evmavericks-weekly/blob/main/base1.png](https://dao.evmavericks.xyz/)
     
