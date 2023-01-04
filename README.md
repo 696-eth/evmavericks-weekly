@@ -20,7 +20,7 @@
 
 
 ##
-![Lion](https://dao.evmavericks.xyz/ "Lion")
+![Lion](https://github.com/696-eth/evmavericks-weekly/blob/main/696watermarENSclean.JPG "Lion")
 
 <a href="https://dao.evmavericks.xyz/" target="_blank">
     <svg height="40" width="40" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
