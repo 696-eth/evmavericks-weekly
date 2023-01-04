@@ -3,9 +3,7 @@
 
 # EVMavericks Weekly Updates <a id="github-link" href="https://dao.evmavericks.xyz/" target="_blank">
   <svg height="40" width="40" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
-    
-    <a href="https://dao.evmavericks.xyz/" target="_blank"><img src="https://github.com/696-eth/evmavericks-weekly/blob/main/base1.png" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 [![Lion](https://github.com/696-eth/evmavericks-weekly/blob/main/base1.png](https://dao.evmavericks.xyz/)
     
 [696.eth](https://twitter.com/696_eth) curates and mainstains the content.
@@ -25,7 +23,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ##
 ![alt text](https://github.com/696-eth/evmavericks-weekly/blob/main/base1.png "Lion")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Lionn")
 
 <a id="github-link" href="https://github.com/etheralpha/evm-updates/" target="_blank">
   <svg height="40" width="40" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
@@ -34,3 +31,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 </a>
 
 
+    
+    <a href="https://dao.evmavericks.xyz/" target="_blank"><img src="https://github.com/696-eth/evmavericks-weekly/blob/main/base1.png" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
