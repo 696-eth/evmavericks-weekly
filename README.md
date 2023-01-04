@@ -22,6 +22,8 @@
 ##
 ![Lion](https://github.com/696-eth/evmavericks-weekly/blob/main/696watermarkENScleanshort.JPG "Lion")
 
+[![IMAGE ALT TEXT HERE](https://github.com/696-eth/evmavericks-weekly/blob/main/696watermarkENScleanshort.JPG)](https://week1--evmavericks.netlify.app)
+
 <a href="https://dao.evmavericks.xyz/" target="_blank">
     <svg height="40" width="40" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
       <img src="https://github.com/696-eth/evmavericks-weekly/blob/main/base1.png" 
