@@ -12,13 +12,13 @@
 
 > I tried putting together some important, and not so, stuff while also trying to preserve some comfy feeling and not make everything public. I know the den channel can be viewed by anyone so I used most of the info from there while also giving you some inside scoop from other channels but not being too concrete cause I'm trying to respect the space and consent (that I havent asked for) of others and and wanting that comfy feeling of the degen chat to be preserved.
 
-| Skip to Week |   |
+| Previous Weeks |   |
 |--------------|---|
 [Week #3 - Dec 26, 2022 - Jan 1, 2023](https://week3--evmavericks.netlify.app)|
 [Week #2 - Dec 19, 2022 - Dec 25, 2022](https://week2--evmavericks.netlify.app)|
 [Week #1 - Dec 11, 2022 - Dec 18, 2022](https://week1--evmavericks.netlify.app)|
 
-[![Lion](https://i.imgur.com/92fX6em.png)](https://dao.evmavericks.xyz)
+[![DAO](https://i.imgur.com/yKrAkvq.png[/img]](https://dao.evmavericks.xyz)
 
 ##
 ![art](https://i.imgur.com/92fX6em.png)
