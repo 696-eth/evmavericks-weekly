@@ -27,9 +27,6 @@ alt="Lion" width="240" height="180" border="10" /></a>
 
 # Last week - Week #3 EVMavericks Update: Dec 19, 2022 - Dec 25, 2022
 
-Maintained by [696.eth](https://etherscan.io/address/696.eth):
-
-
 [Twitter Thread](https://twitter.com/696_eth/status/1609997942857007104) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/1014ypw/comment/j2o5ynz/) | [Youtube Overview](https://youtu.be/4YxDoek-rOs)
 
 ![](https://i.imgur.com/NUXXzgs.png)
