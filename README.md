@@ -11,9 +11,7 @@ alt="Lion" width="240" height="240" border=10" />
 *Last updated: 1/15/2023*
 
 [Homepage](https://evmavericks-weekly.netlify.app)
-
---
-    
+ 
 [hanniabu.eth](https://twitter.com/hanni_abu) built the website.
 
 [EVMaverick392](https://twitter.com/EVMaverick392) provided the AI artwork.
@@ -29,7 +27,7 @@ alt="Lion" width="240" height="240" border=10" />
 [Week #1 - Dec 11, 2022 - Dec 18, 2022](https://week1--evmavericks.netlify.app)|
 
 
-# Lastest: Week #3 EVMavericks Update: Dec 19, 2022 - Dec 25, 2022
+## Lastest: Week #3 EVMavericks Update: Dec 19, 2022 - Dec 25, 2022
 
 [Twitter Thread](https://twitter.com/696_eth/status/1609997942857007104) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/1014ypw/comment/j2o5ynz/) | [Youtube Overview](https://youtu.be/4YxDoek-rOs)
 
@@ -61,7 +59,8 @@ Degen chat has been more busy this last week:
 1. 696's question about the influence of degen chat sparks some heartfelt and lovely reflections. Can be found in the #degen-chat.
 1. A couple of lions watched the bidding wars between multiple whales for last piece - #1 edition of 0xTransition aka the first NFT on Ethereum Proof of Stake (remember the one with 36e gas?) - it got sold for Ξ8.569669669696969696
 
----
+---      
+                                            [Homepage](https://evmavericks-weekly.netlify.app)
 
     
 <a id="github-link" href="https://github.com/etheralpha/evm-updates/" target="_blank">
