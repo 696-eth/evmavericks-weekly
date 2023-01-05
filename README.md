@@ -7,16 +7,18 @@
 alt="Lion" width="240" height="240" border=10" />
 </a>
 
+[EVMavericks Site](https://dao.evmavericks.xyz) | [EVMavericks Discord](https://discord.gg/evmavericks)
+                                              
+                                            
+                                              
 # EVMavericks Weekly Updates
 *Last updated: 1/15/2023*
 
 [Homepage](https://evmavericks-weekly.netlify.app)
  
-[hanniabu.eth](https://twitter.com/hanni_abu) built the website.
+Content curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by **[hanniabu.eth](https://twitter.com/hanni_abu)** | AI Art by **[EVMaverick392](https://twitter.com/EVMaverick392)**
 
-[EVMaverick392](https://twitter.com/EVMaverick392) provided the AI artwork.
 
-[696.eth](https://twitter.com/696_eth) curates and mainstains the content.
     
 > I tried putting together some important, and not so, stuff while also trying to preserve some comfy feeling and not make everything public. I know the den channel can be viewed by anyone so I used most of the info from there while also giving you some inside scoop from other channels but not being too concrete cause I'm trying to respect the space and consent (that I havent asked for) of others and and wanting that comfy feeling of the degen chat to be preserved.
 
@@ -59,8 +61,9 @@ Degen chat has been more busy this last week:
 1. 696's question about the influence of degen chat sparks some heartfelt and lovely reflections. Can be found in the #degen-chat.
 1. A couple of lions watched the bidding wars between multiple whales for last piece - #1 edition of 0xTransition aka the first NFT on Ethereum Proof of Stake (remember the one with 36e gas?) - it got sold for Ξ8.569669669696969696
 
----      
-                                            [Homepage](https://evmavericks-weekly.netlify.app)
+---
+                                              
+[Homepage](https://evmavericks-weekly.netlify.app)
 
     
 <a id="github-link" href="https://github.com/etheralpha/evm-updates/" target="_blank">
