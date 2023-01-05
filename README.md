@@ -10,12 +10,12 @@ alt="Lion" width="240" height="180" border="10" /></a>
 
 [Homepage](https://evmavericks-weekly.netlify.app)
     
-[696.eth](https://twitter.com/696_eth) curates and mainstains the content.
-
 [hanniabu.eth](https://twitter.com/hanni_abu) built the website.
 
 [EVMaverick392](https://twitter.com/EVMaverick392) provided the AI artwork.
 
+[696.eth](https://twitter.com/696_eth) curates and mainstains the content.
+    
 > I tried putting together some important, and not so, stuff while also trying to preserve some comfy feeling and not make everything public. I know the den channel can be viewed by anyone so I used most of the info from there while also giving you some inside scoop from other channels but not being too concrete cause I'm trying to respect the space and consent (that I havent asked for) of others and and wanting that comfy feeling of the degen chat to be preserved.
 
 | Previous Weeks |   |
@@ -61,8 +61,6 @@ Degen chat has been more busy this last week:
 1. A couple of lions watched the bidding wars between multiple whales for last piece - #1 edition of 0xTransition aka the first NFT on Ethereum Proof of Stake (remember the one with 36e gas?) - it got sold for Ξ8.569669669696969696
 
 ---
-
-
 
 
 ##
