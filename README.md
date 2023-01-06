@@ -8,59 +8,34 @@ alt="Lion" width="240" height="240" border=10" />
 </a>
 
 [EVMavericks Site](https://dao.evmavericks.xyz) | [EVMavericks Discord](https://discord.gg/evmavericks)
-                                              
-                                            
-                                              
+                                                                                       
 # EVMavericks Weekly Updates
-*Last updated: 1/15/2023*
+*Last updated: 1/9/2023*
 
 [Homepage](https://evmavericks-weekly.netlify.app)
  
 Content curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by **[hanniabu.eth](https://twitter.com/hanni_abu)** | AI Art by **[EVMaverick392](https://twitter.com/EVMaverick392)**
 
 
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="stylesheet" href="https://etheralpha.github.io/readme-themes/deep-blue.css">
+## Lastest: Week #4 EVMavericks Update: Jan 2-8, 2023
+                                              
+[Twitter Thread](https://twitter.com/696_eth/status/1609997942857007104) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/1014ypw/comment/j2o5ynz/) | [Youtube Overview](https://youtu.be/4YxDoek-rOs)
 
-# Week #1 EVMavericks Update: Dec 11, 2022 - Dec 18, 2022
+![EVMavericks-weekly-4](https://i.imgur.com/ow9l7Sz.png)
 
-Maintained by [696.eth](https://etherscan.io/address/696.eth):
+Happy New Year🎄 🦁
 
-> I tried putting together some important, and not so, stuff while also trying to preserve some comfy feeling and not make everything public. I know the den channel can be viewed by anyone so I used most of the info from there while also giving you some inside scoop from other channels but not being too concrete cause I'm trying to respect the space and consent (that I havent asked for) of others and and wanting that comfy feeling of the degen chat to be preserved.
+Starting off with more Important Information 👇
 
-[Homepage](https://evmavericks.netlify.app)
+1. The-A-Word warns of the Dictum's Exchange rug: <https://twitter.com/OlimpioCrypto/status/1609183982821818369>
 
+**Other Info:**
 
-[Twitter Thread](https://twitter.com/696_eth/status/1605022945989926912) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/zpjll8/comment/j0wvv6h/)
+Degen chat has been more busy this last week:
 
-![](https://i.imgur.com/gbqVQWc.png)
+1. dimpap/whatthefuck shares ENS alpha about some particular domains
+1.
 
-1. YiΞLdDaddy checks in and feels the vibe for interest for 'an education channel' in the Discord
-1. untouchable_fge releases ABAS token and ZKSTX gets curious and asks questions about it: <https://imgur.com/X6JH8xH>
-1. danksharting is starting a new project and is looking to get lilbro.eth from fuzzy.
-1. 696 asks for job advice. afe2b and bbroad are curious too.
-    - Interweaver gives advice on finding the job in web3. <https://imgur.com/6svMc2n>
-    - luukiemans shares some advice and expands on it, <https://imgur.com/iUhNPs7>. Links this wonderful Twitter thread too: <https://twitter.com/thedefiedge/status/1509202153407057929>
-1. xtokenchad says it's time to mint free Rare OPepe on Optimism if you have filled out the form before: <https://twitter.com/RareOPepes/status/1602716401914912768?s=20&t=ob2e3Z-j_O693XAxWLkBeA>
-1. icobeast been playing with AI and have created a potential POAP: <https://twitter.com/beast_ico/status/1603095612882563073>
-1. Degen chat continues to get those daily dose poaps from ryan carsen
-1. Some of the degens try their chance at getting WL for minting some devaki art. alpha by GreenGeorge
-1. Layer zero players are trying to figure out what to do next (keep an eye)
-1. Degen chat talking about some gmdao, POAPs, SBF, SBF arrested poap, people playing with AI art, trump NFTs, update on Yuga vs RR case,
-1. Update on the snapshot and next transactions from the Multisig Members and Stewards: <https://imgur.com/HvFKzMs>
-1. bbroad asks for advice regarding opsec: <https://imgur.com/PjYjahs>
-    - Burn suggests to use ens subdomains
-1. 696 asks for people's experiences about using CDPs
-    - erowind talks about defisafer, alchemix, double logris and taxes
-1. People share bustbustEVM392's AI work: <https://imgur.com/a/fr3Eizo>
-    - bustbustEVM392 is ready to do another round, his dms are open
-1. icobeast appreciates 392s work and creates a piece for them <https://twitter.com/beast_ico/status/1604158932800266242>
-1. dimpap excited for FRA vs ARG. a few lions chiming in.
-1. 696 shares potentially useful website for web3 job seekers: <https://web3.career/>
-1. icobeast shares a way to get a lens profile: <https://twitter.com/StaniKulechov/status/1604592275182559233?s=20&t=YEF_CjZXz1JuE_SXJPH7jQ>
-1. afe2b looking into twitter alternatives. mastodon? some talk about that.
-1. A few members have shared their personal celebrations in the degen channel
-1. interweaver shares this interesting game: <https://twitter.com/JordanLyall/status/1603794030420447232>
 
 
 
