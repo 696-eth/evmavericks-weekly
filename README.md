@@ -26,7 +26,12 @@ Happy New Year🎄 🦁
 
 Starting off with more Important Information 👇
 
-1. The-A-Word warns of the Dictum's Exchange rug: <https://twitter.com/OlimpioCrypto/status/1609183982821818369>
+1. Degent portfolio (2E) update:
+*Name chosen - Degen Fund
+*Multisig 2/5 chosen
+*More than 5 people applied
+
+
 
 **Other Info:**
 
