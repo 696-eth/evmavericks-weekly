@@ -16,12 +16,11 @@ alt="Lion" width="240" height="240" border=10" />
  
 Content curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by **[hanniabu.eth](https://twitter.com/hanni_abu)** | AI Art by **[EVMaverick392](https://twitter.com/EVMaverick392)**
 
-
 ## Lastest: Week #4 EVMavericks Update: Jan 2-8, 2023
                                               
 [Twitter Thread](https://twitter.com/696_eth/status/1609997942857007104) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/1014ypw/comment/j2o5ynz/) | [Youtube Overview](https://youtu.be/4YxDoek-rOs)
 
-![EVMavericks-weekly-4](https://i.imgur.com/ow9l7Sz.png)
+![EVMavericks-weekly-4](https://i.imgur.com/S8EEC3t.png)
 
 Happy New Year🎄 🦁
 
