@@ -24,8 +24,8 @@ Content curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | We
 
 | Previous Weeks |   |
 |--------------|---|
-[Week #3 - Dec 26, 2022 - Jan 1, 2023](https://week3--evmavericks.netlify.app)|
-[Week #2 - Dec 19, 2022 - Dec 25, 2022](https://week2--evmavericks.netlify.app)|
+[Week #3 - Dec 26, 2022 - Jan 1, 2023](https://week3--evmavericks-weekly.netlify.app)|
+[Week #2 - Dec 19, 2022 - Dec 25, 2022](https://week2--evmavericks-weekly.netlify.app)|
 [Week #1 - Dec 11, 2022 - Dec 18, 2022](https://week1--evmavericks-weekly.netlify.app)|
 
 
