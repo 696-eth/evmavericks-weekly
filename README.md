@@ -16,14 +16,10 @@ alt="Lion" width="240" height="240" border=10" />
 [Homepage](https://evmavericks-weekly.netlify.app)
  
 Content curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by **[hanniabu.eth](https://twitter.com/hanni_abu)** | AI Art by **[EVMaverick392](https://twitter.com/EVMaverick392)**
+                                          
 
+# Week #2 EVMavericks Update: Dec 19, 2022 - Dec 25, 2022
 
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="stylesheet" href="https://etheralpha.github.io/readme-themes/deep-blue.css">
-
-# Week #1 EVMavericks Update: Dec 11, 2022 - Dec 18, 2022
-
-## Dec 19, 2022 - Dec 25, 2022
 
 [Twitter Thread](https://twitter.com/696_eth/status/1607256215146598400) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/zvgh3v/comment/j1p2lvu/)
 
