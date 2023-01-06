@@ -31,6 +31,7 @@ Starting off with more Important Information 👇
 *Multisig 2/5 chosen
 *More than 5 people applied
 
+1. The Daily Doots Roundup Livestream and discussions - every Friday at 12PM EST/9AM PST/6PM CET. Open to everyone on #public-stage in the [EVMavericks Discord](https://discord.gg/evmavericks). [Livestream]( https://www.youtube.com/watch?v=2Ym02JNqxyo) available
 
 
 **Other Info:**
