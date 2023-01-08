@@ -10,7 +10,7 @@ alt="Lion" width="640" height="240" border=10" />
 </a>    
                                             
                                       
-[Site](https://dao.evmavericks.xyz) | [Discord](https://discord.gg/evmavericks) | [Lionpaper](https://mirror.xyz/0xCF68C873D6925F30FFF58E2BdF2D8DA4c9c6f0Be/61meL896f1tgAIwpEyK8UR4OR9eP_igPGKZO5WneN8M) | 
+[Site](https://dao.evmavericks.xyz) | [Discord](https://discord.gg/evmavericks) | [Lionpaper](https://mirror.xyz/0xCF68C873D6925F30FFF58E2BdF2D8DA4c9c6f0Be/61meL896f1tgAIwpEyK8UR4OR9eP_igPGKZO5WneN8M) 
                                               
 [Weekly Ethfinance Doots Roundup #1](https://www.youtube.com/watch?v=DgalmQ3ulco&list=PLXv3rooahaDSo-zK7so_hz9cG4pmCZVEe&index=2) | [r/ETHFinance](https://www.reddit.com/r/ethfinance/) | [Members' Projects + Daily Doots](https://dailydoots.com/#projects)
                                                                                   
