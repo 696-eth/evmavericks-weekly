@@ -20,7 +20,7 @@ alt="Lion" width="640" height="240" border=10" />
 
 
  
-Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website created by **[hanniabu.eth](https://twitter.com/hanni_abu)** | AI Art by **[EVMaverick392](https://twitter.com/EVMaverick392)**
+Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by **[hanniabu.eth](https://twitter.com/hanni_abu)** | AI Art by **[EVMaverick392](https://twitter.com/EVMaverick392)**
 
 
     
