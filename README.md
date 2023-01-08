@@ -15,7 +15,7 @@ alt="Lion" width="640" height="240" border=10" />
 [r/ETHFinance](https://www.reddit.com/r/ethfinance/) | [Members' Projects + Daily Doots](https://dailydoots.com/#projects)
                                                                                   
                                               
-# EVMavericks Weekly Updates every Monday!
+## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app) - *Last updated: 1/8/2023*
 
 
