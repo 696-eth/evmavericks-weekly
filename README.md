@@ -6,7 +6,14 @@
       <img src="https://i.imgur.com/yKrAkvq.png" 
 alt="Lion" width="240" height="240" border=10" />
 </a>
-
+                                              
+<a href="https://mirror.xyz/0xCF68C873D6925F30FFF58E2BdF2D8DA4c9c6f0Be/61meL896f1tgAIwpEyK8UR4OR9eP_igPGKZO5WneN8M" target="_blank">
+    <svg height="40000" width="40000" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
+      <img src="https://i.imgur.com/QeCX8ne.png" 
+alt="Lion" width="600" height="240" border=10" />
+</a>
+                                              
+                                      
 [EVMavericks Site](https://dao.evmavericks.xyz) | [EVMavericks Discord](https://discord.gg/evmavericks) | [r/ETHFinance](https://www.reddit.com/r/ethfinance/) | [More projects from the members + Daily Doots](https://dailydoots.com/#projects)
                                               
                                             
