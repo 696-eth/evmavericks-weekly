@@ -6,7 +6,7 @@
 <a href="https://looksrare.org/collections/0x7dDAA898D33D7aB252Ea5F89f96717c47B2fEE6e#items" target="_blank">
     <svg height="40" width="40" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-left">
       <img src="https://i.imgur.com/aI3pPvn.png" 
-alt="Lion" width="960" height="360" border=10" />
+alt="Lion" width="640" height="240" border=10" />
 </a>    
                                             
                                       
@@ -32,7 +32,7 @@ Content curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | We
 [Week #3 - Dec 26, 2022 - Jan 1, 2023](https://week3--evmavericks-weekly.netlify.app)|
 [Week #2 - Dec 19, 2022 - Dec 25, 2022](https://week2--evmavericks-weekly.netlify.app)|
 [Week #1 - Dec 11, 2022 - Dec 18, 2022](https://week1--evmavericks-weekly.netlify.app)|
-
+[Top🔟 EVMavericks' Achievements of 2022 - Twitter thread](https://twitter.com/696_eth/status/1609278972193538050)
 
 ## Lastest: Week #4 EVMavericks Update: Jan 2-8, 2023
                                               
