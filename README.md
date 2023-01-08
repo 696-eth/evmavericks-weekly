@@ -6,7 +6,7 @@
 <a href="https://opensea.io/collection/evmavericks" target="_blank">
     <svg height="40" width="40" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-left">
       <img src="https://i.imgur.com/JbZUj2v.png" 
-alt="Lion" width="240" height="240" border=10" />
+alt="Lion" width="960" height="480" border=10" />
 </a>    
 
                                               
