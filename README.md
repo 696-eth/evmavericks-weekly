@@ -8,19 +8,17 @@
       <img src="https://i.imgur.com/JbZUj2v.png" 
 alt="Lion" width="640" height="240" border=10" />
 </a>    
-
-                                              
+                                            
                                       
 [EVMavericks Site](https://dao.evmavericks.xyz) | [EVMavericks Discord](https://discord.gg/evmavericks) | [EVMavericks Lionpaper](https://mirror.xyz/0xCF68C873D6925F30FFF58E2BdF2D8DA4c9c6f0Be/61meL896f1tgAIwpEyK8UR4OR9eP_igPGKZO5WneN8M) 
                                               
 [r/ETHFinance](https://www.reddit.com/r/ethfinance/) | [Members' Projects + Daily Doots](https://dailydoots.com/#projects)
-                                              
-                                            
+                                                                                  
                                               
 # EVMavericks Weekly Updates every Monday!
-*Last updated: 1/5/2023*
+[Homepage](https://evmavericks-weekly.netlify.app) - *Last updated: 1/5/2023*
 
-[Homepage](https://evmavericks-weekly.netlify.app)
+
  
 Content curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by **[hanniabu.eth](https://twitter.com/hanni_abu)** | AI Art by **[EVMaverick392](https://twitter.com/EVMaverick392)**
 
