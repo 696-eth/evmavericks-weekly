@@ -7,7 +7,7 @@
 alt="Lion" width="240" height="240" border=10" />
 </a>
 
-[EVMavericks Site](https://dao.evmavericks.xyz) | [EVMavericks Discord](https://discord.gg/evmavericks) | [r/ETHFinance](https://www.reddit.com/r/ethfinance/)
+[EVMavericks Site](https://dao.evmavericks.xyz) | [EVMavericks Discord](https://discord.gg/evmavericks) | [r/ETHFinance](https://www.reddit.com/r/ethfinance/) | [https://dailydoots.com/#projects](More projects from the members + Daily Doots)
                                               
                                             
                                               
