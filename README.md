@@ -40,9 +40,11 @@ Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by
 
 ![EVMavericks-weekly-4](https://i.imgur.com/S8EEC3t.png)
 
-Happy New Year🎄 🦁
+Degen Fund🎄 🦁
 
 Starting off with more Important Information 👇
+
+![Degen Chad](https://i.imgur.com/eDeW7FG.png)
 
 1. The-A-Word warns of the Dictum's Exchange rug: <https://twitter.com/OlimpioCrypto/status/1609183982821818369>
 
