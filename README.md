@@ -49,18 +49,18 @@ Starting New Year off with a bang! Important Information 👇
 
 1. Degen Fund. 2E Portfolio put into fast hands of degens in hopes of making more money. 'Degen Fund' name has been chosen. Multisig 2-of-5 has been voted for. Nominations are still open in the thread 'Chad Fund - members nominations' of #degen-chat. So far we have 4 confirmed, 3 pending nominations and 1 declined. You can find a small top at the form of the thread and then feel free to drop yours. Investment plans are not finalized and there is ongoing discussions around strategies too.                                             
 1. New @media role added for those who want to contribute to Weekly Ethfinance Doots Roundups, Podcast or any other similar stuff. Get the role in the #role-selection channel by pressing the mic emoji button!
-                                              
+
+1. Balancer tweets out [this](https://twitter.com/Balancer/status/1611363559685898247?t=5aUSOm9NZu7djttvlLBLVg&s=19) IMPORTANT Securuty message for some LPs to remove their liquidity, shared by Fuzz.
                                              
 **Other Info:**
 
 As activity has been picking up I'm going to be slightly more selective:
 
-1. 
-1.
-1. 
+
 1. A few new people joining the Lions 🦁
 1. Some new people wandering into the public chat of discord
 1. More and more discussions and alpha being dropped in #the-den and #degen-chat
+1. TheBenMeadows and Doomfuzz drop their newest art in the #creators
 
 
 
