@@ -54,7 +54,7 @@ Starting New Year off with a bang! Important Information 👇
                                               
 1. Icobeast shares [this article](https://www.coindesk.com/layer2/2022/04/18/the-right-tax-treatment-of-staking-rewards-is-clear-taxation-only-after-sale/?outputType=amp) about how Staking is Taxed
                                               
-1. [hanniabu.eth](https://etheralpha.org/) creates [Daily Doots Site](https://dailydoots.com/)
+1. [hanniabu.eth](https://etheralpha.org/) creates [DailyDoots.com](https://dailydoots.com/)
                                              
 **Other Info:**
 
