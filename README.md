@@ -43,7 +43,7 @@ Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by
 Starting New Year off with a bang! Important Information 👇
 
 
-1. [The reelection process of stewards has begun. Apply in the #financial-steward-applications!](https://i.imgur.com/L2tH9OH.png)
+1. [The reelection process of stewards has begun.](https://i.imgur.com/L2tH9OH.png) Apply in the #financial-steward-applications!
                                               
 1. [Check out - Weekly Ethfinance Doots Roundup #1](https://www.youtube.com/watch?v=DgalmQ3ulco&list=PLXv3rooahaDSo-zK7so_hz9cG4pmCZVEe&index=2). And tune in next week!
 
