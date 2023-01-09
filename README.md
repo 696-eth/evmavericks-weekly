@@ -62,11 +62,11 @@ Starting New Year off with a bang! Important Information 👇
 1. Talks between multisig members about trying to get EVMavericks being verified on OpenSea: what needs to be done and exploring options.
   
 Opportuniteis to contribute:
+
+* New @media role added for those who want to contribute to Weekly Ethfinance Doots Roundups, Podcast or any other similar stuff. Get the role in the #role-selection channel by pressing the mic emoji button!
                                               
 * Create a list of people that are valuable contributors without EVMs and you think might be good candidates for us to give out a few lions from our treasury. We'll start with emoji vote and possibly turn it into a snapshot vote. 
                                               
-* New @media role added for those who want to contribute to Weekly Ethfinance Doots Roundups, Podcast or any other similar stuff. Get the role in the #role-selection channel by pressing the mic emoji button!
-
 * Fixing metadata. Sku have taken on that so come into the den and probably ping them.
                                               
 * Onchain artwork
