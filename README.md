@@ -36,7 +36,7 @@ Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by
 
 ### Lastest: Week #4 EVMavericks Update: Jan 2-8, 2023
                                               
-[Twitter Thread](https://twitter.com/696_eth/status/1609997942857007104) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/1014ypw/comment/j2o5ynz/) | [Youtube Overview](https://youtu.be/4YxDoek-rOs)
+Twitter Thread - coming later | [Reddit Post]() | Youtube Overview- coming later
 
 ![EVMavericks-weekly-4](https://i.imgur.com/S8EEC3t.png)
 
@@ -107,16 +107,4 @@ As activity has been picking up I'm going to be slightly more selective:
 </a>
 
 
-<a href="https://dao.evmavericks.xyz/" target="_blank">
-    <svg height="40" width="40" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
-      <img src="https://i.imgur.com/yKrAkvq.png" 
-alt="Lion" width="240" height="240" border=10" />
-</a>
-                                              
-<a href="https://mirror.xyz/0xCF68C873D6925F30FFF58E2BdF2D8DA4c9c6f0Be/61meL896f1tgAIwpEyK8UR4OR9eP_igPGKZO5WneN8M" target="_blank">
-    <svg height="40" width="40" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-right">
-      <img src="https://i.imgur.com/QeCX8ne.png" 
-alt="Lion" width="240" height="240" border=10" />
-</a>
 
-![Degen Chad](https://i.imgur.com/eDeW7FG.png)
