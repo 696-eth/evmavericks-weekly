@@ -56,6 +56,10 @@ Starting New Year off with a bang! Important Information 👇
 1. Balancer tweets out [this IMPORTANT Securuty message](https://twitter.com/Balancer/status/1611363559685898247?t=5aUSOm9NZu7djttvlLBLVg&s=19) for some LPs to remove their liquidity, shared by Fuzz. 
                                               
 1. Icobeast shares [this article](https://www.coindesk.com/layer2/2022/04/18/the-right-tax-treatment-of-staking-rewards-is-clear-taxation-only-after-sale/?outputType=amp) about how Staking is Taxed
+
+1. Sku hops in to contribute more! We looove that! They are looking into *collection's fixing metadata*.
+                                              
+1. Talks between multisig members about trying to get EVMavericks being verified on OpenSea: what needs to be done and exploring options.
   
 Opportuniteis to contribute:
                                               
@@ -63,12 +67,10 @@ Opportuniteis to contribute:
                                               
 * New @media role added for those who want to contribute to Weekly Ethfinance Doots Roundups, Podcast or any other similar stuff. Get the role in the #role-selection channel by pressing the mic emoji button!
 
-* Fixing metadata
+* Fixing metadata. Sku have taken on that so come into the den and probably ping them.
                                               
 * Onchain artwork
-                                              
-* OpenSea verification
-                                             
+                                                                                          
 **Other Info:**
 
 As activity has been picking up I'm going to be slightly more selective:
