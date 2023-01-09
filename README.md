@@ -43,7 +43,7 @@ Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by
 Starting New Year off with a bang! Important Information 👇
 
 
-1. [The stewards reelection process has begun. Apply in the #financial-steward-applications!](https://i.imgur.com/L2tH9OH.png)
+1. [The reelection process of stewards has begun. Apply in the #financial-steward-applications!](https://i.imgur.com/L2tH9OH.png)
 
 **Other Info:**
 
