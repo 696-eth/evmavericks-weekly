@@ -64,7 +64,7 @@ Starting New Year off with a bang! Important Information 👇
 
 * Reminder: SECURE your COINS, NFTs, Tokens by holding your keys and transferring the most valuable assets to your cold wallet!
   
-#### Opportuniteis to contribute:
+#### Opportunities to contribute:
 
 * New @media role added for those who want to contribute to Weekly Ethfinance Doots Roundups, Podcast or any other similar stuff. Get the role in the #role-selection channel by pressing the mic emoji button!
                                               
