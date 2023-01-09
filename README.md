@@ -51,12 +51,14 @@ Starting New Year off with a bang! Important Information 👇
 1. New @media role added for those who want to contribute to Weekly Ethfinance Doots Roundups, Podcast or any other similar stuff. Get the role in the #role-selection channel by pressing the mic emoji button!
 
 1. Balancer tweets out [this](https://twitter.com/Balancer/status/1611363559685898247?t=5aUSOm9NZu7djttvlLBLVg&s=19) IMPORTANT Securuty message for some LPs to remove their liquidity, shared by Fuzz.
+
+1. Icobeast shares [this article](https://www.coindesk.com/layer2/2022/04/18/the-right-tax-treatment-of-staking-rewards-is-clear-taxation-only-after-sale/?outputType=amp) about how Staking is Taxed
                                              
 **Other Info:**
 
 As activity has been picking up I'm going to be slightly more selective:
 
-
+1. Yieldaddy shares this article - [Current Ethereum](https://mirror.xyz/luozhu.eth/9cpjU63vBLoQPAalc7ORG_BtHkOJFqPtY9UpK5qWuGM)  
 1. A few new people joining the Lions 🦁
 1. Some new people wandering into the public chat of discord
 1. More and more discussions and alpha being dropped in #the-den and #degen-chat
