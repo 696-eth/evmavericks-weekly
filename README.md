@@ -60,7 +60,7 @@ Starting New Year off with a bang! Important Information 👇
                                               
 1. Talks between multisig members about trying to get EVMavericks being verified on OpenSea: what needs to be done and exploring options.
 
-1. Yieldaddy shares this article - [Current Ethereum](https://mirror.xyz/luozhu.eth/9cpjU63vBLoQPAalc7ORG_BtHkOJFqPtY9UpK5qWuGM)  
+1. Yieldaddy shares this article - [Current Ethereum](https://mirror.xyz/luozhu.eth/9cpjU63vBLoQPAalc7ORG_BtHkOJFqPtY9UpK5qWuGM).
 
 * Reminder: SECURE your COINS, NFTs, Tokens by holding your keys and transferring the most valuable assets to your cold wallet!
   
@@ -72,18 +72,14 @@ Opportuniteis to contribute:
                                               
 * Fixing metadata. Sku have taken on that so come into the den and probably ping them.
                                               
-* Onchain artwork
+* Onchain artwork.
                                                                                           
 **Other Info:**
 
 As activity has been picking up I'm going to be slightly more selective:
 
 1. WBM says [the Digital Chamber of Commerce is hosting an “education day” in March in Washington - all are invited](https://dcblockchainsummit.com/blockchain-education-day/).
-1. NaeNaeBaby shares what's to come from Autominter: 
-- AI Generated images embedded into autominter
-- You can use any ERC-20 token to mint now
-- New emphasis on ads and onboarding normies
-- More faces, more transparency, opensource developing
+1. NaeNaeBaby shares what's to come from Autominter: AI Generated images embedded into autominter, You can use any ERC-20 token to mint now, New emphasis on ads and onboarding normies, More faces, more transparency, opensource developing.
 1. EVM Fantasy Football League has concluted with: Cookie-Monster getting ALL the bragging rights. While they and replykindly did split the 1st and 2nd pots, icobeast takes the 3rd pot.
 1. A few new people joining the Lions🦁
 1. Some new people wandering into the public chat of the discord.
