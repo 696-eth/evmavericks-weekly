@@ -52,7 +52,6 @@ Starting New Year off with a bang! Important Information 👇
 1. [hanniabu.eth](https://etheralpha.org/) creates [DailyDoots.com](https://dailydoots.com/)!
                                               
 1. Degen Fund. 2E Portfolio put into fast hands of degens in hopes of making more money. 'Degen Fund' name has been chosen. Multisig 2-of-5 has been voted for. Nominations are still open in the thread 'Chad Fund - members nominations' of #degen-chat. So far we have 4 confirmed, 3 pending nominations and 1 declined. You can find a small top at the form of the thread and then feel free to drop yours. Investment plans are not finalized and there is ongoing discussions around strategies too.                                             
-
 1. Balancer tweets out [this IMPORTANT Securuty message](https://twitter.com/Balancer/status/1611363559685898247?t=5aUSOm9NZu7djttvlLBLVg&s=19) for some LPs to remove their liquidity, shared by Fuzz. 
                                               
 1. Icobeast shares [this article](https://www.coindesk.com/layer2/2022/04/18/the-right-tax-treatment-of-staking-rewards-is-clear-taxation-only-after-sale/?outputType=amp) about how Staking is Taxed.
@@ -60,6 +59,8 @@ Starting New Year off with a bang! Important Information 👇
 1. Sku hops in to contribute more! We looove that! They are looking into *collection's fixing metadata*. Austonst shares that 'wrote a python script to "fix" EVM metadata a long time ago.'
                                               
 1. Talks between multisig members about trying to get EVMavericks being verified on OpenSea: what needs to be done and exploring options.
+
+* Reminder: SECURE your COINS, NFTs, Tokens by holding your keys and transferring the most valuable assets to your cold wallet!
   
 Opportuniteis to contribute:
 
@@ -76,13 +77,14 @@ Opportuniteis to contribute:
 As activity has been picking up I'm going to be slightly more selective:
 
 1. EVM Fantasy Football League has concluted with: Cookie-Monster gets ALL the bragging rights. While they and replykindly did split the 1st and 2nd pots, icobeast takes 3rd pot.
-
 1. Yieldaddy shares this article - [Current Ethereum](https://mirror.xyz/luozhu.eth/9cpjU63vBLoQPAalc7ORG_BtHkOJFqPtY9UpK5qWuGM)  
 1. A few new people joining the Lions🦁
 1. Some new people wandering into the public chat of discord
 1. More and more discussions and alpha being dropped in #the-den and #degen-chat
 1. TheBenMeadows and Doomfuzz drop their newest art in the #creators
-
+1. Degen-chat sees more ENS alpha by whatthefuck and 696 
+1. More random NFT shenanigans in the #degen-chat
+1. Some convos about DAOs what they can be 
 
 
 ---
