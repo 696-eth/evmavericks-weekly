@@ -40,13 +40,10 @@ Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by
 
 ![EVMavericks-weekly-4](https://i.imgur.com/S8EEC3t.png)
 
-Degen Fund🎄 🦁
+Starting New Year off with a bang! Important Information 👇
 
-Starting off with more Important Information 👇
 
-![Degen Chad](https://i.imgur.com/eDeW7FG.png)
-
-1. The-A-Word warns of the Dictum's Exchange rug: <https://twitter.com/OlimpioCrypto/status/1609183982821818369>
+1. [The stewards reelection process has begun. Apply in the #financial-steward-applications!](https://i.imgur.com/L2tH9OH.png)
 
 **Other Info:**
 
@@ -80,3 +77,5 @@ alt="Lion" width="240" height="240" border=10" />
       <img src="https://i.imgur.com/QeCX8ne.png" 
 alt="Lion" width="240" height="240" border=10" />
 </a>
+
+![Degen Chad](https://i.imgur.com/eDeW7FG.png)
