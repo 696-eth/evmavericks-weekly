@@ -47,7 +47,7 @@ Starting New Year off with a bang! Important Information 👇
                                               
 1. [Check out - Weekly Ethfinance Doots Roundup #1](https://www.youtube.com/watch?v=DgalmQ3ulco&list=PLXv3rooahaDSo-zK7so_hz9cG4pmCZVEe&index=2). And tune in next week!
 
-1. The-A-Word
+1. Get ETHFit with The-A-Word by following the 5Keth 7-week training schedule - [here's week 1](https://www.reddit.com/r/EthFitness/comments/zub9d8/rethfitness_lounge/j1zx5ye/)
                                               
 1. [hanniabu.eth](https://etheralpha.org/) creates [DailyDoots.com](https://dailydoots.com/)
                                               
