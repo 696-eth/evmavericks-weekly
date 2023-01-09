@@ -47,15 +47,15 @@ Starting New Year off with a bang! Important Information 👇
                                               
 1. [Check out - Weekly Ethfinance Doots Roundup #1](https://www.youtube.com/watch?v=DgalmQ3ulco&list=PLXv3rooahaDSo-zK7so_hz9cG4pmCZVEe&index=2). And tune in next week!
 
-1. Get ETHFit with The-A-Word by following the 5Keth 7-week training schedule - [here's week 1](https://www.reddit.com/r/EthFitness/comments/zub9d8/rethfitness_lounge/j1zx5ye/)
+1. Get ETHFit with The-A-Word by following the 5Keth 7-week training schedule - [here's week 1](https://www.reddit.com/r/EthFitness/comments/zub9d8/rethfitness_lounge/j1zx5ye/)!
                                               
-1. [hanniabu.eth](https://etheralpha.org/) creates [DailyDoots.com](https://dailydoots.com/)
+1. [hanniabu.eth](https://etheralpha.org/) creates [DailyDoots.com](https://dailydoots.com/)!
                                               
 1. Degen Fund. 2E Portfolio put into fast hands of degens in hopes of making more money. 'Degen Fund' name has been chosen. Multisig 2-of-5 has been voted for. Nominations are still open in the thread 'Chad Fund - members nominations' of #degen-chat. So far we have 4 confirmed, 3 pending nominations and 1 declined. You can find a small top at the form of the thread and then feel free to drop yours. Investment plans are not finalized and there is ongoing discussions around strategies too.                                             
 
 1. Balancer tweets out [this IMPORTANT Securuty message](https://twitter.com/Balancer/status/1611363559685898247?t=5aUSOm9NZu7djttvlLBLVg&s=19) for some LPs to remove their liquidity, shared by Fuzz. 
                                               
-1. Icobeast shares [this article](https://www.coindesk.com/layer2/2022/04/18/the-right-tax-treatment-of-staking-rewards-is-clear-taxation-only-after-sale/?outputType=amp) about how Staking is Taxed
+1. Icobeast shares [this article](https://www.coindesk.com/layer2/2022/04/18/the-right-tax-treatment-of-staking-rewards-is-clear-taxation-only-after-sale/?outputType=amp) about how Staking is Taxed.
 
 1. Sku hops in to contribute more! We looove that! They are looking into *collection's fixing metadata*. Austonst shares that 'wrote a python script to "fix" EVM metadata a long time ago.'
                                               
@@ -75,7 +75,7 @@ Opportuniteis to contribute:
 
 As activity has been picking up I'm going to be slightly more selective:
 
-1. EVM Fantasy Football League has concluted with: Cookie-Monster and replykindly splitting the 1st and 2nd pots, icobeast takes 3rd pot.
+1. EVM Fantasy Football League has concluted with: Cookie-Monster gets ALL the bragging rights. While they and replykindly did split the 1st and 2nd pots, icobeast takes 3rd pot.
 
 1. Yieldaddy shares this article - [Current Ethereum](https://mirror.xyz/luozhu.eth/9cpjU63vBLoQPAalc7ORG_BtHkOJFqPtY9UpK5qWuGM)  
 1. A few new people joining the Lions🦁
