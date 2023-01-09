@@ -63,13 +63,18 @@ Opportuniteis to contribute:
                                               
 * New @media role added for those who want to contribute to Weekly Ethfinance Doots Roundups, Podcast or any other similar stuff. Get the role in the #role-selection channel by pressing the mic emoji button!
 
+* Fixing metadata
+                                              
+* Onchain artwork
+                                              
+* OpenSea verification
                                              
 **Other Info:**
 
 As activity has been picking up I'm going to be slightly more selective:
 
 1. Yieldaddy shares this article - [Current Ethereum](https://mirror.xyz/luozhu.eth/9cpjU63vBLoQPAalc7ORG_BtHkOJFqPtY9UpK5qWuGM)  
-1. A few new people joining the Lions 🦁
+1. A few new people joining the Lions🦁
 1. Some new people wandering into the public chat of discord
 1. More and more discussions and alpha being dropped in #the-den and #degen-chat
 1. TheBenMeadows and Doomfuzz drop their newest art in the #creators
