@@ -36,7 +36,7 @@ Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by
 
 ### Lastest: Week #4 EVMavericks Update: Jan 2-8, 2023
                                               
-Twitter Thread - coming later | [Reddit Post](https://old.reddit.com/r/ethfinance/comments/1076f4p/daily_general_discussion_january_9_2023/j3l3vvv/) | Youtube Overview - coming later
+[Twitter Thread](https://twitter.com/696_eth/status/1612535365809897474)| [Reddit Post](https://old.reddit.com/r/ethfinance/comments/1076f4p/daily_general_discussion_january_9_2023/j3l3vvv/) | Youtube Overview - coming later
 
 ![EVMavericks-weekly-4](https://i.imgur.com/S8EEC3t.png)
 
