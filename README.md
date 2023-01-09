@@ -64,7 +64,7 @@ Starting New Year off with a bang! Important Information 👇
 
 * Reminder: SECURE your COINS, NFTs, Tokens by holding your keys and transferring the most valuable assets to your cold wallet!
   
-Opportuniteis to contribute:
+#### Opportuniteis to contribute:
 
 * New @media role added for those who want to contribute to Weekly Ethfinance Doots Roundups, Podcast or any other similar stuff. Get the role in the #role-selection channel by pressing the mic emoji button!
                                               
@@ -81,14 +81,13 @@ As activity has been picking up I'm going to be slightly more selective:
 1. WBM says [the Digital Chamber of Commerce is hosting an “education day” in March in Washington - all are invited](https://dcblockchainsummit.com/blockchain-education-day/).
 1. NaeNaeBaby shares what's to come from Autominter: AI Generated images embedded into autominter, You can use any ERC-20 token to mint now, New emphasis on ads and onboarding normies, More faces, more transparency, opensource developing.
 1. EVM Fantasy Football League has concluted with: Cookie-Monster getting ALL the bragging rights. While they and replykindly did split the 1st and 2nd pots, icobeast takes the 3rd pot.
+1. TheBenMeadows and Doomfuzz drop their newest art in the #creators.
+1. Degen-chat sees more ENS alpha by whatthefuck and 696.
 1. A few new people joining the Lions🦁
 1. Some new people wandering into the public chat of the discord.
 1. More and more discussions and alpha being dropped in #the-den and #degen-chat.
-1. TheBenMeadows and Doomfuzz drop their newest art in the #creators.
-1. Degen-chat sees more ENS alpha by whatthefuck and 696.
 1. More random NFT shenanigans in the #degen-chat.
 1. Some convos about DAOs, what they can be, etc.
-
 
 ---
                                               
