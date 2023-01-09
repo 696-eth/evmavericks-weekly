@@ -52,7 +52,7 @@ Starting New Year off with a bang! Important Information 👇
 1. [hanniabu.eth](https://etheralpha.org/) creates [DailyDoots.com](https://dailydoots.com/)!
                                               
 1. Degen Fund. 2E Portfolio put into fast hands of degens in hopes of making more money. 'Chad Fund' name has been chosen. Multisig 2-of-5 has been voted for. Nominations are still open in the thread 'Chad Fund - members nominations' of #degen-chat. So far we have 4 confirmed, 3 pending nominations and 1 declined. You can find a small form at the top of the thread. Feel free to drop yours! Investment plans are not finalized and there is ongoing discussions around strategies too.                                             
-1. Balancer tweets out [this IMPORTANT Securuty message](https://twitter.com/Balancer/status/1611363559685898247?t=5aUSOm9NZu7djttvlLBLVg&s=19) for some LPs to remove their liquidity, shared by Fuzz. 
+1. Balancer tweets out [this IMPORTANT Security message](https://twitter.com/Balancer/status/1611363559685898247?t=5aUSOm9NZu7djttvlLBLVg&s=19) for some LPs to remove their liquidity, shared by Fuzz. 
                                               
 1. Icobeast shares [this article](https://www.coindesk.com/layer2/2022/04/18/the-right-tax-treatment-of-staking-rewards-is-clear-taxation-only-after-sale/?outputType=amp) about how Staking is Taxed.
 
