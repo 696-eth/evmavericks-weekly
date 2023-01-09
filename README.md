@@ -47,7 +47,7 @@ Starting New Year off with a bang! Important Information 👇
                                               
 1. [Check out - Weekly Ethfinance Doots Roundup #1](https://www.youtube.com/watch?v=DgalmQ3ulco&list=PLXv3rooahaDSo-zK7so_hz9cG4pmCZVEe&index=2). And tune in next week!
 
-1. Degen Fund. 2E Portfolio put into fast hands of degens in hopes of making more money. 'Degen Fund' name has been chosen. Multisig 2/5 has been voted for. Nominations are still open in the thread 'Chad Fund - members nominations' of #degen-chat. So far we have 4 confirmed, 3 pending nominations and 1 declined. You can find a small top at the form of the thread and then feel free to drop yours. Investment plans are not finalized and there is ongoing discussions around strategies too.                                             
+1. Degen Fund. 2E Portfolio put into fast hands of degens in hopes of making more money. 'Degen Fund' name has been chosen. Multisig 2-of-5 has been voted for. Nominations are still open in the thread 'Chad Fund - members nominations' of #degen-chat. So far we have 4 confirmed, 3 pending nominations and 1 declined. You can find a small top at the form of the thread and then feel free to drop yours. Investment plans are not finalized and there is ongoing discussions around strategies too.                                             
 1.
                                               
                                              
