@@ -75,6 +75,8 @@ Opportuniteis to contribute:
 
 As activity has been picking up I'm going to be slightly more selective:
 
+1. EVM Fantasy Football League has concluted with: Cookie-Monster and replykindly splitting the 1st and 2nd pots, icobeast takes 3rd pot.
+
 1. Yieldaddy shares this article - [Current Ethereum](https://mirror.xyz/luozhu.eth/9cpjU63vBLoQPAalc7ORG_BtHkOJFqPtY9UpK5qWuGM)  
 1. A few new people joining the Lions🦁
 1. Some new people wandering into the public chat of discord
