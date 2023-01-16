@@ -37,7 +37,7 @@ Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by
 
 ### Week #5 EVMavericks Update: Jan 9-15, 2023
                                               
-[Twitter Thread] - Coming Monday Morning (PST) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/10d6prc/daily_general_discussion_january_16_2023/j4k5ads/)
+[Twitter Thread](https://twitter.com/696_eth/status/1615061292666191874) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/10d6prc/daily_general_discussion_january_16_2023/j4k5ads/)
 
 ![](https://i.imgur.com/kBSp6JX.png)
 
