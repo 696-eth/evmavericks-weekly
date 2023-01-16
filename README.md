@@ -14,7 +14,7 @@ alt="Lion" width="640" height="240" border=10" />
 
 ### Week #5 EVMavericks Update: Jan 9-15, 2023
                                               
-[Twitter Thread]- Coming Monday Monrning (PST)| [Reddit Post]()
+[Twitter Thread] - Coming Monday Morning (PST) | [Reddit Post]()
 
 ![EVMavericks-weekly-5](https://i.imgur.com/kBSp6JX.png)
 
