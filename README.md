@@ -23,9 +23,9 @@ Starting New Year off with a bang! Important Information 👇
 
 1. ZombieBP started biweekly watercooler Monday voice chats! Next one is on 23rd at 3PM PST/12AM CET.
 
-1. Interweaver shares a job opportunity for Lighthouse stackers activy in the community - https://github.com/sigp/positions-vacant/blob/master/lighthouse-support.md
+1. interweaver shares a job opportunity for Lighthouse stackers activy in the community - https://github.com/sigp/positions-vacant/blob/master/lighthouse-support.md
 
-1. roar-y and treebeard share that our artists have an opportunity to collaborate with FakeRareDecal team on creating a Lion's version of Deca logo. Intersted? Join in #creators! [EVMavericks-weekly-5](https://i.imgur.com/lUs6pGe.png)
+1. [roar-y and treebeard share that our artists have an opportunity to collaborate with FakeRareDecal team on creating a Lion's version of Deca logo](https://i.imgur.com/lUs6pGe.png). Intersted? Join in #creators! [1]
 
 1. Join: Wed Jan 18, 8am (PST) 4pm (UTC) set for our next live panel AMA with the team behind Influence a space strategy MMO game built on ethereum. 
 
@@ -37,13 +37,13 @@ Starting New Year off with a bang! Important Information 👇
 
 1. Sku's [twitter thread](https://twitter.com/sku16eth/status/1613638578189344784) causes some FOMO into EVMavericks - [7 sales within an hour!](https://i.imgur.com/mxd4cCu.png)
 
-1. Next steps for Chad Fund are being discussed. 
-
 1. [Weekly Ethfinance Doots Roundup #2](https://www.youtube.com/watch?v=qIyhvrrMG1s) 
 
 1. Check out raywatch.eth.limo to see where it goes, created by whatthefuck
 
 Other stuff:
+                                              
+* Next steps for Chad Fund are being discussed. 
 
 * Lots of activity in the #creators channel! Never done any art but wanna try doing it for the first time and need some pointers? Come thru!
 
