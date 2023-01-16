@@ -38,7 +38,7 @@ Important info:
 
 1. [Weekly Ethfinance Doots Roundup #2](https://www.youtube.com/watch?v=qIyhvrrMG1s) 
 
-1. Check out [raywatch.eth.limo](raywatch.eth.limo) to see where it goes, created by whatthefuck
+1. Check out (raywatch.eth.limo to see where it goes, created by whatthefuck
 
 Other stuff:
                                               
