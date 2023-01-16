@@ -18,8 +18,7 @@ alt="Lion" width="640" height="240" border=10" />
 
 ![EVMavericks-weekly-5](https://i.imgur.com/kBSp6JX.png)
 
-Starting New Year off with a bang! Important Information 👇
-
+Important info:
 
 1. ZombieBP started biweekly watercooler Monday voice chats! Next one is on 23rd at 3PM PST/12AM CET.
 
