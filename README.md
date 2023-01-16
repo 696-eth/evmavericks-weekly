@@ -9,7 +9,7 @@ alt="Lion" width="640" height="240" border=10" />
                                             
                                              
 ## EVMavericks Weekly Updates every Monday!
-[Homepage](https://evmavericks-weekly.netlify.app) - *Last updated: 1/8/2023*
+[Homepage](https://evmavericks-weekly.netlify.app) - *Last updated: 1/15/2023*
 
 
 ### Week #5 EVMavericks Update: Jan 9-15, 2023
@@ -21,17 +21,35 @@ alt="Lion" width="640" height="240" border=10" />
 Starting New Year off with a bang! Important Information 👇
 
 
-1. [The reelection process of stewards has begun.](https://i.imgur.com/L2tH9OH.png) Apply in the #financial-steward-applications!
-                                              
+1. ZombieBP started biweekly watercooler Monday voice chats! Next one is on 23rd at 3PM PST/12AM CET.
 
-  
+1. Interweaver shares a job opportunity for Lighthouse stackers activy in the community - https://github.com/sigp/positions-vacant/blob/master/lighthouse-support.md
 
-                                                                                          
-**Other Info:**
+1. roar-y and treebeard share that our artists have an opportunity to collaborate with FakeRareDecal team on creating a Lion's version of Deca logo. Intersted? Join in #creators! [EVMavericks-weekly-5](https://i.imgur.com/lUs6pGe.png)
 
-As activity has been picking up I'm going to be slightly more selective:
+1. Join: Wed Jan 18, 8am (PST) 4pm (UTC) set for our next live panel AMA with the team behind Influence a space strategy MMO game built on ethereum. 
 
-1. WBM says [the Digital Chamber of Commerce is hosting an “education day” in March in Washington - all are invited](https://dcblockchainsummit.com/blockchain-education-day/).
+1. Ethereum roadmap - https://notes.ethereum.org/@domothy/roadmap - shared by Yielddaddy 
+
+1. MOOC, spring 2023, - https://zk-learning.org/ - shared by Yielddaddy 
+
+1. More for Job seekers https://web3jobfair.hy.pe/?utm_source=Linkedin&utm_medium=organic&utm_campaign=JobFair&utm_term=jobfair - shared by 696
+
+1. Sku's [twitter thread](https://twitter.com/sku16eth/status/1613638578189344784) causes some FOMO into EVMavericks - [7 sales within an hour!](https://i.imgur.com/mxd4cCu.png)
+
+1. Next steps for Chad Fund are being discussed. 
+
+1. [Weekly Ethfinance Doots Roundup #2](https://www.youtube.com/watch?v=qIyhvrrMG1s) 
+
+1. Check out raywatch.eth.limo to see where it goes, created by whatthefuck
+
+Other stuff:
+
+* Lots of activity in the #creators channel! Never done any art but wanna try doing it for the first time and need some pointers? Come thru!
+
+* Degen chat has beeng going just...insane! Thousands of messages on some days! Some are making money! Others are wondering how those are making money 😅 Some wholesome chats too <3 
+
+* Some talk and alpha in #game-fi
 
 
 ---
