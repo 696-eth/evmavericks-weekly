@@ -38,7 +38,7 @@ Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by
                                               
 [Twitter Thread] - Coming Monday Morning (PST) | [Reddit Post]()
 
-![EVMavericks-weekly-5](https://i.imgur.com/kBSp6JX.png)
+![](https://i.imgur.com/kBSp6JX.png)
 
 Important info:
 
