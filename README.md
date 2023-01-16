@@ -24,7 +24,7 @@ Important info:
 
 1. interweaver shares a job opportunity for Lighthouse stackers activy in the community - https://github.com/sigp/positions-vacant/blob/master/lighthouse-support.md
 
-1. [roar-y and treebeard share that our artists have an opportunity to collaborate with FakeRareDecal team on creating a Lion's version of Deca logo](https://i.imgur.com/lUs6pGe.png). Intersted? Join in #creators! [1]
+1. [roar-y and treebeard share that our artists have an opportunity to collaborate with FakeRareDecal team on creating a Lion's version of Deca logo](https://i.imgur.com/lUs6pGe.png). Intersted? Join in #creators!
 
 1. Join: Wed Jan 18, 8am (PST) 4pm (UTC) set for our next live panel AMA with the team behind Influence a space strategy MMO game built on ethereum. 
 
