@@ -34,7 +34,7 @@ Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by
 [Week #1 - Dec 11, 2022 - Dec 18, 2022](https://week1--evmavericks-weekly.netlify.app)|
 [Top🔟 EVMavericks' Achievements of 2022 - Twitter thread](https://twitter.com/696_eth/status/1609278972193538050)|
 
-### Lastest: Week #4 EVMavericks Update: Jan 2-8, 2023
+### Latest: Week #4 EVMavericks Update: Jan 2-8, 2023
                                               
 [Twitter Thread](https://twitter.com/696_eth/status/1612535365809897474)| [Reddit Post](https://old.reddit.com/r/ethfinance/comments/1076f4p/daily_general_discussion_january_9_2023/j3l3vvv/) | Youtube Overview - coming later
 
