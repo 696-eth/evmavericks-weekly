@@ -36,7 +36,7 @@ Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by
 
 ### Week #5 EVMavericks Update: Jan 9-15, 2023
                                               
-[Twitter Thread] - Coming Monday Morning (PST) | [Reddit Post]()
+[Twitter Thread] - Coming Monday Morning (PST) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/10d6prc/daily_general_discussion_january_16_2023/j4k5ads/)
 
 ![](https://i.imgur.com/kBSp6JX.png)
 
@@ -60,7 +60,7 @@ Important info:
 
 1. [Weekly Ethfinance Doots Roundup #2](https://www.youtube.com/watch?v=qIyhvrrMG1s) 
 
-1. Check out (raywatch.eth.limo to see where it goes, created by whatthefuck
+1. Check out raywatch.eth.limo to see where it goes, created by whatthefuck
 
 Other stuff:
                                               
@@ -68,7 +68,7 @@ Other stuff:
 
 * Lots of activity in the #creators channel! Never done any art but wanna try doing it for the first time and need some pointers? Come thru!
 
-* Degen chat has beeng going just...insane! Thousands of messages on some days! Some are making money! Others are wondering how those are making money 😅 Some wholesome chats too <3 
+* Degen chat has being going just...insane! Thousands of messages on some days! Some are making money! Others are wondering how those are making money 😅 Some wholesome chats too <3 
 
 * Some talk and alpha in #game-fi
 ---
