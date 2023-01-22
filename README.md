@@ -19,7 +19,7 @@ alt="Lion" width="640" height="240" border=10" />
 
 Important info:
 
-1. ZombieBP started biweekly watercooler Monday voice chats! Next one is on 23rd at 3PM PST/12AM CET.
+1. FREE EVMavericks Tees for ETHDenver! Follow the link for sign-up and details: https://discord.com/channels/963992696387694592/1064925676479729705
 
 
 
