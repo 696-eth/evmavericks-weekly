@@ -16,16 +16,46 @@ alt="Lion" width="640" height="240" border=10" />
 [Twitter Thread]() | [Reddit Post]()
 
 ![](https://i.imgur.com/QfJvHxa.png)
-
+                                              
 Important info:
 
 1. FREE EVMavericks Tees for ETHDenver! Follow the link for sign-up and details: https://discord.com/channels/963992696387694592/1064925676479729705
+1. AMA w Influence https://spotifyanchor-web.app.link/e/qpvpXvLeHwb 
+1. Stake A Thon update: https://i.imgur.com/j7Pkpwp.png
+1. Chad Fund update: https://i.imgur.com/0IhMHPV.png
+1. EVMavericks Treasury update: https://docs.google.com/spreadsheets/d/1SUlyDlSXU7vG8Us80ssonWoTtneuNTYEE4TIChRSG6E/edit?usp=sharing
+1. Weekly Ethfinance Doots Roundup #3 https://youtu.be/W4T2x_TomXA
+1. EthFit week3 plan by The-A-Word https://i.imgur.com/bRw8XYH.png https://www.reddit.com/r/EthFitness/comments/zub9d8/rethfitness_lounge
+1. ZombieBP creates a #Marketing channel to discuss any future marketing opportunities or thoughts. Chime in!
+1. 
+1. Job opportunities: yeildaddy shares 
+https://jobs.lever.co/ethereumfoundation/89ff5705-3351-422d-a5d1-b0805e95edec
+696 shares
+https://www.linkedin.com/jobs/view/3437614612/?refId=59b8f80f-8b98-485d-b84b-81a6f7567e73&trackingId=vNJ3t8fpSzKmItvQpExITQ%3D%3D
+1. 696 finds out this new crypto podcast https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vdW50b2xkc3Rvcmllcw
+1. Some discussion about DAI and what happened with their latest vote here https://twitter.com/chrisblec/status/1616118862772158464?s=46&t=enwcrWOGQoednj5tqKuR_w
+1. Rauol Pal talks with Punk6529: Really big outlook, how memes are powerful and can be powerful into bringing a change combined with NFTs, how centralized power is dangerous, UX,  aaand more! https://www.realvision.com/shows/raoul-pal-adventures-in-crypto/videos/the-world-according-to-punk-6529-mXg5?tab=details
+1. icobeast creates a Daily Dose Unofficial Scavenger Hunt is live!https://twitter.com/beast_ico/status/1615025368196317190?s=46&t=Dc5H832sZaSt5jmgvcn6eg
 
+## Your contribution, which is as IMPORTANT as of builders, to Ethereum can be done in these ways:
+https://gitcoin.co/grants
+https://ceremony.ethereum.org/
 
+## Your Weekly Reminder to PROTECT your ASSETS. This guide should do for now [https://imgur.com/grNPpwN]
 
-Other stuff:
-                                              
-* Next steps for Chad Fund are being discussed. 
+More of degen stuff:
+
+* A few new fresh lions joining to the pride
+* Some staking talk and how there's a phase where you do nothing after you buy the hardware and procrostinate for months before setting it all up
+* skiff and mailchain are your decentralized alternatives to centralized emails
+* #creators are producing some nice art
+* Higher level alpha in the #alpha-links and then being discussed in #quality-chat
+* NaNaeBaby shares some insider information about Autominter: their team, plans, etc.
+* A few Lions get excited as RPL Rockets after Binance's listing!
+* People memeing DOJ lol. At least we got saved from BITZLATO
+* One thing for sure is that Lions give some awful dating advice 😂
+* And more of other degen stuff in the discord!
+
 
 
 ---
