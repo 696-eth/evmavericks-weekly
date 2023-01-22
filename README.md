@@ -15,7 +15,7 @@ alt="Lion" width="640" height="240" border=10" />
                                               
 [Twitter Thread]() | [Reddit Post]()
 
-![](https://i.imgur.com/LoUVbzW.png)
+![](https://i.imgur.com/QfJvHxa.png)
 
 Important info:
 
