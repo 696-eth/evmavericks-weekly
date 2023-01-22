@@ -1,7 +1,5 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://etheralpha.github.io/readme-themes/deep-blue.css">
-
-
     
 <a href="https://looksrare.org/collections/0x7dDAA898D33D7aB252Ea5F89f96717c47B2fEE6e#items" target="_blank">
     <svg height="40" width="40" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-left">
@@ -9,74 +7,27 @@
 alt="Lion" width="640" height="240" border=10" />
 </a>    
                                             
-                                      
-[Site](https://dao.evmavericks.xyz) | [Discord](https://discord.gg/evmavericks) | [Lionpaper](https://mirror.xyz/0xCF68C873D6925F30FFF58E2BdF2D8DA4c9c6f0Be/61meL896f1tgAIwpEyK8UR4OR9eP_igPGKZO5WneN8M) | [Treasury](https://etherscan.io/address/0x29816f59f1c7e1ba69289cf486556929f7743ca2) | [Youtube](https://www.youtube.com/@evmavericks) | [Twitter](https://twitter.com/EVMavericks)
-                                              
-[Weekly Ethfinance Doots Roundup #2](https://www.youtube.com/watch?v=qIyhvrrMG1s) | [r/ETHFinance](https://www.reddit.com/r/ethfinance/) | [Members' Projects + Daily Doots](https://dailydoots.com/#projects)
-                                                                                  
-                                              
+                                             
 ## EVMavericks Weekly Updates every Monday!
-[Homepage](https://evmavericks-weekly.netlify.app) - *Last updated: 1/16/2023*
+[Homepage](https://evmavericks-weekly.netlify.app) - *Last updated: 1/22/2023*
 
-
- 
-Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by **[hanniabu.eth](https://etheralpha.org/)** | AI Art by **[EVMaverick392](https://twitter.com/EVMaverick392)**
-
-
-    
-> I tried putting together some important, and not so, stuff while also trying to preserve some comfy feeling and not make everything public. I know the den channel can be viewed by anyone so I used most of the info from there while also giving you some inside scoop from other channels but not being too concrete cause I'm trying to respect the space and consent (that I havent asked for) of others and and wanting that comfy feeling of the degen chat to be preserved.
-
-| Previous Weeks |   |
-|--------------|---|
-[Week #5 - Jan 9 - 15, 2023](https://week5--evmavericks-weekly.netlify.app)|
-[Week #4 - Jan 2 - 8, 2023](https://week4--evmavericks-weekly.netlify.app)|
-[Week #3 - Dec 26, 2022 - Jan 1, 2023](https://week3--evmavericks-weekly.netlify.app)|
-[Week #2 - Dec 19, 2022 - Dec 25, 2022](https://week2--evmavericks-weekly.netlify.app)|
-[Week #1 - Dec 11, 2022 - Dec 18, 2022](https://week1--evmavericks-weekly.netlify.app)|
-[Top🔟 EVMavericks' Achievements of 2022 - Twitter thread](https://twitter.com/696_eth/status/1609278972193538050)|
-
-### Week #5 EVMavericks Update: Jan 9-15, 2023
+### Week #5 EVMavericks Update: Jan 16-22, 2023
                                               
-[Twitter Thread](https://twitter.com/696_eth/status/1615061292666191874) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/10d6prc/daily_general_discussion_january_16_2023/j4k5ads/)
+[Twitter Thread]() | [Reddit Post]()
 
-![](https://i.imgur.com/kBSp6JX.png)
+![](https://i.imgur.com/LoUVbzW.png)
 
 Important info:
 
 1. ZombieBP started biweekly watercooler Monday voice chats! Next one is on 23rd at 3PM PST/12AM CET.
 
-1. interweaver shares a job opportunity for Lighthouse stackers activy in the community - https://github.com/sigp/positions-vacant/blob/master/lighthouse-support.md
 
-1. [roar-y and treebeard share that our artists have an opportunity to collaborate with FakeRareDecal team on creating a Lion's version of Deca logo](https://i.imgur.com/lUs6pGe.png). Intersted? Join in #creators!
-
-1. Join: Wed Jan 18, 8am (PST) 4pm (UTC) set for our next live panel AMA with the team behind Influence a space strategy MMO game built on ethereum. 
-
-1. Ethereum roadmap - https://notes.ethereum.org/@domothy/roadmap - shared by Yielddaddy 
-
-1. MOOC, spring 2023, - https://zk-learning.org/ - shared by Yielddaddy 
-
-1. More for Job seekers https://web3jobfair.hy.pe/?utm_source=Linkedin&utm_medium=organic&utm_campaign=JobFair&utm_term=jobfair - shared by 696
-
-1. Sku's [twitter thread](https://twitter.com/sku16eth/status/1613638578189344784) causes some FOMO into EVMavericks - [7 sales within an hour!](https://i.imgur.com/mxd4cCu.png)
-
-1. [Weekly Ethfinance Doots Roundup #2](https://www.youtube.com/watch?v=qIyhvrrMG1s) 
-
-1. Check out raywatch.eth.limo to see where it goes, created by whatthefuck
-
-1. 696 shares the [ultrasound money thread](https://twitter.com/696_eth/status/1613599862226038784)
-
-1. Crypto podcast recommendations shared by The-A-Word: Zero Knowledge, proof of Decentralization, the Daily Gwei, Digitally Rare, The Green pill, up only. 
-Yieldaddy chimes in with: TheDefinat and Crypt0sNews.
 
 Other stuff:
                                               
 * Next steps for Chad Fund are being discussed. 
 
-* Lots of activity in the #creators channel! Never done any art but wanna try doing it for the first time and need some pointers? Come thru!
 
-* Degen chat has being going just...insane! Thousands of messages on some days! Some are making money! Others are wondering how those are making money 😅 Some wholesome chats too <3 
-
-* Some talk and alpha in #game-fi
 ---
                                               
 [Homepage](https://evmavericks-weekly.netlify.app)
