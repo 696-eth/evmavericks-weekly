@@ -13,7 +13,7 @@ alt="Lion" width="640" height="240" border=10" />
 
 ### Week #6 EVMavericks Update: Jan 16-22, 2023
                                               
-[Twitter Thread] () | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/10j5dkj/daily_general_discussion_january_23_2023/j5ijuli/)
+[Twitter Thread](https://twitter.com/696_eth/status/1617591021654937600) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/10j5dkj/daily_general_discussion_january_23_2023/j5ijuli/)
 
 ![](https://i.imgur.com/QfJvHxa.png)
                                               
@@ -48,7 +48,7 @@ More of degen stuff:
 
 * [icobeast creates a Daily Dose Unofficial Scavenger Hunt!](https://twitter.com/beast_ico/status/1615025368196317190?s=46&t=Dc5H832sZaSt5jmgvcn6eg) 
 * A few new lions joining to the pride
-* Some staking talk and how there's a phase where you do nothing after you buy the hardware and procrostinate for months before setting it all up
+* Some staking talk and how there's a phase where you do nothing after you buy the hardware and procrastinate for months before setting it all up
 * skiff and mailchain are your decentralized alternatives to centralized emails
 * #creators are producing some nice art
 * More sophisticated alpha in the #alpha-links, being discussed in #quality-chat
