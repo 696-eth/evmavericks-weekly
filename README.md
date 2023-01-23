@@ -37,7 +37,7 @@ Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by
 [Top🔟 EVMavericks' Achievements of 2022 - Twitter thread](https://twitter.com/696_eth/status/1609278972193538050)|
 
 
-### Week #5 EVMavericks Update: Jan 16-22, 2023
+### Week #6 EVMavericks Update: Jan 16-22, 2023
                                               
 [Twitter Thread] () | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/10j5dkj/daily_general_discussion_january_23_2023/j5ijuli/)
                                               
@@ -60,6 +60,8 @@ Important info:
 1. 696 finds [this crypto podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vdW50b2xkc3Rvcmllcw)
 1. Some discussion about DAI and what happened with their latest vote [here](https://twitter.com/chrisblec/status/1616118862772158464?s=46&t=enwcrWOGQoednj5tqKuR_w)
 1. [Raoul Pal talks with Punk6529](https://www.realvision.com/shows/raoul-pal-adventures-in-crypto/videos/the-world-according-to-punk-6529-mXg5?tab=details): Really big outlook, how memes are powerful and can be used into making a change combined with NFTs, how centralized power is dangerous, how bad UX is, aaand more! 
+ 
+    [Part 2 - as of recent!](https://www.realvision.com/shows/raoul-pal-adventures-in-crypto/videos/the-world-according-to-punk6529-part-ii-gAoA?tab=details)
 
 ## Your contribution, which is as IMPORTANT as of builders, to Ethereum ecosystem can be done in these ways:
                                                                     
