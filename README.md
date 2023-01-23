@@ -13,19 +13,19 @@ alt="Lion" width="640" height="240" border=10" />
 
 ### Week #5 EVMavericks Update: Jan 16-22, 2023
                                               
-[Twitter Thread]() | [Reddit Post]()
+[Twitter Thread] () | [Reddit Post] ()
 
 ![](https://i.imgur.com/QfJvHxa.png)
                                               
 Important info:
 
-1. FREE EVMavericks Tees for ETHDenver! Follow the link for sign-up and details: https://discord.com/channels/963992696387694592/1064925676479729705
-1. AMA w Influence https://spotifyanchor-web.app.link/e/qpvpXvLeHwb 
-1. Stake A Thon update: https://i.imgur.com/j7Pkpwp.png
-1. Chad Fund update: https://i.imgur.com/0IhMHPV.png
-1. EVMavericks Treasury update: https://docs.google.com/spreadsheets/d/1SUlyDlSXU7vG8Us80ssonWoTtneuNTYEE4TIChRSG6E/edit?usp=sharing
-1. Weekly Ethfinance Doots Roundup #3 https://youtu.be/W4T2x_TomXA
-1. EthFit week3 plan by The-A-Word https://i.imgur.com/bRw8XYH.png https://www.reddit.com/r/EthFitness/comments/zub9d8/rethfitness_lounge
+1. FREE EVMavericks Tees for ETHDenver! [The link](https://discord.com/channels/963992696387694592/1064925676479729705) for sign-up and details. 
+1. [Listen to AMA with the Influence team](https://spotifyanchor-web.app.link/e/qpvpXvLeHwb) 
+1. [Stake A Thon update](https://i.imgur.com/j7Pkpwp.png)
+1. [Chad Fund update]https://i.imgur.com/0IhMHPV.png)
+1. [EVMavericks Treasury update](https://docs.google.com/spreadsheets/d/1SUlyDlSXU7vG8Us80ssonWoTtneuNTYEE4TIChRSG6E/edit?usp=sharing)
+1. [Weekly Ethfinance Doots Roundup #3](https://youtu.be/W4T2x_TomXA)
+1. [EthFit week3 plan](https://i.imgur.com/bRw8XYH.png) by The-A-Word, [here's the reddit thread too](https://www.reddit.com/r/EthFitness/comments/zub9d8/rethfitness_lounge)
 1. ZombieBP creates a #Marketing channel to discuss any future marketing opportunities or thoughts. Chime in!
 1. 
 1. Job opportunities: yeildaddy shares 
@@ -37,25 +37,25 @@ https://www.linkedin.com/jobs/view/3437614612/?refId=59b8f80f-8b98-485d-b84b-81a
 1. Rauol Pal talks with Punk6529: Really big outlook, how memes are powerful and can be powerful into bringing a change combined with NFTs, how centralized power is dangerous, UX,  aaand more! https://www.realvision.com/shows/raoul-pal-adventures-in-crypto/videos/the-world-according-to-punk-6529-mXg5?tab=details
 1. icobeast creates a Daily Dose Unofficial Scavenger Hunt is live!https://twitter.com/beast_ico/status/1615025368196317190?s=46&t=Dc5H832sZaSt5jmgvcn6eg
 
-## Your contribution, which is as IMPORTANT as of builders, to Ethereum can be done in these ways:
-https://gitcoin.co/grants
-https://ceremony.ethereum.org/
+## Your contribution, which is as IMPORTANT as of builders, to Ethereum ecosystem can be done in these ways:
+                                                                    
+* https://gitcoin.co/grants
+                                              
+* https://ceremony.ethereum.org/
 
-## Your Weekly Reminder to PROTECT your ASSETS. This guide should do for now [https://imgur.com/grNPpwN]
+## Your Weekly Reminder to PROTECT your ASSETS. [This guide](https://imgur.com/grNPpwN) should do for now
 
 More of degen stuff:
 
-* A few new fresh lions joining to the pride
+* A few new lions joining to the pride
 * Some staking talk and how there's a phase where you do nothing after you buy the hardware and procrostinate for months before setting it all up
 * skiff and mailchain are your decentralized alternatives to centralized emails
 * #creators are producing some nice art
-* Higher level alpha in the #alpha-links and then being discussed in #quality-chat
+* More sophisticated alpha in the #alpha-links, being discussed in #quality-chat
 * NaNaeBaby shares some insider information about Autominter: their team, plans, etc.
-* A few Lions get excited as RPL Rockets after Binance's listing!
-* People memeing DOJ lol. At least we got saved from BITZLATO
-* One thing for sure is that Lions give some awful dating advice 😂
-* And more of other degen stuff in the discord!
-
+* A few Lions get excited as RPL's price Rockets after Binance's listing!
+* People memeing DOJ. At least we got saved from BITZLATO.
+* And more of other degen stuff in the #degen-chat
 
 
 ---
