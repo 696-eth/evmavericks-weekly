@@ -30,7 +30,7 @@ Important info:
 1. Job opportunities: 
 * [Yielddaddy shares](https://jobs.lever.co/ethereumfoundation/89ff5705-3351-422d-a5d1-b0805e95edec)
 * [696 shares](https://www.linkedin.com/jobs/view/3437614612/?refId=59b8f80f-8b98-485d-b84b-81a6f7567e73&trackingId=vNJ3t8fpSzKmItvQpExITQ%3D%3D)
-1. 696 finds out [this crypto podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vdW50b2xkc3Rvcmllcw)
+1. 696 finds [this crypto podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vdW50b2xkc3Rvcmllcw)
 1. Some discussion about DAI and what happened with their latest vote [here](https://twitter.com/chrisblec/status/1616118862772158464?s=46&t=enwcrWOGQoednj5tqKuR_w)
 1. [Rauol Pal talks with Punk6529](https://www.realvision.com/shows/raoul-pal-adventures-in-crypto/videos/the-world-according-to-punk-6529-mXg5?tab=details): Really big outlook, how memes are powerful and can be used into making a change combined with NFTs, how centralized power is dangerous, how bad UX is, aaand more! 
 1. [icobeast creates a Daily Dose Unofficial Scavenger Hunt!](https://twitter.com/beast_ico/status/1615025368196317190?s=46&t=Dc5H832sZaSt5jmgvcn6eg)
