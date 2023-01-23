@@ -13,7 +13,7 @@ alt="Lion" width="640" height="240" border=10" />
 
 ### Week #5 EVMavericks Update: Jan 16-22, 2023
                                               
-[Twitter Thread] () | [Reddit Post] ()
+[Twitter Thread] () | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/10j5dkj/daily_general_discussion_january_23_2023/j5ijuli/)
 
 ![](https://i.imgur.com/QfJvHxa.png)
                                               
