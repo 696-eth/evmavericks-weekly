@@ -33,7 +33,7 @@ Important info:
 1. 696 finds out [this crypto podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vdW50b2xkc3Rvcmllcw)
 1. Some discussion about DAI and what happened with their latest vote [here](https://twitter.com/chrisblec/status/1616118862772158464?s=46&t=enwcrWOGQoednj5tqKuR_w)
 1. [Rauol Pal talks with Punk6529](https://www.realvision.com/shows/raoul-pal-adventures-in-crypto/videos/the-world-according-to-punk-6529-mXg5?tab=details): Really big outlook, how memes are powerful and can be used into making a change combined with NFTs, how centralized power is dangerous, how bad UX is, aaand more! 
-1. [icobeast creates a Daily Dose Unofficial Scavenger Hunt is live!](https://twitter.com/beast_ico/status/1615025368196317190?s=46&t=Dc5H832sZaSt5jmgvcn6eg)
+1. [icobeast creates a Daily Dose Unofficial Scavenger Hunt!](https://twitter.com/beast_ico/status/1615025368196317190?s=46&t=Dc5H832sZaSt5jmgvcn6eg)
 
 ## Your contribution, which is as IMPORTANT as of builders, to Ethereum ecosystem can be done in these ways:
                                                                     
