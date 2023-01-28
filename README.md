@@ -1,7 +1,5 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://etheralpha.github.io/readme-themes/deep-blue.css">
-
-
     
 <a href="https://looksrare.org/collections/0x7dDAA898D33D7aB252Ea5F89f96717c47B2fEE6e#items" target="_blank">
     <svg height="40" width="40" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-left">
@@ -9,40 +7,15 @@
 alt="Lion" width="640" height="240" border=10" />
 </a>    
                                             
-                                      
-[Site](https://dao.evmavericks.xyz) | [Discord](https://discord.gg/evmavericks) | [Lionpaper](https://mirror.xyz/0xCF68C873D6925F30FFF58E2BdF2D8DA4c9c6f0Be/61meL896f1tgAIwpEyK8UR4OR9eP_igPGKZO5WneN8M) | [Treasury](https://etherscan.io/address/0x29816f59f1c7e1ba69289cf486556929f7743ca2) | [Youtube](https://www.youtube.com/@evmavericks) | [Twitter](https://twitter.com/EVMavericks)
-                                              
-[Weekly Ethfinance Doots Roundup #2](https://www.youtube.com/watch?v=qIyhvrrMG1s) | [r/ETHFinance](https://www.reddit.com/r/ethfinance/) | [Members' Projects + Daily Doots](https://dailydoots.com/#projects)
-                                                                                  
-                                              
+                                             
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app) - *Last updated: 1/22/2023*
 
-
- 
-Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by **[hanniabu.eth](https://etheralpha.org/)** | AI Art by **[EVMaverick392](https://twitter.com/EVMaverick392)**
-
-
-    
-> I tried putting together some important, and not so, stuff while also trying to preserve some comfy feeling and not make everything public. I know the den channel can be viewed by anyone so I used most of the info from there while also giving you some inside scoop from other channels but not being too concrete cause I'm trying to respect the space and consent (that I havent asked for) of others and and wanting that comfy feeling of the degen chat to be preserved.
-
-| Previous Weeks |   |
-|--------------|---|
-[Week #6 - Jan 16 - 22, 2023](https://week6--evmavericks-weekly.netlify.app)|
-[Week #5 - Jan 9 - 15, 2023](https://week5--evmavericks-weekly.netlify.app)|
-[Week #4 - Jan 2 - 8, 2023](https://week4--evmavericks-weekly.netlify.app)|
-[Week #3 - Dec 26, 2022 - Jan 1, 2023](https://week3--evmavericks-weekly.netlify.app)|
-[Week #2 - Dec 19, 2022 - Dec 25, 2022](https://week2--evmavericks-weekly.netlify.app)|
-[Week #1 - Dec 11, 2022 - Dec 18, 2022](https://week1--evmavericks-weekly.netlify.app)|
-[Top🔟 EVMavericks' Achievements of 2022 - Twitter thread](https://twitter.com/696_eth/status/1609278972193538050)|
-
-
-### Week #6 EVMavericks Update: Jan 16-22, 2023
+### Week #7 EVMavericks Update: Jan 16-22, 2023
                                               
 [Twitter Thread](https://twitter.com/696_eth/status/1617591021654937600) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/10j5dkj/daily_general_discussion_january_23_2023/j5ijuli/)
-                                              
 
-![](https://i.imgur.com/QfJvHxa.png)
+![](https://i.imgur.com/7TN9nO3.png)
                                               
 Important info:
 
@@ -73,7 +46,7 @@ Important info:
 
 More of degen stuff:
 
-* [icobeast creates a Daily Dose Unofficial Scavenger Hunt!](https://twitter.com/beast_ico/status/1615025368196317190?s=46&t=Dc5H832sZaSt5jmgvcn6eg)
+* [icobeast creates a Daily Dose Unofficial Scavenger Hunt!](https://twitter.com/beast_ico/status/1615025368196317190?s=46&t=Dc5H832sZaSt5jmgvcn6eg) 
 * A few new lions joining to the pride
 * Some staking talk and how there's a phase where you do nothing after you buy the hardware and procrastinate for months before setting it all up
 * skiff and mailchain are your decentralized alternatives to centralized emails
@@ -83,6 +56,8 @@ More of degen stuff:
 * A few Lions get excited as RPL's price Rockets after Binance's listing!
 * People memeing DOJ. At least we got saved from BITZLATO.
 * And more of other degen stuff in the #degen-chat
+
+
 ---
                                               
 [Homepage](https://evmavericks-weekly.netlify.app)
