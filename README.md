@@ -29,13 +29,13 @@ alt="Lion" width="640" height="240" border=10" />
 
 Top 5 Monthly contributors - January 2023
 
-[@TheBenMeadows](https://twitter.com/TheBenMeadows)
+[TheBenMeadows](https://twitter.com/TheBenMeadows)
 
-[@The_eth_Word](https://twitter.com/The_eth_Word)
+[The_eth_Word](https://twitter.com/The_eth_Word)
 
-[@whatthefuck_eth](https://twitter.com/whatthefuck_eth)
+[whatthefuck_eth](https://twitter.com/whatthefuck_eth)
 
-[@Chrono_Naut](https://twitter.com/Chrono_Naut)
+[Chrono_Naut](https://twitter.com/Chrono_Naut)
 
 ZombieBP
 
