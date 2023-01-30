@@ -43,7 +43,7 @@ Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by
 
 ### Latest: EVMavericks Weekly #7: Jan 23-29, 2023
                                               
-[Twitter Thread]() | [Reddit Post]()
+[Twitter Thread]() | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/10oudh1/daily_general_discussion_january_30_2023/j6gxea1/)
                                               
 
 ![](https://i.imgur.com/7TN9nO3.png)
