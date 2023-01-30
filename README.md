@@ -17,7 +17,7 @@ alt="Lion" width="640" height="240" border=10" />
 
 ![](https://i.imgur.com/7TN9nO3.png)
                                               
-Important info:                                              
+### Important info:                                              
                                               
 1. [Proposal to transfer collection rights to The Ben Meadows](https://snapshot.org/#/evmaverick.eth/proposal/0xdbde2742e2b87e0b7e6d400ac9112cc5e235ac3953703209d58c2aae6f968524) to verify EVMavericks on Opensea and adjust the banner, etc. 
 1. Written by Sabishii, EVM Distribution Phase, Vote 1 is happening in #ideas channel thru emoji vote to gauge how we want to proceed. Chime in with discussion in #marketing and keep an eye on next phases of votes.
