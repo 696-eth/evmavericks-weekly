@@ -12,7 +12,7 @@ alt="Lion" width="640" height="240" border=10" />
                                       
 [Site](https://dao.evmavericks.xyz) | [Discord](https://discord.gg/evmavericks) | [Lionpaper](https://mirror.xyz/0xCF68C873D6925F30FFF58E2BdF2D8DA4c9c6f0Be/61meL896f1tgAIwpEyK8UR4OR9eP_igPGKZO5WneN8M) | [Treasury](https://etherscan.io/address/0x29816f59f1c7e1ba69289cf486556929f7743ca2) | [Youtube](https://www.youtube.com/@evmavericks) | [Twitter](https://twitter.com/EVMavericks)
                                               
-[Weekly Ethfinance Doots Roundup #2](https://www.youtube.com/watch?v=qIyhvrrMG1s) | [r/ETHFinance](https://www.reddit.com/r/ethfinance/) | [Members' Projects + Daily Doots](https://dailydoots.com/#projects)
+[Weekly Ethfinance Doots Roundup #4](https://www.youtube.com/watch?v=M-AcQ26EhLs) | [r/ETHFinance](https://www.reddit.com/r/ethfinance/) | [Members' Projects + Daily Doots](https://dailydoots.com/#projects)
                                                                                   
                                               
 ## EVMavericks Weekly Updates every Monday!
@@ -38,12 +38,12 @@ Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by
 [Week #1 - Dec 11, 2022 - Dec 18, 2022](https://week1--evmavericks-weekly.netlify.app)|
 [Top🔟 EVMavericks' Achievements of 2022 - Twitter thread](https://twitter.com/696_eth/status/1609278972193538050)|
 
-### Week #6 EVMavericks Update: Jan 16-22, 2023
+### Week #7 EVMavericks Update: Jan 23-29, 2023
                                               
-[Twitter Thread](https://twitter.com/696_eth/status/1617591021654937600) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/10j5dkj/daily_general_discussion_january_23_2023/j5ijuli/)
+[Twitter Thread]() | [Reddit Post]()
                                               
 
-![](https://i.imgur.com/QfJvHxa.png)
+![](https://i.imgur.com/7TN9nO3.png)
                                               
 Important info:
 
