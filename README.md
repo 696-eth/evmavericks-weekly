@@ -52,7 +52,7 @@ Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by
                                               
 1. [Proposal to transfer collection rights to The Ben Meadows](https://snapshot.org/#/evmaverick.eth/proposal/0xdbde2742e2b87e0b7e6d400ac9112cc5e235ac3953703209d58c2aae6f968524) to verify EVMavericks on Opensea and adjust the banner, etc. 
 1. Proposed by Sabishii, EVM Distribution Phase, Vote 1 is happening in #ideas channel thru emoji vote to gauge how we want to proceed. Discuss in #marketing and keep an eye on next phases of votes.
-1. ZombieBP hosted another watercooler voice chat, next one is next Monday (Feb 6th)
+1. ZombieBP hosted another water cooler voice chat, next one is next Monday (Feb 6th)
 1. [Weekly Ethfinance Doots Roundup #4](https://www.youtube.com/watch?v=M-AcQ26EhLs)
 1. Chad fund has been setup. Council finalized. Activies have started.
 1. Nuwtox brings up a good point about dangers of Polygon's multisig after Polygon Team tweets a photo of them being all together.
