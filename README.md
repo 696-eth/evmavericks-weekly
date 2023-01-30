@@ -13,7 +13,8 @@ alt="Lion" width="640" height="240" border=10" />
                                
                                               
 ## EVMavericks Weekly Updates every Monday!
-[Homepage](https://evmavericks-weekly.netlify.app) - *Last updated: 1/22/2023*
+[Homepage](https://evmavericks-weekly.netlify.app)
+*Last updated: 1/29/2023*
 
  
 
