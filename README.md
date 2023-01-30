@@ -28,6 +28,8 @@ Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by
 
 | Previous Weeks |   |
 |--------------|---|
+[Week #7 - Jan 23 - 29, 2023](https://week7--evmavericks-weekly.netlify.app)|
+[January 2023 Active Members Highlight](https://members1--evmavericks-weekly.netlify.app)|
 [Week #6 - Jan 16 - 22, 2023](https://week6--evmavericks-weekly.netlify.app)|
 [Week #5 - Jan 9 - 15, 2023](https://week5--evmavericks-weekly.netlify.app)|
 [Week #4 - Jan 2 - 8, 2023](https://week4--evmavericks-weekly.netlify.app)|
@@ -35,7 +37,6 @@ Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by
 [Week #2 - Dec 19, 2022 - Dec 25, 2022](https://week2--evmavericks-weekly.netlify.app)|
 [Week #1 - Dec 11, 2022 - Dec 18, 2022](https://week1--evmavericks-weekly.netlify.app)|
 [Top🔟 EVMavericks' Achievements of 2022 - Twitter thread](https://twitter.com/696_eth/status/1609278972193538050)|
-
 
 ### Week #6 EVMavericks Update: Jan 16-22, 2023
                                               
