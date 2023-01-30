@@ -19,7 +19,7 @@ alt="Lion" width="640" height="240" border=10" />
 
 | Previous Months |   |
 |--------------|---|
-[January 2023 Highlight](https://members1--evmavericks-weekly.netlify.app)|
+[January 2023 Active Members Highlight](https://members1--evmavericks-weekly.netlify.app)|
 
 ### Active EVMavericks: Memebers Highlight January 2023
                                               
