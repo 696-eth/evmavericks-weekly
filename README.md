@@ -9,31 +9,30 @@ alt="Lion" width="640" height="240" border=10" />
                                             
                                              
 ## EVMavericks Weekly Updates every Monday!
-[Homepage](https://evmavericks-weekly.netlify.app) - *Last updated: 1/22/2023*
+[Homepage](https://evmavericks-weekly.netlify.app) - *Last updated: 1/29/2023*
 
-### Week #7 EVMavericks Update: Jan 16-22, 2023
+### Week #7 EVMavericks Update: Jan 23-29, 2023
                                               
 [Twitter Thread]() | [Reddit Post]()
 
 ![](https://i.imgur.com/7TN9nO3.png)
                                               
-Important info:
+Important info:                                              
                                               
-
-                                              
-1. [Proposal to transfer collection rights to The Ben Meadows](https://snapshot.org/#/evmaverick.eth/proposal/0xdbde2742e2b87e0b7e6d400ac9112cc5e235ac3953703209d58c2aae6f968524) to verify EVMavericks on Opensea and adjust the banner, etc - 
-1. Written by Sabishii, EVM Distribution Phase, Vote 1 is happening in #ideas channel thru emoji vote to gauge how we want to proceed. Chime in with discussion in #marketing and keep an eye on next phases of votes 
-1. Watercooler voice chat hosted by ZombieBP happened, next one is next Monday! 
+1. [Proposal to transfer collection rights to The Ben Meadows](https://snapshot.org/#/evmaverick.eth/proposal/0xdbde2742e2b87e0b7e6d400ac9112cc5e235ac3953703209d58c2aae6f968524) to verify EVMavericks on Opensea and adjust the banner, etc. 
+1. Written by Sabishii, EVM Distribution Phase, Vote 1 is happening in #ideas channel thru emoji vote to gauge how we want to proceed. Chime in with discussion in #marketing and keep an eye on next phases of votes.
+1. Watercooler voice chat hosted by ZombieBP happened, next one is next Monday (Feb 6th)
 1. [Weekly Ethfinance Doots Roundup #4](https://www.youtube.com/watch?v=M-AcQ26EhLs)
 1. Chad fund has been setup. Council finalized. Activies have started.
 1. Nuwtox brings up a good point about dangers of Polygon's multisig after Polygon Team posts a photo of them being all together on twitter.
 1. Treebeard reposts [a security checklist](https://github.com/Lissy93/personal-security-checklist)
-1. InsideTheSimulation initiates the occasional cleanup of the Discord sidebar and proposes some channel basic restructing
+1. InsideTheSimulation initiates the occasional cleanup of the Discord sidebar and proposes some channel basic restructing.
 
 Other info:
 * Nuwtox hooks EVMavericks up with a free mint slots for ecc0s!
 * Cool projects and sneak peeks dropped in #creators
 * Degen chat is not slowing down and continues to be hella degen: NFTs, tokens, stocks, and whatever else you wanna talk about and ape into!
+* More suggestions of potential projects in the #ideas channel
 * EIPandas see a pump!                                             
 
 
