@@ -57,13 +57,18 @@ Curated and maintaned by **[696.eth](https://twitter.com/696_eth)** | Website by
 1. Chad fund has been setup. Council finalized. Activies have started.
 1. Nuwtox brings up a good point about dangers of Polygon's multisig after Polygon Team tweets a photo of them being all together.
 1. Treebeard reposts [a security checklist](https://github.com/Lissy93/personal-security-checklist)
-1. InsideTheSimulation initiates the occasional cleanup of the Discord sidebar and proposes some channel basic restructuring.
+1. InsideTheSimulation initiates the occasional cleanup of the Discord sidebar and proposes some basic channel restructuring.
 
 Other info:
+
 * Nuwtox hooks EVMavericks up with free mint slots for ecc0s!
+
 * Cool projects and sneak peeks dropped in #creators
+
 * Degen chat is not slowing down and continues to be hella degen: NFTs, tokens, stocks, and whatever else you wanna talk about and ape into!
+
 * More suggestions of potential projects in the #ideas channel
+
 * EIPandas see a pump!                                             
 
 ---
