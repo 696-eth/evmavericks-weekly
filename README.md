@@ -41,7 +41,7 @@ ZombieBP
 
 ------
 
-**The Ben Meadows**
+### The Ben Meadows
 
 
 • One of current financial stewards and involved in treasury matters
@@ -56,7 +56,7 @@ ZombieBP
 
 ---
 
-**The A Word**
+### The A Word
 
 
 • Host of EVMavericks podcast
@@ -71,7 +71,7 @@ ZombieBP
 
 ---
 
-**Whatthefuck** (dimpap)
+### Whatthefuck (dimpap)
 
 
 • Drops ENS alpha (& more!) in the degen chat
@@ -83,7 +83,7 @@ ZombieBP
 • Created http://raywatch.eth.limo
 
 ---
-**HashTagFuzzMaster** (chrononaut)
+### HashTagFuzzMaster (chrononaut)
 
 
 • Host and Editor of EVMavericks podcast
@@ -96,7 +96,7 @@ ZombieBP
 
 ---
 
-**ZombieBP**
+### ZombieBP
 
 • Hosts the bi-weekly Monday Water Cooler chat
 
