@@ -13,7 +13,7 @@ alt="Lion" width="640" height="240" border=10" />
 
 *Last updated: 1/29/2023*
 
-### Week #7 EVMavericks Update: Jan 23-29, 2023
+### EVMavericks Weekly #7: Jan 23-29, 2023
                                               
 [Twitter Thread]() | [Reddit Post]()
 
