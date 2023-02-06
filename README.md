@@ -18,7 +18,7 @@ alt="Lion" width="640" height="240" border=10" />
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
                                               
-*Last updated: 1/29/2023*
+*Last updated: 2/5/2023*
 
 
  
@@ -30,6 +30,7 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
 
 | Previous Weeks |   |
 |--------------|---|
+[Week #8 - Jan 30 - Feb 5th, 2023](https://week8--evmavericks-weekly.netlify.app)|
 [Week #7 - Jan 23 - 29, 2023](https://week7--evmavericks-weekly.netlify.app)|
 [January 2023 Active Members Highlight](https://members1--evmavericks-weekly.netlify.app)|
 [Week #6 - Jan 16 - 22, 2023](https://week6--evmavericks-weekly.netlify.app)|
@@ -41,36 +42,44 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
 [Top🔟 EVMavericks' Achievements of 2022 - Twitter thread](https://twitter.com/696_eth/status/1609278972193538050)|
 
 
-### Latest: EVMavericks Weekly #7: Jan 23-29, 2023
+### Latest: EVMavericks Weekly #8: Jan 30-Feb 5th, 2023
                                               
-[Twitter Thread](https://twitter.com/696_eth/status/1620121499779870720) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/10oudh1/daily_general_discussion_january_30_2023/j6gxea1/)
+[Twitter Thread]() | [Reddit Post]()
                                               
 
-![](https://i.imgur.com/7TN9nO3.png)
-                                              
-### Important info:                                              
-                                              
-1. [Proposal to transfer collection rights to The Ben Meadows](https://snapshot.org/#/evmaverick.eth/proposal/0xdbde2742e2b87e0b7e6d400ac9112cc5e235ac3953703209d58c2aae6f968524) to verify EVMavericks on Opensea and adjust the banner, etc. 
-1. Proposed by Sabishii, EVM Distribution Phase, Vote 1 is happening in #ideas channel thru emoji vote to gauge how we want to proceed. Discuss in #marketing and keep an eye on next phases of votes.
-1. ZombieBP hosted another water cooler voice chat, next one is next Monday (Feb 6th)
-1. [Weekly Ethfinance Doots Roundup #4](https://www.youtube.com/watch?v=M-AcQ26EhLs)
-1. Chad fund has been setup. Council finalized. Activies have started.
-1. Nuwtox brings up a good point about dangers of Polygon's multisig after Polygon Team tweets a photo of them being all together.
-1. Treebeard reposts [a security checklist](https://github.com/Lissy93/personal-security-checklist)
-1. InsideTheSimulation initiates the occasional cleanup of the Discord sidebar and proposes some basic channel restructuring.
+![](https://i.imgur.com/1edesX4.png)
+                                             
 
-Other info:
+### Most important:
 
-* Nuwtox hooks EVMavericks up with free mint slots for ecc0s!
+Reminder: Next water cooler chat is on February 6th (today) at 7PM EST/4PM PST
 
-* Cool projects and sneak peeks dropped in #creators
+1. The collection is in hands of The Ben Meadows for the next 60 days after the latest snapshot has been successfully passed. Ben posted 4.5e rETH as collateral.
+1. 19k DAI of grant money for stake-a-thon have been transferred to 2/3 multisig. It's going to be disbursed to DoubtStarsAreLions as she's the new Project Manager. [Announcement](https://imgur.com/EyxE7qP)
+1. [Anotherblock AMA happened](https://anchor.fm/evmavericks/episodes/E8--AnotherBlock-AMA-2-e1uci2s)
+1. [Weekly Ethfinance Doots Roundup #5](https://www.youtube.com/watch?v=mREo3TWlMi4&embeds_euri=https%3A%2F%2Ftwitter.com%2F&feature=emb_logo)
+1. TheBenMeadows & HashtagFuzzMaster share [this security infographic](https://imgur.com/8NvatOk)
+1. Discussion about applying for OP's Education grant nominations happened. 
+1. Exploring options since our DAO-controlled twitter account will stop working since twitter API will no longer be free soon.
+1. Discussion around restructuring some multisig and getting new members as one of our current multisig members wants to rotated out. 
+1. icobeast shares this interesting [twitter thread](https://twitter.com/littleshapesnft/status/1620917475197210626?s=46&t=M6InNU3RgcGsHsBul17m6A) that claims to uncover some ring of influencers and founders that used bots on twitter and drained $200,000,000+ from the ecosystem by launching many NFT communities
+1. Yielddaddy shares [this video of Rocket Pool Validator setup from the scratch](https://youtu.be/-o3IV3AClw8)
+1. 696 shares [free (used to cost $3k) courses from alchemy](https://university.alchemy.com/)
+1. eleusys aka 835.eth shares Raoul Pal talking about digital identity, content authentication in [this NFT podcast](https://www.youtube.com/watch?v=ofE5E1w7apU&t=1562s)
+1. Nuwtox tried bringing more spice to the #degen by introducing new Trending-On-Icy-Tools-Discussion!
 
-* Degen chat is not slowing down and continues to be hella degen: NFTs, tokens, stocks, and whatever else you wanna talk about and ape into!
+Others:
 
-* More suggestions of potential projects in the #ideas channel
-
-* EIPandas see a pump!                                             
-
+* Our Floor Price is up to 0.8E, higher than goblintown's 
+* Creators do be creating and sharing their successes, works in progress, sneak peeks and more in #creators 
+* Game-fi channel has seen more activity and discussions
+* The Ben Meadows giving away free Inpeak guest pass or Floor app pass in #the-den
+* Discussion around emails and security took place in #the-den
+* More discussion in #marketing
+* Someone sold the EVM #195, the logo Lion for our collection, for 0.5WETH.
+* People sharing about the Flux project of Ryan Carson, who's also the host of Daily Dose, and the POAPs of which people have been collecting. Unfortunately, it seems like Ryan has turned out to be a repeating grifter in the space. 
+* And thousand more messages and hundreds of topics that you can find in the degen chat alone.
+                                
 ---
                                               
 [Homepage](https://evmavericks-weekly.netlify.app)
