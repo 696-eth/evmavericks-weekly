@@ -3,7 +3,7 @@
     
 <a href="https://looksrare.org/collections/0x7dDAA898D33D7aB252Ea5F89f96717c47B2fEE6e#items" target="_blank">
     <svg height="40" width="40" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-left">
-      <img src="https://i.imgur.com/aI3pPvn.png" 
+      <img src="https://i.imgur.com/XnxhIpb.png" 
 alt="Lion" width="640" height="240" border=10" />
 </a>    
                                             
