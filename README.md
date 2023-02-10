@@ -12,7 +12,8 @@ alt="Lion" width="640" height="420" border=10" />
                                       
 
 | Threads | |
-|--------------|---|                                              
+|--------------|---|
+[*SpontaneousDream* shares their reasons why they don't wanna give EVMavericks up and how his first NFT mint - EVMavericks - made him change their perspective on JPEGs](https://www.reddit.com/r/ethfinance/comments/u4qfal/comment/i4xi03f/) |
 [Why I think #EVMavericks have the potential to be a top NFT collection *by zknowledge*](https://twitter.com/zkn0wledge1/status/1515386206972002307)|                  
 [Why *sky16* has been buying EVMs and why he's bullish on this community](https://twitter.com/sku16eth/status/1613638578189344784)|                                     
 [3 Reasons to be Bullish on EVMavericks' Price 🦁🚀 *by 696*](https://twitter.com/696_eth/status/1622343676394622977)|    
