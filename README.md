@@ -11,13 +11,10 @@ alt="Lion" width="640" height="420" border=10" />
                                             
                                       
 
-
-|--------------|---|
-                                              
-[Why I think #EVMavericks have the potential to be a top NFT collection *by zknowledge*](https://twitter.com/zkn0wledge1/status/1515386206972002307)|
-                                              
-[Why *sky16* has been buying EVMs and why he's bullish on this community](https://twitter.com/sku16eth/status/1613638578189344784)|    
-                                              
+| Threads | |
+|--------------|---|                                              
+[Why I think #EVMavericks have the potential to be a top NFT collection *by zknowledge*](https://twitter.com/zkn0wledge1/status/1515386206972002307)|                  
+[Why *sky16* has been buying EVMs and why he's bullish on this community](https://twitter.com/sku16eth/status/1613638578189344784)|                                     
 [3 Reasons to be Bullish on EVMavericks' Price 🦁🚀 *by 696*](https://twitter.com/696_eth/status/1622343676394622977)|    
 
                                             
