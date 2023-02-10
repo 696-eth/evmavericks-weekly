@@ -5,81 +5,25 @@
     
 <a href="https://looksrare.org/collections/0x7dDAA898D33D7aB252Ea5F89f96717c47B2fEE6e#items" target="_blank">
     <svg height="40" width="40" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-left">
-      <img src="https://i.imgur.com/aI3pPvn.png" 
+      <img src="https://i.imgur.com/1gLfjN1.png" 
 alt="Lion" width="640" height="240" border=10" />
 </a>    
                                             
                                       
-[Site](https://dao.evmavericks.xyz) | [Discord](https://discord.gg/evmavericks) | [Lionpaper](https://mirror.xyz/0xCF68C873D6925F30FFF58E2BdF2D8DA4c9c6f0Be/61meL896f1tgAIwpEyK8UR4OR9eP_igPGKZO5WneN8M) | [Treasury](https://etherscan.io/address/0x29816f59f1c7e1ba69289cf486556929f7743ca2) | [Youtube](https://www.youtube.com/@evmavericks) | [Twitter](https://twitter.com/EVMavericks)
-                                              
-[Weekly Ethfinance Doots Roundup #4](https://www.youtube.com/watch?v=M-AcQ26EhLs) | [r/ETHFinance](https://www.reddit.com/r/ethfinance/) | [Members' Projects + Daily Doots](https://dailydoots.com/#projects)
-                                                                                  
+                               
                                               
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
-                                              
-*Last updated: 2/5/2023*
-
+*Last updated: 2/10/2023*
 
  
-Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website by **[hanniabu.eth](https://etheralpha.org/)** | AI Art by **[EVMaverick392](https://twitter.com/EVMaverick392)**
 
 
-    
-> I tried putting together some important, and not so, stuff while also trying to preserve some comfy feeling and not make everything public. I know the den channel can be viewed by anyone so I used most of the info from there while also giving you some inside scoop from other channels but not being too concrete cause I'm trying to respect the space and consent (that I havent asked for) of others and and wanting that comfy feeling of the degen chat to be preserved.
-
-| Previous Weeks |   |
 |--------------|---|
-[Week #8 - Jan 30 - Feb 5th, 2023](https://week8--evmavericks-weekly.netlify.app)|
-[Week #7 - Jan 23 - 29, 2023](https://week7--evmavericks-weekly.netlify.app)|
-[January 2023 Active Members Highlight](https://members1--evmavericks-weekly.netlify.app)|
-[Week #6 - Jan 16 - 22, 2023](https://week6--evmavericks-weekly.netlify.app)|
-[Week #5 - Jan 9 - 15, 2023](https://week5--evmavericks-weekly.netlify.app)|
-[Week #4 - Jan 2 - 8, 2023](https://week4--evmavericks-weekly.netlify.app)|
-[Week #3 - Dec 26, 2022 - Jan 1, 2023](https://week3--evmavericks-weekly.netlify.app)|
-[Week #2 - Dec 19, 2022 - Dec 25, 2022](https://week2--evmavericks-weekly.netlify.app)|
-[Week #1 - Dec 11, 2022 - Dec 18, 2022](https://week1--evmavericks-weekly.netlify.app)|
-[Top🔟 EVMavericks' Achievements of 2022 - Twitter thread](https://twitter.com/696_eth/status/1609278972193538050)|
+[Why I think #EVMavericks have the potential to be a top NFT collection *by zknowledge*](https://twitter.com/zkn0wledge1/status/1515386206972002307)|    
+[Why *sky16* has been buying EVMs and why he's bullish on this community](https://twitter.com/sku16eth/status/1613638578189344784)|    
+[3 Reasons to be Bullish on EVMavericks' Price 🦁🚀 *by 696*](https://twitter.com/696_eth/status/1622343676394622977|    
 
-
-### Latest: EVMavericks Weekly #8: Jan 30-Feb 5th, 2023
-                                              
-[Twitter Thread](https://twitter.com/696_eth/status/1622660736177565696) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/10uz7x0/daily_general_discussion_february_6_2023/j7ev90x/)
-                                              
-
-![](https://i.imgur.com/1edesX4.png)
-                                             
-
-### Most important:
-
-Reminder: Next water cooler chat is on February 6th (today) at 7PM EST/4PM PST
-
-1. The collection is in hands of The Ben Meadows for the next 60 days after the latest snapshot has been successfully passed. Ben posted 4.5e rETH as collateral.
-1. 19k DAI of grant money for stake-a-thon have been transferred to 2/3 multisig. It's going to be disbursed to DoubtStarsAreLions as she's the new Project Manager. [Announcement](https://imgur.com/EyxE7qP)
-1. [Anotherblock AMA happened](https://anchor.fm/evmavericks/episodes/E8--AnotherBlock-AMA-2-e1uci2s)
-1. [Weekly Ethfinance Doots Roundup #5](https://www.youtube.com/watch?v=mREo3TWlMi4&embeds_euri=https%3A%2F%2Ftwitter.com%2F&feature=emb_logo)
-1. TheBenMeadows & HashtagFuzzMaster share [this security infographic](https://imgur.com/8NvatOk)
-1. Discussion about applying for OP's Education grant nominations happened. 
-1. Exploring options since our DAO-controlled twitter account will stop working since twitter API will no longer be free soon.
-1. Discussion around restructuring some multisig and getting new members as one of our current multisig members wants to rotated out. 
-1. icobeast shares this interesting [twitter thread](https://twitter.com/littleshapesnft/status/1620917475197210626?s=46&t=M6InNU3RgcGsHsBul17m6A) that claims to uncover some ring of influencers and founders that used bots on twitter and drained $200,000,000+ from the ecosystem by launching many NFT communities
-1. Yielddaddy shares [this video of Rocket Pool Validator setup from the scratch](https://youtu.be/-o3IV3AClw8)
-1. 696 shares [free (used to cost $3k) courses from alchemy](https://university.alchemy.com/)
-1. eleusys aka 835.eth shares Raoul Pal talking about digital identity, content authentication in [this NFT podcast](https://www.youtube.com/watch?v=ofE5E1w7apU&t=1562s)
-1. Nuwtox tried bringing more spice to the #degen by introducing new Trending-On-Icy-Tools-Discussion!
-
-Others:
-
-* Our Floor Price is up to 0.8E, higher than goblintown's 
-* Creators do be creating and sharing their successes, works in progress, sneak peeks and more in #creators 
-* Game-fi channel has seen more activity and discussions
-* The Ben Meadows giving away free Inpeak guest pass or Floor app pass in #the-den
-* Discussion around emails and security took place in #the-den
-* More discussion in #marketing
-* Someone sold the EVM #195, the logo Lion for our collection, for 0.5WETH.
-* People sharing about the Flux project of Ryan Carson, who's also the host of Daily Dose, and the POAPs of which people have been collecting. Unfortunately, it seems like Ryan has turned out to be a repeating grifter in the space. 
-* And thousand more messages and hundreds of topics that you can find in the degen chat alone.
-                                
 ---
                                               
 [Homepage](https://evmavericks-weekly.netlify.app)
