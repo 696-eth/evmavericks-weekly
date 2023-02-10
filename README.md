@@ -17,12 +17,13 @@ alt="Lion" width="1040" height="620" border=10" />
 [Why *sky16* has been buying EVMs and why he's bullish on this community](https://twitter.com/sku16eth/status/1613638578189344784)|    
 [3 Reasons to be Bullish on EVMavericks' Price 🦁🚀 *by 696*](https://twitter.com/696_eth/status/1622343676394622977|    
 
-*Last updated: 2/10/2023*                                               
+                                            
 ---
                                               
 [Homepage](https://evmavericks-weekly.netlify.app)
-## EVMavericks Weekly Updates every Monday!
-
+                                               
+*Last updated: 2/10/2023*                                                 
+                                               
     
 <a id="github-link" href="https://github.com/etheralpha/evm-updates/" target="_blank">
   <svg height="40" width="40" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
