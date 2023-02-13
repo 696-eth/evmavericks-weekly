@@ -32,7 +32,7 @@ alt="Lion" width="640" height="240" border=10" />
 
 5. [EVM Distribution Phase 2, Vote 1 has concluded](https://snapshot.org/#/evmaverick.eth/proposal/0x8223cfbbc80d999362c19a225b2e377a0884c12e8bda9477e863af3d1c6b54fd). Thank you Sabishii for initiating. The winning result - 4 OG Lions @ year 2023. (64 people voted) 
 
-6. [Doots #6](https://www.youtube.com/live/Vk1y-RRdr3E?feature=share)
+6. [Weekly Ethfinance Doots Roundup #6](https://www.youtube.com/live/Vk1y-RRdr3E?feature=share)
 
 7.  Some collaborative options have been explored with some other DAO - mferbuilderDAO - but for now it's been decided that nothing concrete is going to happen. 
 
