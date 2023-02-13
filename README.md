@@ -11,45 +11,54 @@ alt="Lion" width="640" height="240" border=10" />
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
 
-*Last updated: 2/5/2023*
+*Last updated: 2/12/2023*
                                         
-### EVMavericks Weekly #8: Jan 30-Feb 5th, 2023
+### EVMavericks Weekly #9: Feb 6-Feb 12, 2023
                                               
-[Twitter Thread](https://twitter.com/696_eth/status/1622660736177565696) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/10uz7x0/daily_general_discussion_february_6_2023/j7ev90x/)
+[Twitter Thread]() | [Reddit Post]()
                                               
 
-![](https://i.imgur.com/1edesX4.png)
+![](https://i.imgur.com/m7bnCCs.png)
                                              
 
-### Most important:
+### Important:
 
-Reminder: Next water cooler chat is on February 6th (today) at 7PM EST/4PM PST
+1. Another water cooler happened. It was going for a couple of hours so make sure to join next time! (Feb 20th)
 
-1. The collection is in hands of The Ben Meadows for the next 60 days after the latest snapshot has been successfully passed. Ben posted 4.5e rETH as collateral.
-1. 19k DAI of grant money for stake-a-thon have been transferred to 2/3 multisig. It's going to be disbursed to DoubtStarsAreLions as she's the new Project Manager. [Announcement](https://imgur.com/EyxE7qP)
-1. [Anotherblock AMA happened](https://anchor.fm/evmavericks/episodes/E8--AnotherBlock-AMA-2-e1uci2s)
-1. [Weekly Ethfinance Doots Roundup #5](https://www.youtube.com/watch?v=mREo3TWlMi4&embeds_euri=https%3A%2F%2Ftwitter.com%2F&feature=emb_logo)
-1. TheBenMeadows & HashtagFuzzMaster share [this security infographic](https://imgur.com/8NvatOk)
-1. Discussion about applying for OP's Education grant nominations happened. 
-1. Exploring options since our DAO-controlled twitter account will stop working since twitter API will no longer be free soon.
-1. Discussion around restructuring some multisig and getting new members as one of our current multisig members wants to rotated out. 
-1. icobeast shares this interesting [twitter thread](https://twitter.com/littleshapesnft/status/1620917475197210626?s=46&t=M6InNU3RgcGsHsBul17m6A) that claims to uncover some ring of influencers and founders that used bots on twitter and drained $200,000,000+ from the ecosystem by launching many NFT communities
-1. Yielddaddy shares [this video of Rocket Pool Validator setup from the scratch](https://youtu.be/-o3IV3AClw8)
-1. 696 shares [free (used to cost $3k) courses from alchemy](https://university.alchemy.com/)
-1. eleusys aka 835.eth shares Raoul Pal talking about digital identity, content authentication in [this NFT podcast](https://www.youtube.com/watch?v=ofE5E1w7apU&t=1562s)
-1. Nuwtox tried bringing more spice to the #degen by introducing new Trending-On-Icy-Tools-Discussion!
 
-Others:
+2. Financial report https://i.imgur.com/o6e7GKy.png
 
-* Our Floor Price is up to 0.8E, higher than goblintown's 
-* Creators do be creating and sharing their successes, works in progress, sneak peeks and more in #creators 
-* Game-fi channel has seen more activity and discussions
-* The Ben Meadows giving away free Inpeak guest pass or Floor app pass in #the-den
-* Discussion around emails and security took place in #the-den
-* More discussion in #marketing
-* Someone sold the EVM #195, the logo Lion for our collection, for 0.5WETH.
-* People sharing about the Flux project of Ryan Carson, who's also the host of Daily Dose, and the POAPs of which people have been collecting. Unfortunately, it seems like Ryan has turned out to be a repeating grifter in the space. 
-* And thousand more messages and hundreds of topics that you can find in the degen chat alone.                                        
+3. Stewardship proposal, open till Feb 17th. https://snapshot.org/#/evmaverick.eth/proposal/0x0d6bf68aa4a9ff238551409e13a0f7c2cdebd6f439c829949c346255d46c03e5 
+
+4. Want to be a new Steward? Apply at #🌟│financial-steward-applications channel!
+
+5. EVM Distribution Phase 2, Vote 1 has concluded. Thank you Sabishii for initiating. The winning result - 4 OG Lions @ year 2023. (64 people voted) https://snapshot.org/#/evmaverick.eth/proposal/0x8223cfbbc80d999362c19a225b2e377a0884c12e8bda9477e863af3d1c6b54fd
+
+6. Doots #6 https://www.youtube.com/live/Vk1y-RRdr3E?feature=share
+
+7.  Some collaborative options have been explored with some other DAO - mferbuilderDAO - but for now it's been decided that nothing concrete is going to happen. 
+
+8. JBM has been going thru different sectors within EVMavericks discord to see what helpful tools might be needed for different groups.
+
+9. Some members collaborating on tracking interesting potential projects/tokens and the help of JBM and using his site cache's, are creating a 'EVM watch list'.
+
+10. Chad fund has been running. Hashtagfuzzmaster and whatthefuck.eth have been active but other 4 members not so much. We could have more membors involved even to help with signing transactions, multisig is being used.
+
+11. Best flip of the week goes to - icobeast - ~1.4E in 2 minutes 🔥 https://i.imgur.com/1yd4PBc.png
+
+12. #quality-chat has some discussion around some tokens and some other alpha.
+
+13. Value your health and need a community? Our ETHFITNESS thread (under #degen-chat) is relatively active and supportive. Folks have great knowledge and advice too.
+
+14. Interweaver suggests to make April 8th (anniversary of EMVs) to be a celebratory Lion day. Switch to your Lion PFP in public for that one day and let's showcase the power of the pride. Any more ideas on what to do for our anniversary celebration? Bring it on!
+
+15. Greengeorge shares with us that OP Airdrop #2 had happened
+
+Join this POAP x Checks raffle if you have merge POAP or some other eligible to potentially win a check (1.5E floor atm) - https://poap.fun/raffle/2055 (4 days remaining) shared by Luuk
+
+* Stake-a-thon team is putting in work!
+* Fun fact: EVMavericks have 0% paperhands https://imgur.com/l26ACDu
+* Degen chat is its own beast                          
 
 
 ---
