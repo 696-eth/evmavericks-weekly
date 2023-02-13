@@ -15,7 +15,7 @@ alt="Lion" width="640" height="240" border=10" />
                                         
 ### EVMavericks Weekly #9: Feb 6-Feb 12, 2023
                                               
-[Twitter Thread]() | [Reddit Post]()
+[Twitter Thread]() | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/1111020/daily_general_discussion_february_13_2023/j8cdiji/)
                                               
 
 ![](https://i.imgur.com/m7bnCCs.png)
@@ -42,7 +42,7 @@ alt="Lion" width="640" height="240" border=10" />
 
 10. Chad fund has been running. Hashtagfuzzmaster and whatthefuck.eth have been active but other 4 members not so much. We could have more membors involved even to help with signing transactions, multisig is being used.
 
-11. [Best flip of the week goes to - icobeast - ~1.4E in 2 minutes 🔥](https://i.imgur.com/1yd4PBc.png)
+11. [Best flip of the week goes to icobeast - ~1.4E in 2 minutes 🔥](https://i.imgur.com/1yd4PBc.png)
 
 12. #quality-chat has some discussion around some tokens and some other alpha.
 
