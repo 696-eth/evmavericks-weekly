@@ -25,16 +25,14 @@ alt="Lion" width="640" height="240" border=10" />
 
 1. Another water cooler happened. It was going for a couple of hours so make sure to join next time! (Feb 20th)
 
+2. [Financial report](https://i.imgur.com/o6e7GKy.png)
 
-2. Financial report https://i.imgur.com/o6e7GKy.png
-
-3. Stewardship proposal, open till Feb 17th. https://snapshot.org/#/evmaverick.eth/proposal/0x0d6bf68aa4a9ff238551409e13a0f7c2cdebd6f439c829949c346255d46c03e5 
-
+3. [Stewardship proposal, open till Feb 17th.](https://snapshot.org/#/evmaverick.eth/proposal/0x0d6bf68aa4a9ff238551409e13a0f7c2cdebd6f439c829949c346255d46c03e5 )
 4. Want to be a new Steward? Apply at #🌟│financial-steward-applications channel!
 
-5. EVM Distribution Phase 2, Vote 1 has concluded. Thank you Sabishii for initiating. The winning result - 4 OG Lions @ year 2023. (64 people voted) https://snapshot.org/#/evmaverick.eth/proposal/0x8223cfbbc80d999362c19a225b2e377a0884c12e8bda9477e863af3d1c6b54fd
+5. [EVM Distribution Phase 2, Vote 1 has concluded](https://snapshot.org/#/evmaverick.eth/proposal/0x8223cfbbc80d999362c19a225b2e377a0884c12e8bda9477e863af3d1c6b54fd). Thank you Sabishii for initiating. The winning result - 4 OG Lions @ year 2023. (64 people voted) 
 
-6. Doots #6 https://www.youtube.com/live/Vk1y-RRdr3E?feature=share
+6. [Doots #6](https://www.youtube.com/live/Vk1y-RRdr3E?feature=share)
 
 7.  Some collaborative options have been explored with some other DAO - mferbuilderDAO - but for now it's been decided that nothing concrete is going to happen. 
 
@@ -44,7 +42,7 @@ alt="Lion" width="640" height="240" border=10" />
 
 10. Chad fund has been running. Hashtagfuzzmaster and whatthefuck.eth have been active but other 4 members not so much. We could have more membors involved even to help with signing transactions, multisig is being used.
 
-11. Best flip of the week goes to - icobeast - ~1.4E in 2 minutes 🔥 https://i.imgur.com/1yd4PBc.png
+11. [Best flip of the week goes to - icobeast - ~1.4E in 2 minutes 🔥](https://i.imgur.com/1yd4PBc.png)
 
 12. #quality-chat has some discussion around some tokens and some other alpha.
 
@@ -54,12 +52,11 @@ alt="Lion" width="640" height="240" border=10" />
 
 15. Greengeorge shares with us that OP Airdrop #2 had happened
 
-Join this POAP x Checks raffle if you have merge POAP or some other eligible to potentially win a check (1.5E floor atm) - https://poap.fun/raffle/2055 (4 days remaining) shared by Luuk
+[Join this POAP x Checks raffle](https://poap.fun/raffle/2055) if you have merge POAP or some other eligible to potentially win a check (1.5E floor atm) -  (4 days remaining) shared by Luuk
 
 * Stake-a-thon team is putting in work!
-* Fun fact: EVMavericks have 0% paperhands https://imgur.com/l26ACDu
+* Fun fact: EVMavericks have [0% paperhands](https://imgur.com/l26ACDu)
 * Degen chat is its own beast                          
-
 
 ---
                                               
