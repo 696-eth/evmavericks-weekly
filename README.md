@@ -11,52 +11,22 @@ alt="Lion" width="640" height="240" border=10" />
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
 
-*Last updated: 2/12/2023*
+*Last updated: 3/19/2023*
                                         
-### EVMavericks Weekly #9: Feb 6-Feb 12, 2023
+### EVMavericks Weekly #10: March 13-19, 2023
                                               
-[Twitter Thread](https://twitter.com/696_eth/status/1625265493799231490) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/1111020/daily_general_discussion_february_13_2023/j8cdiji/)
+[Twitter Thread]() | [Reddit Post]()
                                               
 
-![](https://i.imgur.com/m7bnCCs.png)
+![](https://i.imgur.com/7LUlmdi.png)
                                              
+Everything you need to know about last weeks in EVMavericks in less than 69.6 seconds 👇
 
-### Important:
-
-1. Another water cooler happened. It was going for a couple of hours so make sure to join next time! (Feb 20th)
-
-2. [Financial report](https://i.imgur.com/o6e7GKy.png)
-
-3. [Stewardship proposal, open till Feb 17th.](https://snapshot.org/#/evmaverick.eth/proposal/0x0d6bf68aa4a9ff238551409e13a0f7c2cdebd6f439c829949c346255d46c03e5 )
-4. Want to be a new Steward? Apply at #🌟│financial-steward-applications channel!
-
-5. [EVM Distribution Phase 2, Vote 1 has concluded](https://snapshot.org/#/evmaverick.eth/proposal/0x8223cfbbc80d999362c19a225b2e377a0884c12e8bda9477e863af3d1c6b54fd). Thank you Sabishii for initiating. The winning result - 4 OG Lions @ year 2023. (64 people voted) 
-
-6. [Weekly Ethfinance Doots Roundup #6](https://www.youtube.com/live/Vk1y-RRdr3E?feature=share)
-
-7.  Some collaborative options have been explored with some other DAO - mferbuilderDAO - but for now it's been decided that nothing concrete is going to happen. 
-
-8. JBM has been going thru different sectors within EVMavericks discord to see what helpful tools might be needed for different groups.
-
-9. Some members collaborating on tracking interesting potential projects/tokens and the help of JBM and using his site cache's, are creating a 'EVM watch list'.
-
-10. Chad fund has been running. Hashtagfuzzmaster and whatthefuck.eth have been active but other 4 members not so much. We could have more membors involved even to help with signing transactions, multisig is being used.
-
-11. [Best flip of the week goes to icobeast - ~1.4E in 2 minutes 🔥](https://i.imgur.com/1yd4PBc.png)
-
-12. #quality-chat has some discussion around some tokens and some other alpha.
-
-13. Value your health and need a community? Our ETHFITNESS thread (under #degen-chat) is relatively active and supportive. Folks have great knowledge and advice too.
-
-14. Interweaver suggests to make April 8th (anniversary of EMVs) to be a celebratory Lion day. Switch to your Lion PFP in public for that one day and let's showcase the power of the pride. Any more ideas on what to do for our anniversary celebration? Bring it on!
-
-15. Greengeorge shares with us that OP Airdrop #2 had happened
-
-[Join this POAP x Checks raffle](https://poap.fun/raffle/2055) if you have merge POAP or some other eligible to potentially win a check (1.5E floor atm) -  (4 days remaining) shared by Luuk
-
-* Stake-a-thon team is putting in work!
-* Fun fact: EVMavericks have [0% paperhands](https://imgur.com/l26ACDu)
-* Degen chat is its own beast                          
+1. 🫵You are incouraged to use [cashes](https://caches.xyz/) by JBM!
+2. mtitus6 dropped [EVMavericks Dune v2](https://dune.com/mtitus6/evmavericksv2)
+3. TheBenMeadows and doomfuzz collabed to create [an EVMavericks Decal that got released this week!](https://twitter.com/fakeraredecal/status/1635963227342503939)
+4. [EthFinance Weekly Doots #11](https://www.youtube.com/watch?v=ALt23lX6vl0)
+5. We have a new music channel called 'Lo-Fi Vibes' - that's our jam place full of vibes now! p.s. Just type /play in any chat aaand you can add songs there, etc. 
 
 ---
                                               
