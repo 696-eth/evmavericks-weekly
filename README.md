@@ -20,13 +20,14 @@ alt="Lion" width="640" height="240" border=10" />
 
 ![](https://i.imgur.com/7LUlmdi.png)
                                              
-Everything you need to know about last weeks in EVMavericks in less than 69.6 seconds 👇
+Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. 🫵You are incouraged to use [cashes](https://caches.xyz/) by JBM!
+1. 🫵You are encouraged to use [cashes](https://caches.xyz/) by JBM!
 2. mtitus6 dropped [EVMavericks Dune v2](https://dune.com/mtitus6/evmavericksv2)
 3. TheBenMeadows and doomfuzz collabed to create [an EVMavericks Decal that got released this week!](https://twitter.com/fakeraredecal/status/1635963227342503939)
 4. [EthFinance Weekly Doots #11](https://www.youtube.com/watch?v=ALt23lX6vl0)
-5. We have a new music channel called 'Lo-Fi Vibes' - that's our jam place full of vibes now! p.s. Just type /play in any chat aaand you can add songs there, etc. 
+5. We have a new music channel called 'Lo-Fi Vibes' - that's our jam place full of vibes now! p.s. Just type /play in any chat aaand you can add songs there, etc
+
 
 ---
                                               
