@@ -11,23 +11,26 @@ alt="Lion" width="640" height="240" border=10" />
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
 
-*Last updated: 3/19/2023*
+*Last updated: 3/26/2023*
                                         
-### EVMavericks Weekly #10: March 13-19, 2023
+### EVMavericks Weekly #11: March 20-26, 2023
                                               
-[Twitter Thread](https://twitter.com/696_eth/status/1637915080238206977) | [Reddit Post](Reddit Post](https://www.reddit.com/r/ethfinance/comments/11waa98/daily_general_discussion_march_20_2023/jcx59gd/)
+[Twitter Thread]() | [Reddit Post](Reddit Post]()
                                               
 
-![](https://i.imgur.com/7LUlmdi.png)
+![](https://i.imgur.com/A8Nkir5.png)
                                              
 Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. 🫵You are encouraged to use [cashes](https://caches.xyz/) by JBM!
-2. mtitus6 dropped [EVMavericks Dune v2](https://dune.com/mtitus6/evmmavericks)
-3. TheBenMeadows and doomfuzz collabed to create [an EVMavericks Decal that got released last week!](https://twitter.com/fakeraredecal/status/1635963227342503939)
-4. [EthFinance Weekly Doots #11](https://www.youtube.com/watch?v=ALt23lX6vl0)
-5. We have a new music channel called 'Lo-Fi Vibes' - that's our jam place full of vibes now! p.s. Just type /play in any chat aaand you can add songs there, etc
+1. Lots of discussion around whatever topics where present, including: airdrop celebration fiesta, 3Bs: Balaji, Banks and Bankless, aaaand more!
 
+2. EVMavericks: [New Full Banner, Logo and BIO](https://i.imgur.com/gCBIzYm.png0
+
+3. Juxta did [their presentation about the combined powers of blockchain, wordpress and community at WordCamp Phoenix](https://www.youtube.com/watch?time_continue=9770&v=f3McYfj6mwY&ab_channel=WordCampPhoenix) 
+
+4. Dondo shared [this great thread and talk by Optimism at ETHDenver about building a DAO, what has worked and hasn't for DAOs](https://twitter.com/lalalavendr/status/1632432116645482496).
+
+5. [EthFinancy Daily Doots #12](https://www.youtube.com/watch?v=K8n4M1ltdBQ&ab_channel=EVMavericks-Ethfinance)
 
 ---
                                               
