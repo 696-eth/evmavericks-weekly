@@ -15,16 +15,16 @@ alt="Lion" width="640" height="240" border=10" />
                                         
 ### EVMavericks Weekly #11: March 20-26, 2023
                                               
-[Twitter Thread]() | [Reddit Post](Reddit Post]()
+[Twitter Thread]() | [Reddit Post]()
                                               
 
 ![](https://i.imgur.com/A8Nkir5.png)
                                              
 Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. Lots of discussion around whatever topics where present, including: airdrop celebration fiesta, 3Bs: Balaji, Banks and Bankless, aaaand more!
+1. Lots of discussion around whatever topics were present, including: airdrop celebration fiesta, 3Bs: Balaji, Banks and Bankless, aaaand more!
 
-2. EVMavericks: [New Full Banner, Logo and BIO](https://i.imgur.com/gCBIzYm.png0
+2. EVMavericks: [New Full Banner, Logo and BIO](https://i.imgur.com/gCBIzYm.png)
 
 3. Juxta did [their presentation about the combined powers of blockchain, wordpress and community at WordCamp Phoenix](https://www.youtube.com/watch?time_continue=9770&v=f3McYfj6mwY&ab_channel=WordCampPhoenix) 
 
