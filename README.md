@@ -12,13 +12,13 @@ alt="Lion" width="640" height="240" border=10" />
                                       
 [Site](https://dao.evmavericks.xyz) | [Discord](https://discord.gg/evmavericks) | [Lionpaper](https://mirror.xyz/0xCF68C873D6925F30FFF58E2BdF2D8DA4c9c6f0Be/61meL896f1tgAIwpEyK8UR4OR9eP_igPGKZO5WneN8M) | [Treasury](https://etherscan.io/address/0x29816f59f1c7e1ba69289cf486556929f7743ca2) | [Youtube](https://www.youtube.com/@evmavericks) | [Twitter](https://twitter.com/EVMavericks)
                                               
-[Weekly Ethfinance Doots Roundup #11](https://www.youtube.com/watch?v=ALt23lX6vl0) | [r/ETHFinance](https://www.reddit.com/r/ethfinance/) | [Members' Projects + Daily Doots](https://dailydoots.com/#projects)
+[Weekly Ethfinance Doots Roundup #12](https://www.youtube.com/watch?v=K8n4M1ltdBQ&ab_channel=EVMavericks-Ethfinance) | [r/ETHFinance](https://www.reddit.com/r/ethfinance/) | [Members' Projects + Daily Doots](https://dailydoots.com/#projects)
                                                                                   
                                               
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
                                               
-*Last updated: 3/19/2023*
+*Last updated: 3/26/2023*
 
 
  
@@ -30,6 +30,7 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
 
 | Previous Weeks |   |
 |--------------|---|
+[Week #11 - March 20 - 26, 2023](https://week11--evmavericks-weekly.netlify.app)|
 [Week #10 - March 13 - 19, 2023](https://week10--evmavericks-weekly.netlify.app)|
 [Week #9 - Feb 6 - 12, 2023](https://week9--evmavericks-weekly.netlify.app)|
 [Week #8 - Jan 30 - Feb 5th, 2023](https://week8--evmavericks-weekly.netlify.app)|
@@ -44,20 +45,27 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
 [Top🔟 EVMavericks' Achievements of 2022 - Twitter thread](https://twitter.com/696_eth/status/1609278972193538050)|
 
 
-### Latest: EVMavericks Weekly #10: March 13-19, 2023
+### Latest: EVMavericks Weekly #11: March 20-26, 2023
                                               
-[Twitter Thread](https://twitter.com/696_eth/status/1637915080238206977) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/11waa98/daily_general_discussion_march_20_2023/jcx59gd/)
-                                                                                            
+[Twitter Thread]() | [Reddit Post]()
+                                                    
 
-![](https://i.imgur.com/7LUlmdi.png)
+![](https://i.imgur.com/A8Nkir5.png)
                                              
 Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. 🫵You are encouraged to use [cashes](https://caches.xyz/) by JBM!
-2. mtitus6 dropped [EVMavericks Dune v2](https://dune.com/mtitus6/evmmavericks)
-3. TheBenMeadows and doomfuzz collabed to create [an EVMavericks Decal that got released last week!](https://twitter.com/fakeraredecal/status/1635963227342503939)
-4. [EthFinance Weekly Doots #11](https://www.youtube.com/watch?v=ALt23lX6vl0)
-5. We have a new music channel called 'Lo-Fi Vibes' - that's our jam place full of vibes now! p.s. Just type /play in any chat aaand you can add songs there, etc
+1. Lots of discussion around whatever topics were present, including: airdrop celebration fiesta, 3Bs: Balaji, Banks and Bankless, aaaand more!
+
+2. EVMavericks: [New Full Banner, Logo and BIO](https://i.imgur.com/gCBIzYm.png)
+
+3. Juxta did [their presentation about the combined powers of blockchain, wordpress and community at WordCamp Phoenix](https://www.youtube.com/watch?time_continue=9770&v=f3McYfj6mwY&ab_channel=WordCampPhoenix) 
+
+4. Dondo shared [this great thread and talk by Optimism at ETHDenver about building a DAO, what has worked and hasn't for DAOs](https://twitter.com/lalalavendr/status/1632432116645482496).
+
+5. [EthFinancy Daily Doots #12](https://www.youtube.com/watch?v=K8n4M1ltdBQ&ab_channel=EVMavericks-Ethfinance)                                              
+                                                                                            
+
+
   
 ---
                                               
