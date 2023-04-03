@@ -48,7 +48,7 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
                                         
 ### EVMavericks Weekly #12: March 27-April 2nd, 2023
                                               
-[Twitter Thread]() | [Reddit Post]()
+[Twitter Thread]() | [Reddit Post](https://old.reddit.com/r/ethfinance/comments/12aa0sa/daily_general_discussion_april_3_2023/jer9uzv/)
                                               
 ![](https://i.imgur.com/V9p0szx.png)
                                              
@@ -60,7 +60,7 @@ Everything you need to know about the last week in EVMavericks in less than 69.6
                                               
 3. ZombieBP shares [alchemy course that has been open to the public](https://university.alchemy.com/).
 
-4. And as always there's lots of action and talk about NFTs, tokens, new projects, AI, ideas, potential airdrops, potential plays, leverage trading, news, DAOs, rugs, memes and much much more and unexpected in the degen chat                                      
+4. And as always there's lots of action and talk about NFTs, tokens, new projects, AI, ideas, potential airdrops, potential plays, leverage trading, news, DAOs, rugs, memes and much much more and unexpected in the degen chat.                                 
                                                                                             
 
 
