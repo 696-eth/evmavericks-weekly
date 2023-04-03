@@ -48,7 +48,7 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
                                         
 ### EVMavericks Weekly #12: March 27-April 2nd, 2023
                                               
-[Twitter Thread]() | [Reddit Post](https://old.reddit.com/r/ethfinance/comments/12aa0sa/daily_general_discussion_april_3_2023/jer9uzv/)
+[Twitter Thread](https://twitter.com/696_eth/status/1642955943704166401) | [Reddit Post](https://old.reddit.com/r/ethfinance/comments/12aa0sa/daily_general_discussion_april_3_2023/jer9uzv/)
                                               
 ![](https://i.imgur.com/V9p0szx.png)
                                              
