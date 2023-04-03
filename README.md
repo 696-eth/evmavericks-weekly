@@ -11,26 +11,24 @@ alt="Lion" width="640" height="240" border=10" />
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
 
-*Last updated: 3/26/2023*
+*Last updated: 4/2/2023*
                                         
-### EVMavericks Weekly #11: March 20-26, 2023
+### EVMavericks Weekly #12: March 27-April 2nd, 2023
                                               
 [Twitter Thread]() | [Reddit Post]()
                                               
 
-![](https://i.imgur.com/A8Nkir5.png)
+![](https://i.imgur.com/V9p0szx.png)
                                              
 Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. Lots of discussion around whatever topics were present, including: airdrop celebration fiesta, 3Bs: Balaji, Banks and Bankless, aaaand more!
+1. This week there has been lots of potential ideas discussed in the creators and other channels. Nothing set in stone yet and as we know good things take time and some level of discussion. 
 
-2. EVMavericks: [New Full Banner, Logo and BIO](https://i.imgur.com/gCBIzYm.png)
+2. Love seeing members helping each other out in various channels regarding different concerns: from technical to creative to feedback to IRL to life advice.
 
-3. Juxta did [their presentation about the combined powers of blockchain, wordpress and community at WordCamp Phoenix](https://www.youtube.com/watch?time_continue=9770&v=f3McYfj6mwY&ab_channel=WordCampPhoenix) 
+3. ZombieBP shares [alchemy course that has been open to the public](https://university.alchemy.com/)
 
-4. Dondo shared [this great thread and talk by Optimism at ETHDenver about building a DAO, what has worked and hasn't for DAOs](https://twitter.com/lalalavendr/status/1632432116645482496).
-
-5. [EthFinancy Daily Doots #12](https://www.youtube.com/watch?v=K8n4M1ltdBQ&ab_channel=EVMavericks-Ethfinance)
+4. And as always there's lots of action and talk about NFTs, tokens, new projects, AI, ideas, potential airdrops, potential plays, leverage trading, news, DAOs, rugs, memes and much much more and unxepected in the degen chat
 
 ---
                                               
