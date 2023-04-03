@@ -57,10 +57,10 @@ Everything you need to know about the last week in EVMavericks in less than 69.6
 1. This week there has been lots of potential ideas discussed in the creators and other channels. Nothing set in stone yet and as we know good things take time and some level of discussion. 
 
 2. Love seeing members helping each other out in various channels regarding different concerns: from technical to creative to feedback to IRL to life advice.
+                                              
+3. ZombieBP shares [alchemy course that has been open to the public](https://university.alchemy.com/).
 
-3. ZombieBP shares [alchemy course that has been open to the public](https://university.alchemy.com/)
-
-4. And as always there's lots of action and talk about NFTs, tokens, new projects, AI, ideas, potential airdrops, potential plays, leverage trading, news, DAOs, rugs, memes and much much more and unxepected in the degen chat                                         
+4. And as always there's lots of action and talk about NFTs, tokens, new projects, AI, ideas, potential airdrops, potential plays, leverage trading, news, DAOs, rugs, memes and much much more and unexpected in the degen chat                                      
                                                                                             
 
 
