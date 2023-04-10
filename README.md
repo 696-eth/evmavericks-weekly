@@ -25,7 +25,7 @@ Everything you need to know about the last week in EVMavericks in less than 69.6
 
 1. We had our 1️⃣ year anniversary on 8th of April! We are encouraging you to showcase Lion PFP to raise awareness of EVMs and what we are doing as well as to connect with others! Celebratory raffles and more in the discord! 
 
-2. evmlion created the first version of an anonymous EVM map to ease coordinations for IRL events and meetups. Only your type of lion and location is shared. You can fill it out by going to #the-den part of the discord and finding the link there.
+2. evmlion created the first version of an anonymous EVM map to ease coordination for IRL events and meetups. Only your type of lion and location is shared. You can fill it out by going to #the-den part of the discord and finding the link there.
 
 3. GethWethReth has written the [Guide to setting withdrawal address for your Ethereum validator using deposit-cli](https://medium.com/@gethwethreth/guide-to-setting-withdrawal-address-for-your-ethereum-validator-using-deposit-cli-76cb2711eec9)
 
