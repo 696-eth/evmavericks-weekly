@@ -11,24 +11,29 @@ alt="Lion" width="640" height="240" border=10" />
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
 
-*Last updated: 4/2/2023*
+*Last updated: 4/10/2023*
                                         
-### EVMavericks Weekly #12: March 27-April 2nd, 2023
+### EVMavericks Weekly #13: April 3-10th 2023
                                               
-[Twitter Thread](https://twitter.com/696_eth/status/1642955943704166401) | [Reddit Post](https://old.reddit.com/r/ethfinance/comments/12aa0sa/daily_general_discussion_april_3_2023/jer9uzv/)
+[Twitter Thread]() | [Reddit Post]()
                                               
 
-![](https://i.imgur.com/V9p0szx.png)
+![](https://i.imgur.com/1GjD43P.png)
                                              
+
 Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. This week there has been lots of potential ideas discussed in the creators and other channels. Nothing set in stone yet and as we know good things take time and some level of discussion. 
+1. We had our 1️⃣ year anniversary on 8th of April! We are encouraging you to showcase Lion PFP to raise awareness of EVMs and what we are doing as well as to connect with others! Celebratory raffles and more in the discord! 
 
-2. Love seeing members helping each other out in various channels regarding different concerns: from technical to creative to feedback to IRL to life advice.
+2. evmlion created the first version of an anonymous EVM map to ease coordinations for IRL events and meetups. Only your type of lion and location is shared. You can fill it out by going to #the-den part of the discord and finding the link there.
 
-3. ZombieBP shares [alchemy course that has been open to the public](https://university.alchemy.com/).
+3. GethWethReth has written the [Guide to setting withdrawal address for your Ethereum validator using deposit-cli](https://medium.com/@gethwethreth/guide-to-setting-withdrawal-address-for-your-ethereum-validator-using-deposit-cli-76cb2711eec9)
 
-4. And as always there's lots of action and talk about NFTs, tokens, new projects, AI, ideas, potential airdrops, potential plays, leverage trading, news, DAOs, rugs, memes and much much more and unexpected in the degen chat.
+4. Whatthefuck.eth is organizing a group to attend POAP Art’s Shappela Upgrade Party! More in the #creators
+
+5. While EthFinance Weekly Doots have been on a short pause, some members still continue joining the VC during that time frame and talk on a variety of subjects. Happens weekly on Fridays @ 12PM EST!
+
+6. Special thanks to our moderators for their outstanding work behind the scenes and great moderation throughout the whole year!
 
 ---
                                               
