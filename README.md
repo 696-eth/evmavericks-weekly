@@ -60,7 +60,7 @@ Everything you need to know about the last week in EVMavericks in less than 69.6
 
 3. GethWethReth has written the [Guide to setting withdrawal address for your Ethereum validator using deposit-cli](https://medium.com/@gethwethreth/guide-to-setting-withdrawal-address-for-your-ethereum-validator-using-deposit-cli-76cb2711eec9)
 
-4. Whatthefuck.eth is organizing a group to attend POAP Art’s Shappela Upgrade Party! More in the #creators
+4. Whatthefuck is organizing a group to attend POAP Art’s Shappela Upgrade Party! More in the #creators
 
 5. While EthFinance Weekly Doots have been on a short pause, some members still continue joining the VC during that time frame and talk on a variety of subjects. Happens weekly on Fridays @ 12PM EST!
 
