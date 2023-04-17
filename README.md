@@ -18,7 +18,7 @@ alt="Lion" width="640" height="240" border=10" />
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
                                               
-*Last updated: 4/10/2023*
+*Last updated: 4/17/2023*
 
 
  
@@ -30,6 +30,7 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
 
 | Previous Weeks |   |
 |--------------|---|
+[Week #14 - April 11-16, 2023](https://week14--evmavericks-weekly.netlify.app)|     
 [Week #13 - April 3-10, 2023](https://week13--evmavericks-weekly.netlify.app)|                                           
 [Week #12 - March 27 - April 2nd, 2023](https://week12--evmavericks-weekly.netlify.app)|
 [Week #11 - March 20 - 26, 2023](https://week11--evmavericks-weekly.netlify.app)|
@@ -47,24 +48,17 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
 [Top🔟 EVMavericks' Achievements of 2022 - Twitter thread](https://twitter.com/696_eth/status/1609278972193538050)|
 
                                         
-### EVMavericks Weekly #13: April 3-10, 2023
+### EVMavericks Weekly #14: April 11-16, 2023
                                               
-![](https://i.imgur.com/1GjD43P.png)
+![](https://i.imgur.com/ndJVB2n.png)
                                              
 
 Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
+1. [Withdrowols](https://opensea.io/collection/withdrowls) created by Etheraider and NaeNaeBaby raised 10E+ for EVMavericks Treasure to fund the next public goods project. A collection of 3k+ AI generated OWLs through autominter that was released on Arbitrum One got minted out!
 
-1. We had our 1️⃣ year anniversary on 8th of April! We are encouraging you to showcase your Lion PFP to raise awareness of EVMs and what we are doing as well as to connect with others! Celebratory raffles and more in the discord! 
+2. EthFinance Weekly Doots are back and [here's #15 with a guest Christopher Whinfrey, Co-Founder of Hop Protocol]( https://www.youtube.com/watch?v=B7qRiEzM4LE&ab_channel=EVMavericks-Ethfinance)
 
-2. evmlion created the first version of an anonymous EVM map to ease coordination for IRL events and meetups. Only your type of lion and location is shared. You can fill it out by going to #the-den part of the discord and finding the link there.
-
-3. GethWethReth has written the [Guide to setting withdrawal address for your Ethereum validator using deposit-cli](https://medium.com/@gethwethreth/guide-to-setting-withdrawal-address-for-your-ethereum-validator-using-deposit-cli-76cb2711eec9)
-
-4. Whatthefuck is organizing a group to attend POAP Art’s Shappela Upgrade Party! More in the #creators
-
-5. While EthFinance Weekly Doots have been on a short pause, some members still continue joining the VC during that time frame and talk on a variety of subjects. Happens weekly on Fridays @ 12PM EST!
-
-6. Special thanks to our moderators for their outstanding work behind the scenes and great moderation throughout the whole year!                      
+3. We marked out presence with [a few pieces](https://imgur.com/gPNLI8y) during Shapella's POAP Art Part                   
                                                                                             
   
 ---
