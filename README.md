@@ -15,7 +15,7 @@ alt="Lion" width="640" height="240" border=10" />
                                         
 ### EVMavericks Weekly #13: April 3-10th 2023
                                               
-[Twitter Thread]() | [Reddit Post]()
+[Twitter Thread](https://twitter.com/696_eth/status/1645510567854231552) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/12h7qgo/daily_general_discussion_april_10_2023/jfqfrk0/)
                                               
 
 ![](https://i.imgur.com/1GjD43P.png)
