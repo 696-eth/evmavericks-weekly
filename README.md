@@ -12,7 +12,7 @@ alt="Lion" width="640" height="240" border=10" />
                                       
 [Site](https://dao.evmavericks.xyz) | [Discord](https://discord.gg/evmavericks) | [Lionpaper](https://mirror.xyz/0xCF68C873D6925F30FFF58E2BdF2D8DA4c9c6f0Be/61meL896f1tgAIwpEyK8UR4OR9eP_igPGKZO5WneN8M) | [Treasury](https://etherscan.io/address/0x29816f59f1c7e1ba69289cf486556929f7743ca2) | [Youtube](https://www.youtube.com/@evmavericks) | [Twitter](https://twitter.com/EVMavericks)
                                               
-[Weekly Ethfinance Doots Roundup #12](https://www.youtube.com/watch?v=K8n4M1ltdBQ&ab_channel=EVMavericks-Ethfinance) | [r/ETHFinance](https://www.reddit.com/r/ethfinance/) | [Members' Projects + Daily Doots](https://dailydoots.com/#projects)
+[Weekly Ethfinance Doots Roundup #15](https://www.youtube.com/watch?v=B7qRiEzM4LE&ab_channel=EVMavericks-Ethfinance) | [r/ETHFinance](https://www.reddit.com/r/ethfinance/) | [Members' Projects + Daily Doots](https://dailydoots.com/#projects)
                                                                                   
                                               
 ## EVMavericks Weekly Updates every Monday!
@@ -54,9 +54,9 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
                                              
 
 Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
-1. [Withdrowols](https://opensea.io/collection/withdrowls) created by Etheraider and NaeNaeBaby raised 10E+ for EVMavericks Treasure to fund the next public goods project. A collection of 3k+ AI generated OWLs through autominter that was released on Arbitrum One got minted out!
+1. [Withdrowols](https://opensea.io/collection/withdrowls) created by Etheraider and NaeNaeBaby raised 10E+ for EVMavericks Treasury to fund the next public goods project. A collection of 3k+ AI generated OWLs through autominter that was released on Arbitrum One got minted out!
 
-2. EthFinance Weekly Doots are back and [here's #15 with a guest Christopher Whinfrey, Co-Founder of Hop Protocol]( https://www.youtube.com/watch?v=B7qRiEzM4LE&ab_channel=EVMavericks-Ethfinance)
+2. EthFinance Weekly Doots are back and [here's #15 with a guest Christopher Whinfrey, Co-Founder of Hop Protocol](https://www.youtube.com/watch?v=B7qRiEzM4LE&ab_channel=EVMavericks-Ethfinance)
 
 3. We marked out presence with [a few pieces](https://imgur.com/gPNLI8y) during Shapella's POAP Art Part                   
                                                                                             
