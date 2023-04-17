@@ -23,7 +23,7 @@ alt="Lion" width="640" height="240" border=10" />
 
 Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. [Withdrowols](https://opensea.io/collection/withdrowls) created by Etheraider and NaeNaeBaby raised 10E+ for EVMavericks Treasure to fund the next public goods project. A collection of 3k+ AI generated OWLs through autominter that was released on Arbitrum One got minted out!
+1. [Withdrowols](https://opensea.io/collection/withdrowls) created by Etheraider and NaeNaeBaby raised 10E+ for EVMavericks Treasury to fund the next public goods project. A collection of 3k+ AI generated OWLs through autominter that was released on Arbitrum One got minted out!
 
 2. EthFinance Weekly Doots are back and [here's #15 with a guest Christopher Whinfrey, Co-Founder of Hop Protocol]( https://www.youtube.com/watch?v=B7qRiEzM4LE&ab_channel=EVMavericks-Ethfinance)
 
