@@ -12,13 +12,13 @@ alt="Lion" width="640" height="240" border=10" />
                                       
 [Site](https://dao.evmavericks.xyz) | [Discord](https://discord.gg/evmavericks) | [Lionpaper](https://mirror.xyz/0xCF68C873D6925F30FFF58E2BdF2D8DA4c9c6f0Be/61meL896f1tgAIwpEyK8UR4OR9eP_igPGKZO5WneN8M) | [Treasury](https://etherscan.io/address/0x29816f59f1c7e1ba69289cf486556929f7743ca2) | [Youtube](https://www.youtube.com/@evmavericks) | [Twitter](https://twitter.com/EVMavericks)
                                               
-[Weekly Ethfinance Doots Roundup #15](https://www.youtube.com/watch?v=B7qRiEzM4LE&ab_channel=EVMavericks-Ethfinance) | [r/ETHFinance](https://www.reddit.com/r/ethfinance/) | [Members' Projects + Daily Doots](https://dailydoots.com/#projects)
+[Weekly Ethfinance Doots Roundup #17](https://www.youtube.com/watch?v=n6cLenFLq2I&ab_channel=EVMavericks-Ethfinance) | [r/ETHFinance](https://www.reddit.com/r/ethfinance/) | [Members' Projects + Daily Doots](https://dailydoots.com/#projects)
                                                                                   
                                               
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
                                               
-*Last updated: 4/17/2023*
+*Last updated: 4/23/2023*
 
 
  
@@ -30,6 +30,7 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
 
 | Previous Weeks |   |
 |--------------|---|
+[Week #15 - April 17-23, 2023](https://week15--evmavericks-weekly.netlify.app)|
 [Week #14 - April 11-16, 2023](https://week14--evmavericks-weekly.netlify.app)|     
 [Week #13 - April 3-10, 2023](https://week13--evmavericks-weekly.netlify.app)|                                           
 [Week #12 - March 27 - April 2nd, 2023](https://week12--evmavericks-weekly.netlify.app)|
@@ -48,17 +49,26 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
 [Top🔟 EVMavericks' Achievements of 2022 - Twitter thread](https://twitter.com/696_eth/status/1609278972193538050)|
 
                                         
-### EVMavericks Weekly #14: April 11-16, 2023
+## EVMavericks Weekly Updates every Monday!
+[Homepage](https://evmavericks-weekly.netlify.app)
+
+                                        
+### EVMavericks Weekly #15: April 17-23, 2023
+
                                               
-![](https://i.imgur.com/ndJVB2n.png)
+[Twitter Thread]() | [Reddit Post](
+                                              
+
+![](https://i.imgur.com/v2TuBqv.png)
                                              
 
 Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
-1. [Withdrowls](https://opensea.io/collection/withdrowls) created by Etheraider and NaeNaeBaby raised 10E+ for EVMavericks Treasury to fund the next public goods project. A collection of 3k+ AI generated OWLs through autominter that was released on Arbitrum One got minted out!
 
-2. EthFinance Weekly Doots are back and [here's #15 with a guest Christopher Whinfrey, Co-Founder of Hop Protocol](https://www.youtube.com/watch?v=B7qRiEzM4LE&ab_channel=EVMavericks-Ethfinance)
+1. We now have an #ai-chat created by treebeard. It has a few different AIs you can try using there!
 
-3. We marked out presence with [a few pieces](https://imgur.com/gPNLI8y) during Shapella's POAP Art Part                   
+2. [Ethfinance Weekly Doots #17! with a guest Gloria Kimbwala with Buildlbox!](https://www.youtube.com/watch?v=n6cLenFLq2I&ab_channel=EVMavericks-Ethfinance)
+
+3. Talk about Gary, security, LSTs (ex-LSDs), Staking in the den and lots topic specific talks in the degen ofc!             
                                                                                             
   
 ---
