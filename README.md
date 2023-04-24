@@ -11,23 +11,24 @@ alt="Lion" width="640" height="240" border=10" />
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
 
-*Last updated: 4/17/2023*
+*Last updated: 4/23/2023*
                                         
-### EVMavericks Weekly #14: April 11-16, 2023
+### EVMavericks Weekly #15: April 17-23, 2023
+
                                               
-[Twitter Thread](https://twitter.com/696_eth/status/1647999559434670083) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/12p2uhe/daily_general_discussion_april_17_2023/jgml2w9/)
+[Twitter Thread]() | [Reddit Post](
                                               
 
-![](https://i.imgur.com/ndJVB2n.png)
+![](https://i.imgur.com/v2TuBqv.png)
                                              
 
 Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. [Withdrowls](https://opensea.io/collection/withdrowls) created by Etheraider and NaeNaeBaby raised 10E+ for EVMavericks Treasury to fund the next public goods project. A collection of 3k+ AI generated OWLs through autominter that was released on Arbitrum One got minted out!
+1. We now have an #ai-chat created by treebeard. It has a few different AIs you can try using there!
 
-2. EthFinance Weekly Doots are back and [here's #15 with a guest Christopher Whinfrey, Co-Founder of Hop Protocol]( https://www.youtube.com/watch?v=B7qRiEzM4LE&ab_channel=EVMavericks-Ethfinance)
+2. [Ethfinance Weekly Doots #17! with a guest Gloria Kimbwala with Buildlbox!](https://www.youtube.com/watch?v=n6cLenFLq2I&ab_channel=EVMavericks-Ethfinance)
 
-3. We marked out presence with [a few pieces](https://imgur.com/gPNLI8y) during Shapella's POAP Art Part
+3. Talk about Gary, security, LSTs (ex-LSDs), Staking in the den and lots topic specific talks in the degen ofc!
 
 ---
                                               
