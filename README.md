@@ -18,7 +18,7 @@ alt="Lion" width="640" height="240" border=10" />
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
                                               
-*Last updated: 4/23/2023*
+*Last updated: 4/30/2023*
 
 
  
@@ -30,6 +30,7 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
 
 | Previous Weeks |   |
 |--------------|---|
+[Week #16 - April 24-30, 2023](https://week16--evmavericks-weekly.netlify.app)|
 [Week #15 - April 17-23, 2023](https://week15--evmavericks-weekly.netlify.app)|
 [Week #14 - April 11-16, 2023](https://week14--evmavericks-weekly.netlify.app)|     
 [Week #13 - April 3-10, 2023](https://week13--evmavericks-weekly.netlify.app)|                                           
@@ -51,24 +52,26 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
                                         
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
-
-                                        
-### EVMavericks Weekly #15: April 17-23, 2023
+                                                                  
+### EVMavericks Weekly #16: April 24-30, 2023
 
                                               
-[Twitter Thread]() | [Reddit Post](
+[Twitter Thread]() | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/134d3x2/daily_general_discussion_may_1_2023/jiedt8z/)
                                               
 
-![](https://i.imgur.com/v2TuBqv.png)
+![](https://i.imgur.com/49akwef.png)
                                              
+🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
+1. [Withdrowls Public Goods Funding Update!🦉](https://i.imgur.com/2XEIozl.png)! Looking to build in web3? Apply and have a chance to get as much as $10k! For more info, join #buidlathon in EVMavericks discord which is open to anyone! 
 
-1. We now have an #ai-chat created by treebeard. It has a few different AIs you can try using there!
+2. [Ethfinance Weekly Doots #17! With a guest Evin McMullen with Disco!](https://www.youtube.com/watch?v=saq7NkGh4PY&ab_channel=EVMavericks-Ethfinance)
 
-2. [Ethfinance Weekly Doots #17! with a guest Gloria Kimbwala with Buildlbox!](https://www.youtube.com/watch?v=n6cLenFLq2I&ab_channel=EVMavericks-Ethfinance)
+3. Our fellow lion creators have been killing it! You can find previews of their future work in #creators as well as some other exciting personal art related news! 
 
-3. Talk about Gary, security, LSTs (ex-LSDs), Staking in the den and lots topic specific talks in the degen ofc!             
+4. Some degens claim small free airdrops and talk about much more degenerate and not-so-degenerate stuff!
+
+5. Other than that, the recent weeks have been a bit more relaxing volume-wise in the discord, but EVMavericks' upcoming *top secret project* has been progressing quite well!        
                                                                                             
   
 ---
