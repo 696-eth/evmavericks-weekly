@@ -68,7 +68,7 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
                                              
 🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. We are exploring pursuing a membership in Rocket Pool's oDAO. [Vote closes soon] (https://snapshot.org/#/evmaverick.eth/proposal/0xb3db7c8214b27474573275650ef213d86bcade817ef8dc9c676c99ca91b53e03)
+1. We are exploring pursuing a membership in Rocket Pool's oDAO. [Vote closes soon](https://snapshot.org/#/evmaverick.eth/proposal/0xb3db7c8214b27474573275650ef213d86bcade817ef8dc9c676c99ca91b53e03)
 
 2. [General criteria for Buidlathon projects were announced by etheraider](https://i.imgur.com/oZcV7RM.png)
 
