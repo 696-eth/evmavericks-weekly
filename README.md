@@ -11,27 +11,30 @@ alt="Lion" width="640" height="240" border=10" />
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
 
-*Last updated: 4/30/2023*
+*Last updated: 5/7/2023*
                                         
-### EVMavericks Weekly #16: April 24-30, 2023
+### EVMavericks Weekly #17: May 1-7, 2023
 
                                               
-[Twitter Thread]() | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/134d3x2/daily_general_discussion_may_1_2023/jiedt8z/)
+[Twitter Thread]() | [Reddit Post]()
                                               
 
-![](https://i.imgur.com/49akwef.png)
+![](https://i.imgur.com/TquS7AX.png)
+
                                              
 🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. [Withdrowls Public Goods Funding Update!🦉](https://i.imgur.com/2XEIozl.png)! Looking to build in web3? Apply and have a chance to get as much as $10k! For more info, join #buidlathon in EVMavericks discord which is open to anyone! 
+1. We are exploring pursuing a membership in Rocket Pool's oDAO. [Vote closes soon] (https://snapshot.org/#/evmaverick.eth/proposal/0xb3db7c8214b27474573275650ef213d86bcade817ef8dc9c676c99ca91b53e03)
 
-2. [Ethfinance Weekly Doots #17! With a guest Evin McMullen with Disco!](https://www.youtube.com/watch?v=saq7NkGh4PY&ab_channel=EVMavericks-Ethfinance)
+2. [General criteria for Buidlathon projects were announced by etheraider](https://i.imgur.com/oZcV7RM.png)
 
-3. Our fellow lion creators have been killing it! You can find previews of their future work in #creators as well as some other exciting personal art related news! 
+3. [Ethfinance Weekly Doots #18! With a guest Daniel | Founder of Swell](https://www.youtube.com/watch?v=6bw1j2qVXoU&ab_channel=EVMavericks-Ethfinance)
 
-4. Some degens claim small free airdrops and talk about much more degenerate and not-so-degenerate stuff!
+4. Exploring the option of going for [Public Goods Large Grants by ENS](https://discuss.ens.domains/t/public-goods-large-grants/17057)
 
-5. Other than that, the recent weeks have been a bit more relaxing volume-wise in the discord, but EVMavericks' upcoming *top secret project* has been progressing quite well!
+5. To some degree, we revisited a conversation about adding more value to holders of EVMavericks NFTs.
+
+6. Thousands more messages in the degen chat!
 
 ---
                                               
