@@ -19,7 +19,7 @@ alt="Lion" width="640" height="240" border=10" />
 [Twitter Thread]() | [Reddit Post]()
                                               
 
-![](hhttps://i.imgur.com/kYVXU8a.png)
+![](https://i.imgur.com/kYVXU8a.png)
                                             
 🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
