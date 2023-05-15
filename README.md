@@ -11,30 +11,26 @@ alt="Lion" width="640" height="240" border=10" />
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
 
-*Last updated: 5/7/2023*
+*Last updated: 5/14/2023*
                                         
-### EVMavericks Weekly #17: May 1-7, 2023
+#3 EVMavericks Weekly #18: May 8-14, 2023
 
                                               
-[Twitter Thread](https://twitter.com/696_eth/status/1655597056042614784) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/13behyv/daily_general_discussion_may_8_2023/jjay50o/)
+[Twitter Thread]() | [Reddit Post]()
                                               
 
-![](https://i.imgur.com/TquS7AX.png)
+![](hhttps://i.imgur.com/kYVXU8a.png)
 
                                              
 🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. We are exploring pursuing a membership in Rocket Pool's oDAO. [Vote closes soon](https://snapshot.org/#/evmaverick.eth/proposal/0xb3db7c8214b27474573275650ef213d86bcade817ef8dc9c676c99ca91b53e03)
+1. The initial temperature check snapshot regarding applying for RocketPools oDAO has passed. Join #rocket-pool-odao in the discord if you want to contribute. The next Rocket Pool oDAO Application Working Meeting is on Monday 22nd - 12PM PST. [Summary of the EVM RPLoDAO meeting #1 by the A-word](https://www.reddit.com/r/ethfinance/comments/13h32x6/daily_general_discussion_may_14_2023/jk4997j/)
 
-2. [General criteria for Buidlathon projects were announced by etheraider](https://i.imgur.com/oZcV7RM.png)
+2. Chad Fund has been paused due to participating members not being degen enough and having IRL commitments.
 
-3. [Ethfinance Weekly Doots #18! With a guest Daniel | Founder of Swell](https://www.youtube.com/watch?v=6bw1j2qVXoU&ab_channel=EVMavericks-Ethfinance)
+3. While the Ethfinance Weekly Doots was cancelled for the last week, we have a few exciting guests for our next ones!
 
-4. Exploring the option of going for [Public Goods Large Grants by ENS](https://discuss.ens.domains/t/public-goods-large-grants/17057)
-
-5. To some degree, we revisited a conversation about adding more value to holders of EVMavericks NFTs.
-
-6. Thousands more messages in the degen chat!
+4. There's still one month for Buidlathon! Build a project and have a chance of winning up to 5E!  
 
 ---
                                               
