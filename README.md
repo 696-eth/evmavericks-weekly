@@ -13,15 +13,14 @@ alt="Lion" width="640" height="240" border=10" />
 
 *Last updated: 5/14/2023*
                                         
-#3 EVMavericks Weekly #18: May 8-14, 2023
+### EVMavericks Weekly #18: May 8-14, 2023
 
                                               
 [Twitter Thread]() | [Reddit Post]()
                                               
 
 ![](hhttps://i.imgur.com/kYVXU8a.png)
-
-                                             
+                                            
 🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
 1. The initial temperature check snapshot regarding applying for RocketPools oDAO has passed. Join #rocket-pool-odao in the discord if you want to contribute. The next Rocket Pool oDAO Application Working Meeting is on Monday 22nd - 12PM PST. [Summary of the EVM RPLoDAO meeting #1 by the A-word](https://www.reddit.com/r/ethfinance/comments/13h32x6/daily_general_discussion_may_14_2023/jk4997j/)
