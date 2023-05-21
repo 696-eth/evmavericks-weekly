@@ -11,26 +11,27 @@ alt="Lion" width="640" height="240" border=10" />
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
 
-*Last updated: 5/14/2023*
+*Last updated: 5/21/2023*
                                         
-### EVMavericks Weekly #18: May 8-14, 2023
-
+### EVMavericks Weekly #19: May 15-21, 2023
                                               
-[Twitter Thread]() | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/13hy6ue/daily_general_discussion_may_15_2023/jk7dei8/)
+[Twitter Thread]() | [Reddit Post](
                                               
-
-![](https://i.imgur.com/kYVXU8a.png)
+![](https://i.imgur.com/Bdzapow.png)
                                             
 🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. The initial temperature check snapshot regarding applying for RocketPools oDAO has passed. Join #rocket-pool-odao in the discord if you want to contribute. The next Rocket Pool oDAO Application Working Meeting is on Monday 22nd - 12PM PST. [Summary of the EVM RPLoDAO meeting #1 by the A-word](https://www.reddit.com/r/ethfinance/comments/13h32x6/daily_general_discussion_may_14_2023/jk4997j/)
+1. We had a special meeting led by JT with James Kiernan from Octant. EVMs are exploring an opportunity to try to get some grants as a public goods partner. [Recording](https://www.youtube.com/watch?v=oxgHDoDGAzU&ab_channel=EVMavericks-Ethfinance). [Summary notes by Hanniabu](https://i.imgur.com/YDzoXqs.png)
 
-2. Chad Fund has been paused due to participating members not being degen enough and having IRL commitments.
+2. Etheraider shares a link to [EY Global Blockchain Summit videos.](https://eyblockchainsummit.virtualeventsite.com/day-2-supply-chain-and-environmental-social-governance-esg/)
 
-3. While the Ethfinance Weekly Doots was cancelled for the last week, we have a few exciting guests for our next ones!
+3. [Ethfinance Weekly Doots #19 with our guest DC Investor!](https://www.youtube.com/watch?v=yo0Mh4TLDXk&t=4828s&ab_channel=EVMavericks-Ethfinance)
 
-4. There's still one month for Buidlathon! Build a project and have a chance of winning up to 5E!  
+4. Lots of talk about ledger, wallets & security.
 
+5. #Creators channel sees some sneak peeks of upcoming work as well as some thoughts behind the creation process and struggles.
+
+6. We had a number of sales, and our FP is back up from 0.4e to 0.78e with a 0.5 WETH collection offer.
 ---
                                               
 [Homepage](https://evmavericks-weekly.netlify.app)
