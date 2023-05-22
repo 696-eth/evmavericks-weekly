@@ -15,7 +15,7 @@ alt="Lion" width="640" height="240" border=10" />
                                         
 ### EVMavericks Weekly #19: May 15-21, 2023
                                               
-[Twitter Thread]() | [Reddit Post](
+[Twitter Thread]() | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/13ogyzj/daily_general_discussion_may_22_2023/jl4cop3/)
                                               
 ![](https://i.imgur.com/Bdzapow.png)
                                             
@@ -27,7 +27,7 @@ alt="Lion" width="640" height="240" border=10" />
 
 3. [Ethfinance Weekly Doots #19 with our guest DC Investor!](https://www.youtube.com/watch?v=yo0Mh4TLDXk&t=4828s&ab_channel=EVMavericks-Ethfinance)
 
-4. Lots of talk about ledger, wallets & security.
+4. Lots of talk about Ledger, wallets & security.
 
 5. #Creators channel sees some sneak peeks of upcoming work as well as some thoughts behind the creation process and struggles.
 
