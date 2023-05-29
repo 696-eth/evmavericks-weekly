@@ -15,9 +15,9 @@ Last updated: 5/28/2023*
                                         
 ### EVMavericks Weekly #20: May 22-28, 2023
                                               
-[Twitter Thread]() | [Reddit Post](
+[Twitter Thread]() | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/13uldb1/daily_general_discussion_may_29_2023/jm1dcrn/)
                                               
-![](https://i.imgur.com/Bdzapow.png)
+![](https://i.imgur.com/gtAOOEE.png)
                                             
 🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
