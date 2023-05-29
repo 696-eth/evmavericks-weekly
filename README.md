@@ -11,27 +11,23 @@ alt="Lion" width="640" height="240" border=10" />
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
 
-*Last updated: 5/21/2023*
+Last updated: 5/28/2023*
                                         
-### EVMavericks Weekly #19: May 15-21, 2023
+### EVMavericks Weekly #20: May 22-28, 2023
                                               
-[Twitter Thread](https://twitter.com/696_eth/status/1660873268239400962) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/13ogyzj/daily_general_discussion_may_22_2023/jl4cop3/)
+[Twitter Thread]() | [Reddit Post](
                                               
 ![](https://i.imgur.com/Bdzapow.png)
                                             
 🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. We had a special meeting led by JT with James Kiernan from Octant. EVMs are exploring an opportunity to try to get some grants as a public goods partner. [Recording](https://www.youtube.com/watch?v=oxgHDoDGAzU&ab_channel=EVMavericks-Ethfinance). [Summary notes by Hanniabu](https://i.imgur.com/YDzoXqs.png)
+1. Treebeard shares [a list-mini course on Smart Contract Security](https://www.rareskills.io/post/smart-contract-security)
 
-2. Etheraider shares a link to [EY Global Blockchain Summit videos.](https://eyblockchainsummit.virtualeventsite.com/day-2-supply-chain-and-environmental-social-governance-esg/)
+2. [Swell - new non-custodial liquid staking protocol offers some perks for EVMavericks holders](https://i.imgur.com/Wi8vQ6K.png)
 
-3. [Ethfinance Weekly Doots #19 with our guest DC Investor!](https://www.youtube.com/watch?v=yo0Mh4TLDXk&t=4828s&ab_channel=EVMavericks-Ethfinance)
+3. juxtanotherposition gives [EVMs RPL oDAO update](https://i.imgur.com/lUzU1n6.png)
 
-4. Lots of talk about Ledger, wallets & security.
-
-5. #Creators channel sees some sneak peeks of upcoming work as well as some thoughts behind the creation process and struggles.
-
-6. We had a number of sales, and our FP is back up from 0.4e to 0.78e with a 0.5 WETH collection offer.
+4. [Ethfinance Weekly Doots #20 with our guest Rhett Shipp with gravitaprotocol!](https://www.youtube.com/watch?v=gHKyO3_Y2N4&ab_channel=EVMavericks-Ethfinance)
 ---
                                               
 [Homepage](https://evmavericks-weekly.netlify.app)
