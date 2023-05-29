@@ -15,7 +15,7 @@ alt="Lion" width="640" height="240" border=10" />
                                         
 ### EVMavericks Weekly #19: May 15-21, 2023
                                               
-[Twitter Thread]() | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/13ogyzj/daily_general_discussion_may_22_2023/jl4cop3/)
+[Twitter Thread](https://twitter.com/696_eth/status/1660873268239400962) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/13ogyzj/daily_general_discussion_may_22_2023/jl4cop3/)
                                               
 ![](https://i.imgur.com/Bdzapow.png)
                                             
