@@ -11,11 +11,11 @@ alt="Lion" width="640" height="240" border=10" />
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
 
-Last updated: 5/28/2023*
+Last updated: *5/29/2023*
                                         
 ### EVMavericks Weekly #20: May 22-28, 2023
                                               
-[Twitter Thread]() | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/13uldb1/daily_general_discussion_may_29_2023/jm1dcrn/)
+[Twitter Thread](https://twitter.com/696_eth/status/1663258843378520065) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/13uldb1/daily_general_discussion_may_29_2023/jm1dcrn/)
                                               
 ![](https://i.imgur.com/gtAOOEE.png)
                                             
