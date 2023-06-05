@@ -24,7 +24,7 @@ Last updated: 6/4/2023*
 
 3. incognito asks for educational content on restaking and treebeard shares [vitalik's post about restaking](https://vitalik.ca/general/2023/05/21/dont_overload.html)
 
-4. the-a-word shares [this neutral non-censoring block relay Eth validators and block builders](https://aestus.live/). Fun fact: created by members of Ethifnance, Ethstake & EVMavericks.
+4. the-a-word shares [this neutral non-censoring block relay Eth validators and block builders](https://aestus.live/). Fun fact: created by members of Ethifnance, Ethstaker & EVMavericks.
 
 5. [Ethfinance Weekly Doots #21 with our guests Brendan Shakeshaft and Joe with Auditware!](https://www.youtube.com/watch?v=3aFebk70Nxc&ab_channel=EVMavericks-Ethfinance)
 
