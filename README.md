@@ -31,6 +31,9 @@ Last updated: 6/4/2023*
 Security reminder: [here's a few guides](https://i.imgur.com/a/DSvQrXs.png)
 
 Additionally, if you are in EVMavericks discord, we have a security channel. You can literally mute everything else but that channel and only get notifications from there.
+                                              
+                                              
+ .                                             
 ---
                                               
 [Homepage](https://evmavericks-weekly.netlify.app)
