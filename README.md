@@ -12,7 +12,7 @@ Last updated: 6/4/2023*
                                         
 ### EVMavericks Weekly #21: May 29-June 4th, 2023
                                               
-[Twitter Thread]() | [Reddit Post]()
+[Twitter Thread]() | [Reddit Post](
                                               
 ![](https://i.imgur.com/3Kdf9XX.png)
                                             
@@ -20,11 +20,11 @@ Last updated: 6/4/2023*
 
 1. Lidont operation has emerged after the post on ethfinance about Lido holding more than 30%+ of staked Ether. To contribute, join the discord and the role can be grated to you to see the #lidont channel.
 
-2. rz shares that they are working on [a betting platform -](betonchain.gg). Protocol's key values include: privacy, tranparency and instant traceability, decentalized bookmarking, simple securet and optimized contracts.
+2. rz shares that they are working on [a betting platform - betonchain.gg](betonchain.gg). Protocol's key values include: privacy, transparency and instant traceability, decentralized bookmarking, simple secure and optimized contracts.
 
 3. incognito asks for educational content on restaking and treebeard shares [vitalik's post about restaking](https://vitalik.ca/general/2023/05/21/dont_overload.html)
 
-4. the-a-word shares [this neutral non-censoring block relay Eth validators and block builders](https://aestus.live/). Fun fact: created by memberes of Ethifnance, Ethstake & EVMavericks.
+4. the-a-word shares [this neutral non-censoring block relay Eth validators and block builders](https://aestus.live/). Fun fact: created by members of Ethifnance, Ethstake & EVMavericks.
 
 5. [Ethfinance Weekly Doots #21 with our guests Brendan Shakeshaft and Joe with Auditware!](https://www.youtube.com/watch?v=3aFebk70Nxc&ab_channel=EVMavericks-Ethfinance)
 
