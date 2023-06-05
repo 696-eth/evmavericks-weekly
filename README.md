@@ -8,26 +8,29 @@ alt="Lion" width="640" height="240" border=10" />
 </a>    
                                             
                                              
-## EVMavericks Weekly Updates every Monday!
-[Homepage](https://evmavericks-weekly.netlify.app)
-
-Last updated: *5/29/2023*
+Last updated: 6/4/2023*
                                         
-### EVMavericks Weekly #20: May 22-28, 2023
+### EVMavericks Weekly #21: May 29-June 4th, 2023
                                               
-[Twitter Thread](https://twitter.com/696_eth/status/1663258843378520065) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/13uldb1/daily_general_discussion_may_29_2023/jm1dcrn/)
+[Twitter Thread]() | [Reddit Post]()
                                               
-![](https://i.imgur.com/gtAOOEE.png)
+![](https://i.imgur.com/3Kdf9XX.png)
                                             
 🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. Treebeard shares [a list-mini course on Smart Contract Security](https://www.rareskills.io/post/smart-contract-security)
+1. Lidont operation has emerged after the post on ethfinance about Lido holding more than 30%+ of staked Ether. To contribute, join the discord and the role can be grated to you to see the #lidont channel.
 
-2. [Swell - new non-custodial liquid staking protocol offers some perks for EVMavericks holders](https://i.imgur.com/Wi8vQ6K.png)
+2. rz shares that they are working on [a betting platform -](betonchain.gg). Protocol's key values include: privacy, tranparency and instant traceability, decentalized bookmarking, simple securet and optimized contracts.
 
-3. juxtanotherposition gives [EVMs RPL oDAO update](https://i.imgur.com/lUzU1n6.png)
+3. incognito asks for educational content on restaking and treebeard shares [vitalik's post about restaking](https://vitalik.ca/general/2023/05/21/dont_overload.html)
 
-4. [Ethfinance Weekly Doots #20 with our guest Rhett Shipp with gravitaprotocol!](https://www.youtube.com/watch?v=gHKyO3_Y2N4&ab_channel=EVMavericks-Ethfinance)
+4. the-a-word shares [this neutral non-censoring block relay Eth validators and block builders](https://aestus.live/). Fun fact: created by memberes of Ethifnance, Ethstake & EVMavericks.
+
+5. [Ethfinance Weekly Doots #21 with our guests Brendan Shakeshaft and Joe with Auditware!](https://www.youtube.com/watch?v=3aFebk70Nxc&ab_channel=EVMavericks-Ethfinance)
+
+Security reminder: [here's a few guides](https://i.imgur.com/a/DSvQrXs.png)
+
+Additionally, if you are in EVMavericks discord, we have a security channel. You can literally mute everything else but that channel and only get notifications from there.
 ---
                                               
 [Homepage](https://evmavericks-weekly.netlify.app)
