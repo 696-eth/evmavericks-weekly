@@ -27,6 +27,7 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
 
 | Previous Weeks |   |
 |--------------|---|
+[Week #22 - June 4-11, 2023](https://week22--evmavericks-weekly.netlify.app)| 
 [Week #21 - May 29-June 4, 2023](https://week21--evmavericks-weekly.netlify.app)| 
 [Week #20 - May 22-28, 2023](https://week20--evmavericks-weekly.netlify.app)|                                              
 [Week #19 - May 15-21, 2023](https://week19--evmavericks-weekly.netlify.app)|
@@ -50,29 +51,33 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
 [Week #2 - Dec 19, 2022 - Dec 25, 2022](https://week2--evmavericks-weekly.netlify.app)|
 [Week #1 - Dec 11, 2022 - Dec 18, 2022](https://week1--evmavericks-weekly.netlify.app)|
 [Top🔟 EVMavericks' Achievements of 2022 - Twitter thread](https://twitter.com/696_eth/status/1609278972193538050)|
-
                                         
-Last updated: 6/4/2023*
+Last updated: 6/12/2023*
                                         
-### EVMavericks Weekly #21: May 29-June 4th, 2023
+### EVMavericks Weekly #22: June 5-11, 2023
                                               
-[Twitter Thread]() | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/1412u9x/daily_general_discussion_june_5_2023/jmylp1k/)
+[Twitter Thread]() | [kbin Post]()
                                               
-![](https://i.imgur.com/3Kdf9XX.png)
+![](https://i.imgur.com/dFB5xoR.png)
                                             
 🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. Lidont operation has emerged after the post on ethfinance about Lido holding more than 30%+ of staked Ether. To contribute, join the discord and the role can be grated to you to see the #lidont channel.
+1. [EVMavericks is opening up their doors for @ethfinancer , ethstaker and other communities for the duration of subreddits going dark to protest the Reddit API changes.](https://twitter.com/EVMavericks/status/1668024323888631809) 
 
-2. rz shares that they are working on [a betting platform - betonchain.gg](betonchain.gg). Protocol's key values include: privacy, transparency and instant traceability, decentralized bookmarking, simple secure and optimized contracts.
+2. [The final week of buidlathon is here. Submit your projects by June 19th](https://i.imgur.com/o1G2jeG.png). 
+Prizes:
+1st place: 5 ETH
+2nd place: 3 ETH
+3rd place: 1.5 ETH
+Random participation prize: .05 ETH
 
-3. incognito asks for educational content on restaking and treebeard shares [vitalik's post about restaking](https://vitalik.ca/general/2023/05/21/dont_overload.html)
+3. [Ethfinance Weekly Doots #22 with our guest Matt Finestone with taikoxyz](https://www.youtube.com/watch?v=VZRR5gN17Nk&ab_channel=EVMavericks-Ethfinance)
 
-4. the-a-word shares [this neutral non-censoring block relay Eth validators and block builders](https://aestus.live/). Fun fact: created by members of Ethifnance, Ethstake & EVMavericks.
+4. Whatthefuck starts resurging the Chad Fund.
 
-5. [Ethfinance Weekly Doots #21 with our guests Brendan Shakeshaft and Joe with Auditware!](https://www.youtube.com/watch?v=3aFebk70Nxc&ab_channel=EVMavericks-Ethfinance)
+5. Lidont is continuing to be developed.
 
-Security reminder: [here's a few guides](https://i.imgur.com/a/DSvQrXs.png)
+Security reminder: [here are a few guides](https://i.imgur.com/a/DSvQrXs.png)
 
 Additionally, if you are in EVMavericks discord, we have a security channel. You can literally mute everything else but that channel and only get notifications from there.
                                               
