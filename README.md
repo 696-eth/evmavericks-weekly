@@ -12,7 +12,7 @@ Last updated: 6/12/2023*
                                         
 ### EVMavericks Weekly #22: June 5-11, 2023
                                               
-[Twitter Thread]() | [kbin Post]()
+[Twitter Thread](https://twitter.com/696_eth/status/1668341901014216709) | [kbin Post](https://kbin.social/m/ethfinance/t/12992/Daily-General-Discussion-June-12-2023#entry-comment-56033)
                                               
 ![](https://i.imgur.com/dFB5xoR.png)
                                             
