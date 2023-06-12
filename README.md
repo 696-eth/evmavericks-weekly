@@ -18,9 +18,7 @@ Last updated: 6/12/2023*
                                             
 🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. [Test](https://twitter.com/EVMavericks/status/1668024323888631809)
-                                              
-                                              [EVMavericks is opening up their doors for @ethfinancer , ethstaker and other communities for the duration of subreddits going dark to protest the Reddit API changes](https://twitter.com/EVMavericks/status/1668024323888631809) 
+1. [EVMavericks is opening up their doors for @ethfinancer , ethstaker and other communities for the duration of subreddits going dark to protest the Reddit API changes](https://twitter.com/EVMavericks/status/1668024323888631809)
 
 2. [The final week of buidlathon is here. Submit your projects by June 19th](https://i.imgur.com/o1G2jeG.png). 
 Prizes:
