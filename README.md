@@ -27,6 +27,7 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
 
 | Previous Weeks |   |
 |--------------|---|
+[Week #23 - June 12-18, 2023](https://week22--evmavericks-weekly.netlify.app)| 
 [Week #22 - June 4-11, 2023](https://week22--evmavericks-weekly.netlify.app)| 
 [Week #21 - May 29-June 4, 2023](https://week21--evmavericks-weekly.netlify.app)| 
 [Week #20 - May 22-28, 2023](https://week20--evmavericks-weekly.netlify.app)|                                              
@@ -52,34 +53,31 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
 [Week #1 - Dec 11, 2022 - Dec 18, 2022](https://week1--evmavericks-weekly.netlify.app)|
 [Top🔟 EVMavericks' Achievements of 2022 - Twitter thread](https://twitter.com/696_eth/status/1609278972193538050)|
                                         
-Last updated: 6/12/2023*
+## EVMavericks Weekly Updates every Monday!
+[Homepage](https://evmavericks-weekly.netlify.app)
+
+Last updated: 6/4/2023*
                                         
-### EVMavericks Weekly #22: June 5-11, 2023
+### EVMavericks Weekly #23: June 12-18, 2023
                                               
-[Twitter Thread]() | [kbin Post]()
+[Twitter Thread](https://twitter.com/696_eth/status/1670877834796228608) | [Reddit Post]()
                                               
-![](https://i.imgur.com/dFB5xoR.png)
+![](https://i.imgur.com/UVAxgft.png)
                                             
 🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. [EVMavericks is opening up their doors for ethfinancer , ethstaker and other communities for the duration of subreddits going dark to protest the Reddit API changes.](https://twitter.com/EVMavericks/status/1668024323888631809) 
+1. The Buidlathon officially ends tonight at midnight. Tuesday evening 5:15 pm PST we will be hosting a "live event" where builders from our community will be showcasing their projects in front of a panel of judges and the rest of the community.
 
-2. [The final week of buidlathon is here. Submit your projects by June 19th](https://i.imgur.com/o1G2jeG.png). 
-Prizes:
-1st place: 5 ETH
-2nd place: 3 ETH
-3rd place: 1.5 ETH
-Random participation prize: .05 ETH
+2. mtitus6 release [the EVM Resume dashboard v2](https://dune.com/mtitus6/EVMavericks-Resume)   
 
-3. [Ethfinance Weekly Doots #22 with our guest Matt Finestone with taikoxyz](https://www.youtube.com/watch?v=VZRR5gN17Nk&ab_channel=EVMavericks-Ethfinance)
+3. Jerome de Tychey and his team released [a free discord bot that let you explore other user's NFT](https://boiler.gg/) 
 
-4. Whatthefuck starts resurging the Chad Fund.
+4. coco shares yet another [crypto song 🔥](https://twitter.com/cocothecorncob/status/1669341697363304448?s=46&t=1aFoxtRR7lwj_gcLIaj7cA)
 
-5. Lidont is continuing to be developed.
+5. [Ethfinance Weekly Doots #22 with our guest Kevin Owocki](https://www.youtube.com/watch?v=difDTKT_S5A&ab_channel=EVMavericks-Ethfinance)
 
-Security reminder: [here are a few guides](https://i.imgur.com/a/DSvQrXs.png)
+Security reminder: [here's a few guides](https://i.imgur.com/a/DSvQrXs.png)
 
-Additionally, if you are in EVMavericks discord, we have a security channel. You can literally mute everything else but that channel and only get notifications from there.
                                               
                                               
                                                                                             
