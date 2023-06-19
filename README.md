@@ -11,7 +11,7 @@ alt="Lion" width="640" height="240" border=10" />
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
 
-Last updated: 6/4/2023*
+Last updated: 6/19/2023*
                                         
 ### EVMavericks Weekly #23: June 12-18, 2023
                                               
