@@ -11,25 +11,29 @@ alt="Lion" width="640" height="240" border=10" />
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
 
-*Last updated: 5/14/2023*
+Last updated: 6/4/2023*
                                         
-### EVMavericks Weekly #18: May 8-14, 2023
-
+### EVMavericks Weekly #23: June 12-18, 2023
                                               
-[Twitter Thread](https://twitter.com/696_eth/status/1658152689698762752) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/13hy6ue/daily_general_discussion_may_15_2023/jk7dei8/)
+[Twitter Thread](https://twitter.com/696_eth/status/1670877834796228608) | [Reddit Post]()
                                               
-
-![](https://i.imgur.com/kYVXU8a.png)
+![](https://i.imgur.com/UVAxgft.png)
                                             
 🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. The initial temperature check snapshot regarding applying for RocketPools oDAO has passed. Join #rocket-pool-odao in the discord if you want to contribute. The next Rocket Pool oDAO Application Working Meeting is on Monday 22nd - 12PM PST. [Summary of the EVM RPLoDAO meeting #1 by the A-word](https://www.reddit.com/r/ethfinance/comments/13h32x6/daily_general_discussion_may_14_2023/jk4997j/)
+1. The Buidlathon officially ends tonight at midnight. Tuesday evening 5:15 pm PST we will be hosting a "live event" where builders from our community will be showcasing their projects in front of a panel of judges and the rest of the community.
 
-2. Chad Fund has been paused due to participating members not being degen enough and having IRL commitments.
+2. mtitus6 release [the EVM Resume dashboard v2](https://dune.com/mtitus6/EVMavericks-Resume)   
 
-3. While the Ethfinance Weekly Doots was cancelled for the last week, we have a few exciting guests for our next ones!
+3. Jerome de Tychey and his team released [a free discord bot that let you explore other user's NFT](https://boiler.gg/) 
 
-4. There's still one month for Buidlathon! Build a project and have a chance of winning up to 5E!  
+4. coco shares yet another [crypto song 🔥](https://twitter.com/cocothecorncob/status/1669341697363304448?s=46&t=1aFoxtRR7lwj_gcLIaj7cA)
+
+5. [Ethfinance Weekly Doots #22 with our guest Kevin Owocki](https://www.youtube.com/watch?v=difDTKT_S5A&ab_channel=EVMavericks-Ethfinance)
+
+Security reminder: [here's a few guides](https://i.imgur.com/a/DSvQrXs.png)
+
+Additionally, if you are in EVMavericks discord, we have a security channel. You can literally mute everything else but that channel and only get notifications from there.
 
 ---
                                               
