@@ -11,29 +11,28 @@ alt="Lion" width="640" height="240" border=10" />
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
 
-Last updated: 6/19/2023*
+Last updated: 6/26/2023*
                                         
-### EVMavericks Weekly #23: June 12-18, 2023
+### EVMavericks Weekly #24: June 19-25, 2023
                                               
-[Twitter Thread](https://twitter.com/696_eth/status/1670877834796228608) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/14d4z2j/daily_general_discussion_june_19_2023/joqr1nq/)
+[Twitter Thread]() | [Reddit Post]()
                                               
-![](https://i.imgur.com/UVAxgft.png)
+![](https://i.imgur.com/OuHD9ib.png)
                                             
 🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. The Buidlathon officially ends tonight at midnight. Tuesday evening 5:15 pm PST we will be hosting a "live event" where builders from our community will be showcasing their projects in front of a panel of judges and the rest of the community.
+1. Buidlathon projects were presetend, judged on aaaaand... we have ended up with [a 3 way tie!](https://i.imgur.com/nkuA8Q7.png) Each projects gets 3.06E! 
 
-2. mtitus6 release [the EVM Resume dashboard v2](https://dune.com/mtitus6/EVMavericks-Resume)   
+2. roar-y revamps [DAO EVMavreciks Site](https://dao.evmavericks.xyz/) highlighting EVM milestones and current activity
 
-3. Jerome de Tychey and his team released [a free discord bot that let you explore other user's NFT](https://boiler.gg/) 
+3. mtitus6 shares [this useful site](https://payload.de/data/) for those with validators 
 
-4. coco shares yet another [crypto song 🔥](https://twitter.com/cocothecorncob/status/1669341697363304448?s=46&t=1aFoxtRR7lwj_gcLIaj7cA)
-
-5. [Ethfinance Weekly Doots #22 with our guest Kevin Owocki](https://www.youtube.com/watch?v=difDTKT_S5A&ab_channel=EVMavericks-Ethfinance)
+4. [Ethfinance Weekly Doots #23 with our guest  Pablo Villalba from Diva Labs](https://www.youtube.com/watch?v=7a_aZ095wJU&ab_channel=EVMavericks-Ethfinance)
 
 Security reminder: [here's a few guides](https://i.imgur.com/a/DSvQrXs.png)
 
 Additionally, if you are in EVMavericks discord, we have a security channel. You can literally mute everything else but that channel and only get notifications from there.
+
 
 ---
                                               
