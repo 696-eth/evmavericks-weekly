@@ -65,7 +65,7 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
                                             
 🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. Buidlathon projects were presetend, judged on aaaaand... we have ended up with [a 3 way tie!](https://i.imgur.com/nkuA8Q7.png) Each projects gets 3.06E! 
+1. Buidlathon projects were presented, judged on aaaaand... we have ended up with [a 3 way tie!](https://i.imgur.com/nkuA8Q7.png) Each projects gets 3.06E! 
 
 2. roar-y revamps [DAO EVMavreciks Site](https://dao.evmavericks.xyz/) highlighting EVM milestones and current activity
 
