@@ -21,7 +21,7 @@ Last updated: 7/3/2023*
                                             
 🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. Lots of EVMavericks are eligilbe for Diva airdrop from their ethereum & staking activity. The drop happened last week. 
+1. Lots of EVMavericks are eligible for Diva airdrop from their ethereum & staking activity. The drop happened last week. 
 
 2. [Dray11 launches a small project to raise money for charity, an NFT collection on Polygon where all proceeds from the mint and any royalties will all go to charities voted on entirely by the holders, more details here if anyone is interested in being a part of it (mint date 10- July)](https://twitter.com/DuckxPop/status/1674048123243560960?t=cM9aYYKyLCR7N4k3WIyAeQ&s=19)
 
@@ -39,7 +39,7 @@ Last updated: 7/3/2023*
 
 9. rz breaks down how betonchain works in this [twitter thread](https://twitter.com/Betonchaingg/status/1674834749012180992)
 
-10. whatthefuck.eth continues leading the Chad Fund and does a tempretaure check on the discord.
+10. whatthefuck.eth continues leading the Chad Fund and does a temperature check on the discord.
 
 Reminder for ethfinance folks that we have a daily-discussion channel in the discord. There's also a kbin server.
 
