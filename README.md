@@ -11,27 +11,42 @@ alt="Lion" width="640" height="240" border=10" />
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
 
-Last updated: 6/26/2023*
+Last updated: 7/3/2023*
                                         
-### EVMavericks Weekly #24: June 19-25, 2023
+### EVMavericks Weekly #24: June 26-July 2, 2023
                                               
-[Twitter Thread](https://twitter.com/696_eth/status/1673373656993628160) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/14j7oa4/daily_general_discussion_june_26_2023/jplxwc5/)
+[Twitter Thread]() | [Reddit Post]()
                                               
-![](https://i.imgur.com/OuHD9ib.png)
+![](https://i.imgur.com/txytAC4.png)
                                             
 🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. Buidlathon projects were presetend, judged on aaaaand... we have ended up with [a 3 way tie!](https://i.imgur.com/nkuA8Q7.png) Each projects gets 3.06E! 
+1. Lots of EVMavericks are eligilbe for Diva airdrop from their ethereum & staking activity. The drop happened last week. 
 
-2. roar-y revamps [DAO EVMavreciks Site](https://dao.evmavericks.xyz/) highlighting EVM milestones and current activity
+2. [Dray11 launches a small project to raise money for charity, an NFT collection on Polygon where all proceeds from the mint and any royalties will all go to charities voted on entirely by the holders, more details here if anyone is interested in being a part of it (mint date 10- July)](https://twitter.com/DuckxPop/status/1674048123243560960?t=cM9aYYKyLCR7N4k3WIyAeQ&s=19)
 
-3. mtitus6 shares [this useful site](https://payload.de/data/) for those with validators 
+3. mtitus6 continues improving [EVMavericks Resume Dashboard](https://dune.com/mtitus6/EVMavericks-Resume) 
 
-4. [Ethfinance Weekly Doots #23 with our guest  Pablo Villalba from Diva Labs](https://www.youtube.com/watch?v=7a_aZ095wJU&ab_channel=EVMavericks-Ethfinance)
+4. TheBenMeadows starts his [ABC foundation for artists](https://twitter.com/TheBenMeadows/status/1674177946343575552). 
+
+5. Lots of minted BANG! by Cyber Sea as we ended up getting AL spots through doomfuzz's magic.
+
+6. Dondo shares a link to [a decentralized AI hackathon in Paris](https://www.augmenthack.xyz/)
+
+7. Etheraider shares with us about [wonder dynamics](https://app.wonderdynamics.com/)
+
+8. [Ethfinance Weekly Doots #25 with our guest Gravning Amundsenfrom from Firn Protocol](https://www.youtube.com/watch?v=Z0Jyor_MyFk&ab_channel=EVMavericks-Ethfinance)
+
+9. rz breaks down how betonchain works in this [twitter thread](https://twitter.com/Betonchaingg/status/1674834749012180992)
+
+10. whatthefuck.eth continues leading the Chad Fund and does a tempretaure check on the discord.
+
+Reminder for ethfinance folks that we have a daily-discussion channel in the discord. There's also a kbin server.
 
 Security reminder: [here's a few guides](https://i.imgur.com/a/DSvQrXs.png)
 
 Additionally, if you are in EVMavericks discord, we have a security channel. You can literally mute everything else but that channel and only get notifications from there.
+
 
 
 ---
