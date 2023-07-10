@@ -15,7 +15,7 @@ Last updated: 7/10/2023*
                                         
 ### EVMavericks Weekly #26: July 3-9, 2023
                                               
-[Twitter Thread]() | [Reddit Post]()
+[Twitter Thread](https://twitter.com/696_eth/status/1678476687699501056) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/14vk91l/daily_general_discussion_july_10_2023/jrfrati/)
                                               
 ![](https://i.imgur.com/TogwHIb.png)
                                             
