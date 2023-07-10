@@ -27,7 +27,7 @@ Last updated: 7/10/2023*
 
 3. hanniabu shares that they [found caches.xyz by jbm on the hackers news](https://news.ycombinator.com/item?id=36649320)
 
-4. [Ethfinance Weekly Doots #25 with our guest Frisson from Tally.xyz](https://www.youtube.com/watch?v=twRs1bpsAc8&ab_channel=EVMavericks-Ethfinance)
+4. [Ethfinance Weekly Doots #26 with our guest Frisson from Tally.xyz](https://www.youtube.com/watch?v=twRs1bpsAc8&ab_channel=EVMavericks-Ethfinance)
 
 Reminder for ethfinance folks that we have a daily-discussion channel in the discord. There's also a kbin server.
 
