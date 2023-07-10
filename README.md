@@ -12,7 +12,7 @@ alt="Lion" width="640" height="240" border=10" />
                                       
 [Site](https://dao.evmavericks.xyz) | [Discord](https://discord.gg/evmavericks) | [Lionpaper](https://mirror.xyz/0xCF68C873D6925F30FFF58E2BdF2D8DA4c9c6f0Be/61meL896f1tgAIwpEyK8UR4OR9eP_igPGKZO5WneN8M) | [Treasury](https://etherscan.io/address/0x29816f59f1c7e1ba69289cf486556929f7743ca2) | [Youtube](https://www.youtube.com/@evmavericks) | [Twitter](https://twitter.com/EVMavericks)
                                               
-[Weekly Ethfinance Doots Roundup #22](https://www.youtube.com/watch?v=VZRR5gN17Nk&ab_channel=EVMavericks-Ethfinance) | [r/ETHFinance](https://www.reddit.com/r/ethfinance/) | [Members' Projects + Daily Doots](https://dailydoots.com/#projects)
+[Weekly Ethfinance Doots Roundup #26](https://www.youtube.com/watch?v=twRs1bpsAc8&ab_channel=EVMavericks-Ethfinance) | [r/ETHFinance](https://www.reddit.com/r/ethfinance/) | [Members' Projects + Daily Doots](https://dailydoots.com/#projects)
                                                                                   
                                               
 ## EVMavericks Weekly Updates every Monday!
