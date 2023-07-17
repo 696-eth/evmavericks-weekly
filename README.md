@@ -11,23 +11,23 @@ alt="Lion" width="640" height="240" border=10" />
 ## EVMavericks Weekly Updates every Monday!
 [Homepage](https://evmavericks-weekly.netlify.app)
 
-Last updated: 7/10/2023*
+Last updated: 7/17/2023*
                                         
-### EVMavericks Weekly #26: July 3-9, 2023
+### EVMavericks Weekly #27: July 10-16, 2023
                                               
-[Twitter Thread](https://twitter.com/696_eth/status/1678476687699501056) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/14vk91l/daily_general_discussion_july_10_2023/jrfrati/)
+[Twitter Thread](https://twitter.com/696_eth/status/1680973537685954561) | [Reddit post](https://www.reddit.com/r/ethfinance/comments/151s5nw/daily_general_discussion_july_17_2023/jsc2wqt/)
                                               
-![](https://i.imgur.com/TogwHIb.png)
+![](https://i.imgur.com/8ZibozD.png)
                                             
 🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. [Duck x Pop mint is now live!](https://twitter.com/DuckxPop/status/1678316521418784770)
+1. [ETHbenezer shares their experience attending a local town townhall to ask questions about crypto](https://twitter.com/ETHbenezer/status/1678619415359934465)
 
-2. Lots of talk and internal votes on a variety of topics: decentralized social media, chad fund, treasury funds (EVMs).
+2. [Doomfuzz is dropping the The 1st fully on-chain generative art collection on zksync on July 20th](https://twitter.com/doomfuzz_eth/status/1679942792275976195?s=20)
 
-3. hanniabu shares that they [found caches.xyz by jbm on the hackers news](https://news.ycombinator.com/item?id=36649320)
+3. [Ethfinance Weekly Doots #27, led by our one and only host - JT](https://www.youtube.com/watch?v=pvPp5ii6wmI&ab_channel=EVMavericks-Ethfinance)
 
-4. [Ethfinance Weekly Doots #26 with our guest Frisson from Tally.xyz](https://www.youtube.com/watch?v=twRs1bpsAc8&ab_channel=EVMavericks-Ethfinance)
+4. The degen chat has been going strong but other than that the discord has been pretty chill.
 
 Reminder for ethfinance folks that we have a daily-discussion channel in the discord. There's also a kbin server.
 
