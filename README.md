@@ -12,7 +12,7 @@ Last updated: 7/31/2023*
                                             
 ### EVMavericks Weekly #30: July 31-August 6, 2023
                                                 
-[Twitter Thread]() | [Reddit](
+[Twitter Thread](https://twitter.com/696_eth/status/1688653567949975552) | [Reddit](https://www.reddit.com/r/ethfinance/comments/15kauxp/daily_general_discussion_august_7_2023/jv7kcnn/)
                                                 
 ![](https://i.imgur.com/Xooirmf.png)
                                                 
@@ -20,9 +20,9 @@ Last updated: 7/31/2023*
 
 1. [whatthefuck.eth shares their first art creation that they have submitted](https://twitter.com/wtfcreations/status/1688159350580297728)
 
-2. Some conductor talk, some staking talk 😂
+2. Some conductor talk, some staking talk.
 
-2. [Ethfinance Weekly Doots #29](https://www.youtube.com/watch?v=O2TeqSNl3s4&ab_channel=EVMavericks-Ethfinance)
+3. [Ethfinance Weekly Doots #29](https://www.youtube.com/watch?v=O2TeqSNl3s4&ab_channel=EVMavericks-Ethfinance)
 
 *  Reminder for ethfinance folks that we have a daily-discussion channel in the discord. There's also a kbin server.
 
