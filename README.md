@@ -27,6 +27,7 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
 
 | Previous Weeks |   |
 |--------------|---|
+[Week #30 - July 31-6 August, 2023](https://week30--evmavericks-weekly.netlify.app)| 
 [Week #29 - July 24-30, 2023](https://week29--evmavericks-weekly.netlify.app)| 
 [Week #28 - July 17-23, 2023](https://week28--evmavericks-weekly.netlify.app)| 
 [Week #27 - July 10-16, 2023](https://week27--evmavericks-weekly.netlify.app)| 
@@ -64,31 +65,25 @@ Curated and maintained by **[696.eth](https://twitter.com/696_eth)** | Website b
                                                                                 
 Last updated: 7/31/2023*
                                             
-### EVMavericks Weekly #29: July 24-30, 2023
+### EVMavericks Weekly #30: July 31-August 6, 2023
                                                 
-[Twitter Thread](https://twitter.com/696_eth/status/1686091643638960128) | [Reddit](https://www.reddit.com/r/ethfinance/comments/15e6kzl/daily_general_discussion_july_31_2023/ju8ohqp/)
+[Twitter Thread](https://twitter.com/696_eth/status/1688653567949975552) | [Reddit](https://www.reddit.com/r/ethfinance/comments/15kauxp/daily_general_discussion_august_7_2023/jv7kcnn/)
                                                 
-![](https://i.imgur.com/1mj0wbk.png)
+![](https://i.imgur.com/Xooirmf.png)
                                                 
 🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
 
-1. [Interweaver gives a security heads up to solo stakers that are using the cloud](https://i.imgur.com/hrUAUjg.png)
+1. [whatthefuck.eth shares their first art creation that they have submitted](https://twitter.com/wtfcreations/status/1688159350580297728)
 
-2. [Heeey starts another giveaway for their upcoming Artblocks's collection Bright](https://twitter.com/heeey_eth/status/1686046343725301777?s=20)
+2. Some conductor talk, some staking talk.
 
-3. [JT shares this banger - Regen Library Episode #2 - featuring LogrisTheBard](https://twitter.com/greenpillnet/status/1684698997296943104)
-
-4. [We are back with Ethfinance Weekly Doots #28, led by our one and only host - JT](https://www.youtube.com/watch?v=nO3cctyZV50&ab_channel=EVMavericks-Ethfinance)
-
-5. Lidont is still in the works.
-    
-6. Degen chat is chugging along!
+3. [Ethfinance Weekly Doots #29](https://www.youtube.com/watch?v=O2TeqSNl3s4&ab_channel=EVMavericks-Ethfinance)
 
 *  Reminder for ethfinance folks that we have a daily-discussion channel in the discord. There's also a kbin server.
 
 * Security reminder: [here's a few guides](https://i.imgur.com/a/DSvQrXs.png)
 
-* Additionally, if you are in EVMavericks discord, we hav
+* Additionally, if you are in EVMavericks discord, we have a security channel. You can literally mute everything else but that channel and only get notifications from there.
 
                                           
                                        
